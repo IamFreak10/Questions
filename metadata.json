@@ -1,0 +1,924 @@
+[
+  {
+    "code": "CSE-3201",
+    "name": "Mathematical Analysis for Computer Science",
+    "credits": 3.0,
+    "dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+    "questions": [
+      {
+        "id": "853",
+        "session": "2021-2022",
+        "exam_type": "Final",
+        "teacher": "N/A",
+        "exam_date": "July 28, 2026",
+        "category": "Final",
+        "canonical_name": "2021-2022_Final",
+        "files": [
+          "Final/2021-2022_Final.pdf"
+        ]
+      },
+      {
+        "id": "851",
+        "session": "2021-2022",
+        "exam_type": "1st Mid",
+        "teacher": "Ahsanul haque",
+        "exam_date": "July 22, 2026",
+        "category": "Midterm",
+        "canonical_name": "2021-2022_1st_Mid_Ahsanul_haque",
+        "files": [
+          "Midterm/2021-2022_1st_Mid_Ahsanul_haque.pdf"
+        ]
+      },
+      {
+        "id": "743",
+        "session": "2020-2021",
+        "exam_type": "Final",
+        "teacher": "Ahsanul Hauqe",
+        "exam_date": "Nov. 17, 2025",
+        "category": "Final",
+        "canonical_name": "2020-2021_Final_Ahsanul_Hauqe",
+        "files": [
+          "Final/2020-2021_Final_Ahsanul_Hauqe.pdf",
+          "Final/2020-2021_Final_Ahsanul_Hauqe.md"
+        ]
+      },
+      {
+        "id": "707",
+        "session": "2020-2021",
+        "exam_type": "1st Mid",
+        "teacher": "Ahsanul Haque",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2020-2021_1st_Mid_Ahsanul_Haque",
+        "files": [
+          "Midterm/2020-2021_1st_Mid_Ahsanul_Haque.pdf",
+          "Midterm/2020-2021_1st_Mid_Ahsanul_Haque.md"
+        ]
+      },
+      {
+        "id": "476",
+        "session": "2019-2020",
+        "exam_type": "Final",
+        "teacher": "Md. Erfan",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2019-2020_Final_Md_Erfan",
+        "files": [
+          "Final/2019-2020_Final_Md_Erfan.pdf",
+          "Final/2019-2020_Final_Md_Erfan.md"
+        ]
+      },
+      {
+        "id": "194",
+        "session": "2018-2019",
+        "exam_type": "Final",
+        "teacher": "Md. Erfan",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2018-2019_Final_Md_Erfan",
+        "files": [
+          "Final/2018-2019_Final_Md_Erfan.pdf",
+          "Final/2018-2019_Final_Md_Erfan.md"
+        ]
+      },
+      {
+        "id": "193",
+        "session": "2017-2018",
+        "exam_type": "Final",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2017-2018_Final",
+        "files": [
+          "Final/2017-2018_Final.pdf"
+        ]
+      },
+      {
+        "id": "192",
+        "session": "2016-2017",
+        "exam_type": "Final",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2016-2017_Final",
+        "files": [
+          "Final/2016-2017_Final.pdf"
+        ]
+      },
+      {
+        "id": "191",
+        "session": "2018-2019",
+        "exam_type": "2nd Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2018-2019_2nd_Mid",
+        "files": [
+          "Midterm/2018-2019_2nd_Mid.pdf"
+        ]
+      },
+      {
+        "id": "190",
+        "session": "2017-2018",
+        "exam_type": "2nd Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2017-2018_2nd_Mid",
+        "files": [
+          "Midterm/2017-2018_2nd_Mid.pdf"
+        ]
+      },
+      {
+        "id": "189",
+        "session": "2019-2020",
+        "exam_type": "1st Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2019-2020_1st_Mid",
+        "files": [
+          "Midterm/2019-2020_1st_Mid.pdf"
+        ]
+      },
+      {
+        "id": "188",
+        "session": "2018-2019",
+        "exam_type": "1st Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2018-2019_1st_Mid",
+        "files": [
+          "Midterm/2018-2019_1st_Mid.pdf"
+        ]
+      },
+      {
+        "id": "187",
+        "session": "2017-2018",
+        "exam_type": "1st Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2017-2018_1st_Mid",
+        "files": [
+          "Midterm/2017-2018_1st_Mid.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "CSE-3203",
+    "name": "Theory of Computation",
+    "credits": 3.0,
+    "dir": "02_CSE-3203_Theory_of_Computation",
+    "questions": [
+      {
+        "id": "865",
+        "session": "2021-2022",
+        "exam_type": "Final",
+        "teacher": "Dr. Md Manjur Ahmed",
+        "exam_date": "Aug. 4, 2026",
+        "category": "Final",
+        "canonical_name": "2021-2022_Final_Dr_Md_Manjur_Ahmed",
+        "files": [
+          "Final/2021-2022_Final_Dr_Md_Manjur_Ahmed.pdf"
+        ]
+      },
+      {
+        "id": "832",
+        "session": "2021-2022",
+        "exam_type": "1st Mid",
+        "teacher": "Dr. Md Manjur Ahmed",
+        "exam_date": "June 16, 2026",
+        "category": "Midterm",
+        "canonical_name": "2021-2022_1st_Mid_Dr_Md_Manjur_Ahmed",
+        "files": [
+          "Midterm/2021-2022_1st_Mid_Dr_Md_Manjur_Ahmed.pdf"
+        ]
+      },
+      {
+        "id": "754",
+        "session": "2020-2021",
+        "exam_type": "Final",
+        "teacher": "Dr. Md Manjur Ahmed",
+        "exam_date": "Nov. 23, 2025",
+        "category": "Final",
+        "canonical_name": "2020-2021_Final_Dr_Md_Manjur_Ahmed",
+        "files": [
+          "Final/2020-2021_Final_Dr_Md_Manjur_Ahmed.pdf"
+        ]
+      },
+      {
+        "id": "708",
+        "session": "2020-2021",
+        "exam_type": "1st Mid",
+        "teacher": "Dr. Md Manjur Ahmed",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2020-2021_1st_Mid_Dr_Md_Manjur_Ahmed",
+        "files": [
+          "Midterm/2020-2021_1st_Mid_Dr_Md_Manjur_Ahmed.pdf",
+          "Midterm/2020-2021_1st_Mid_Dr_Md_Manjur_Ahmed.md"
+        ]
+      },
+      {
+        "id": "484",
+        "session": "2019-2020",
+        "exam_type": "Final",
+        "teacher": "Dr. Md Manjur Ahmed",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2019-2020_Final_Dr_Md_Manjur_Ahmed",
+        "files": [
+          "Final/2019-2020_Final_Dr_Md_Manjur_Ahmed.pdf",
+          "Final/2019-2020_Final_Dr_Md_Manjur_Ahmed.md"
+        ]
+      },
+      {
+        "id": "475",
+        "session": "2019-2020",
+        "exam_type": "2nd Mid",
+        "teacher": "Dr. Md Manjur Ahmed",
+        "exam_date": "Oct. 8, 2025",
+        "category": "Midterm",
+        "canonical_name": "2019-2020_2nd_Mid_Dr_Md_Manjur_Ahmed",
+        "files": [
+          "Midterm/2019-2020_2nd_Mid_Dr_Md_Manjur_Ahmed.pdf",
+          "Midterm/2019-2020_2nd_Mid_Dr_Md_Manjur_Ahmed.md"
+        ]
+      },
+      {
+        "id": "200",
+        "session": "2018-2019",
+        "exam_type": "Final",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2018-2019_Final",
+        "files": [
+          "Final/2018-2019_Final.pdf",
+          "Final/2018-2019_Final.md"
+        ]
+      },
+      {
+        "id": "199",
+        "session": "2017-2018",
+        "exam_type": "Final",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2017-2018_Final",
+        "files": [
+          "Final/2017-2018_Final.pdf",
+          "Final/2017-2018_Final.md"
+        ]
+      },
+      {
+        "id": "198",
+        "session": "2016-2017",
+        "exam_type": "Final",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2016-2017_Final",
+        "files": [
+          "Final/2016-2017_Final.pdf",
+          "Final/2016-2017_Final.md"
+        ]
+      },
+      {
+        "id": "197",
+        "session": "2019-2020",
+        "exam_type": "1st Mid",
+        "teacher": "Dr. Md Manjur Ahmed",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2019-2020_1st_Mid_Dr_Md_Manjur_Ahmed",
+        "files": [
+          "Midterm/2019-2020_1st_Mid_Dr_Md_Manjur_Ahmed.pdf",
+          "Midterm/2019-2020_1st_Mid_Dr_Md_Manjur_Ahmed.md"
+        ]
+      },
+      {
+        "id": "196",
+        "session": "2018-2019",
+        "exam_type": "1st Mid",
+        "teacher": "Dr. Md. Manjur Ahmed",
+        "exam_date": "July 24, 2023",
+        "category": "Midterm",
+        "canonical_name": "2018-2019_1st_Mid_Dr_Md_Manjur_Ahmed",
+        "files": [
+          "Midterm/2018-2019_1st_Mid_Dr_Md_Manjur_Ahmed.pdf",
+          "Midterm/2018-2019_1st_Mid_Dr_Md_Manjur_Ahmed.md"
+        ]
+      },
+      {
+        "id": "195",
+        "session": "2017-2018",
+        "exam_type": "1st Mid",
+        "teacher": "N/A",
+        "exam_date": "Oct. 30, 2022",
+        "category": "Midterm",
+        "canonical_name": "2017-2018_1st_Mid",
+        "files": [
+          "Midterm/2017-2018_1st_Mid.pdf",
+          "Midterm/2017-2018_1st_Mid.md"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "CSE-3205",
+    "name": "Artificial Intelligence",
+    "credits": 3.0,
+    "dir": "03_CSE-3205_Artificial_Intelligence",
+    "questions": [
+      {
+        "id": "871",
+        "session": "2021-2022",
+        "exam_type": "Final",
+        "teacher": "Dr. Tania Islam",
+        "exam_date": "Aug. 11, 2026",
+        "category": "Final",
+        "canonical_name": "2021-2022_Final_Dr_Tania_Islam",
+        "files": [
+          "Final/2021-2022_Final_Dr_Tania_Islam.pdf"
+        ]
+      },
+      {
+        "id": "815",
+        "session": "Undated",
+        "exam_type": "None (None)",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "General",
+        "canonical_name": "Undated_Artificial_Intelligence_Q815",
+        "files": [
+          "General/Undated_Artificial_Intelligence_Q815.pdf"
+        ]
+      },
+      {
+        "id": "763",
+        "session": "Undated",
+        "exam_type": "None (None)",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "General",
+        "canonical_name": "Undated_Artificial_Intelligence_Q763",
+        "files": [
+          "General/Undated_Artificial_Intelligence_Q763.pdf"
+        ]
+      },
+      {
+        "id": "709",
+        "session": "2020-2021",
+        "exam_type": "1st Mid",
+        "teacher": "Dr. Tania Islam",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2020-2021_1st_Mid_Dr_Tania_Islam",
+        "files": [
+          "Midterm/2020-2021_1st_Mid_Dr_Tania_Islam.pdf",
+          "Midterm/2020-2021_1st_Mid_Dr_Tania_Islam.md"
+        ]
+      },
+      {
+        "id": "704",
+        "session": "2020-2021",
+        "exam_type": "2nd Mid",
+        "teacher": "Dr. Tania Islam",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2020-2021_2nd_Mid_Dr_Tania_Islam",
+        "files": [
+          "Midterm/2020-2021_2nd_Mid_Dr_Tania_Islam.pdf",
+          "Midterm/2020-2021_2nd_Mid_Dr_Tania_Islam.md"
+        ]
+      },
+      {
+        "id": "495",
+        "session": "2019-2020",
+        "exam_type": "Final",
+        "teacher": "Dr. Tania Islam",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2019-2020_Final_Dr_Tania_Islam",
+        "files": [
+          "Final/2019-2020_Final_Dr_Tania_Islam.pdf",
+          "Final/2019-2020_Final_Dr_Tania_Islam.md"
+        ]
+      },
+      {
+        "id": "207",
+        "session": "2018-2019",
+        "exam_type": "Final",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2018-2019_Final",
+        "files": [
+          "Final/2018-2019_Final.pdf",
+          "Final/2018-2019_Final.md"
+        ]
+      },
+      {
+        "id": "206",
+        "session": "2017-2018",
+        "exam_type": "Final",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2017-2018_Final",
+        "files": [
+          "Final/2017-2018_Final.pdf"
+        ]
+      },
+      {
+        "id": "205",
+        "session": "2016-2017",
+        "exam_type": "Final",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2016-2017_Final",
+        "files": [
+          "Final/2016-2017_Final.pdf"
+        ]
+      },
+      {
+        "id": "204",
+        "session": "2018-2019",
+        "exam_type": "2nd Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2018-2019_2nd_Mid",
+        "files": [
+          "Midterm/2018-2019_2nd_Mid.pdf"
+        ]
+      },
+      {
+        "id": "203",
+        "session": "2019-2020",
+        "exam_type": "1st Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2019-2020_1st_Mid",
+        "files": [
+          "Midterm/2019-2020_1st_Mid.pdf"
+        ]
+      },
+      {
+        "id": "202",
+        "session": "2018-2019",
+        "exam_type": "1st Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2018-2019_1st_Mid",
+        "files": [
+          "Midterm/2018-2019_1st_Mid.pdf"
+        ]
+      },
+      {
+        "id": "201",
+        "session": "2017-2018",
+        "exam_type": "1st Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2017-2018_1st_Mid",
+        "files": [
+          "Midterm/2017-2018_1st_Mid.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "CSE-3206",
+    "name": "Artificial Intelligence Lab",
+    "credits": 1.5,
+    "dir": "04_CSE-3206_Artificial_Intelligence_Lab",
+    "questions": [
+      {
+        "id": "468",
+        "session": "2019-2020",
+        "exam_type": "Lab Final",
+        "teacher": "Dr. Tania Islam",
+        "exam_date": "Sept. 30, 2024",
+        "category": "Lab_Exam",
+        "canonical_name": "2019-2020_Lab_Final_Dr_Tania_Islam",
+        "files": [
+          "Lab_Exam/2019-2020_Lab_Final_Dr_Tania_Islam.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "CSE-3207",
+    "name": "Peripherals and Interfacing",
+    "credits": 3.0,
+    "dir": "05_CSE-3207_Peripherals_and_Interfacing",
+    "questions": [
+      {
+        "id": "885",
+        "session": "2021-2022",
+        "exam_type": "Final",
+        "teacher": "Dr. Tania Islam",
+        "exam_date": "Aug. 24, 2026",
+        "category": "Final",
+        "canonical_name": "2021-2022_Final_Dr_Tania_Islam",
+        "files": [
+          "Final/2021-2022_Final_Dr_Tania_Islam.pdf"
+        ]
+      },
+      {
+        "id": "818",
+        "session": "2021-2022",
+        "exam_type": "1st Mid",
+        "teacher": "Dr. Tania Islam",
+        "exam_date": "March 4, 2026",
+        "category": "Midterm",
+        "canonical_name": "2021-2022_1st_Mid_Dr_Tania_Islam",
+        "files": [
+          "Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf",
+          "Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.md"
+        ]
+      },
+      {
+        "id": "769",
+        "session": "2020-2021",
+        "exam_type": "Final",
+        "teacher": "Dr. Tania Islam",
+        "exam_date": "Dec. 3, 2025",
+        "category": "Final",
+        "canonical_name": "2020-2021_Final_Dr_Tania_Islam",
+        "files": [
+          "Final/2020-2021_Final_Dr_Tania_Islam.pdf",
+          "Final/2020-2021_Final_Dr_Tania_Islam.md"
+        ]
+      },
+      {
+        "id": "717",
+        "session": "2020-2021",
+        "exam_type": "2nd Mid",
+        "teacher": "Dr. Tania Islam",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2020-2021_2nd_Mid_Dr_Tania_Islam",
+        "files": [
+          "Midterm/2020-2021_2nd_Mid_Dr_Tania_Islam.pdf",
+          "Midterm/2020-2021_2nd_Mid_Dr_Tania_Islam.md"
+        ]
+      },
+      {
+        "id": "716",
+        "session": "2020-2021",
+        "exam_type": "1st Mid",
+        "teacher": "Dr. Tania Islam",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2020-2021_1st_Mid_Dr_Tania_Islam",
+        "files": [
+          "Midterm/2020-2021_1st_Mid_Dr_Tania_Islam.pdf",
+          "Midterm/2020-2021_1st_Mid_Dr_Tania_Islam.md"
+        ]
+      },
+      {
+        "id": "486",
+        "session": "2019-2020",
+        "exam_type": "Final",
+        "teacher": "Dr. Tania Islam",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2019-2020_Final_Dr_Tania_Islam",
+        "files": [
+          "Final/2019-2020_Final_Dr_Tania_Islam.pdf",
+          "Final/2019-2020_Final_Dr_Tania_Islam.md"
+        ]
+      },
+      {
+        "id": "213",
+        "session": "2018-2019",
+        "exam_type": "Final",
+        "teacher": "Dr. Tania Islam",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2018-2019_Final_Dr_Tania_Islam",
+        "files": [
+          "Final/2018-2019_Final_Dr_Tania_Islam.pdf",
+          "Final/2018-2019_Final_Dr_Tania_Islam.md"
+        ]
+      },
+      {
+        "id": "212",
+        "session": "2017-2018",
+        "exam_type": "Final",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2017-2018_Final",
+        "files": [
+          "Final/2017-2018_Final.pdf",
+          "Final/2017-2018_Final.md"
+        ]
+      },
+      {
+        "id": "211",
+        "session": "2016-2017",
+        "exam_type": "Final",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2016-2017_Final",
+        "files": [
+          "Final/2016-2017_Final.pdf",
+          "Final/2016-2017_Final.md"
+        ]
+      },
+      {
+        "id": "210",
+        "session": "2018-2019",
+        "exam_type": "2nd Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2018-2019_2nd_Mid",
+        "files": [
+          "Midterm/2018-2019_2nd_Mid.pdf"
+        ]
+      },
+      {
+        "id": "209",
+        "session": "2019-2020",
+        "exam_type": "1st Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2019-2020_1st_Mid",
+        "files": [
+          "Midterm/2019-2020_1st_Mid.pdf"
+        ]
+      },
+      {
+        "id": "208",
+        "session": "2018-2019",
+        "exam_type": "1st Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2018-2019_1st_Mid",
+        "files": [
+          "Midterm/2018-2019_1st_Mid.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "CSE-3208",
+    "name": "Peripherals and Interfacing Lab",
+    "credits": 1.5,
+    "dir": "06_CSE-3208_Peripherals_and_Interfacing_Lab",
+    "questions": []
+  },
+  {
+    "code": "CSE-3209",
+    "name": "Simulation and Modeling",
+    "credits": 3.0,
+    "dir": "07_CSE-3209_Simulation_and_Modeling",
+    "questions": [
+      {
+        "id": "881",
+        "session": "2021-2022",
+        "exam_type": "Final",
+        "teacher": "Dr. Rahat Hossain Faisal",
+        "exam_date": "Aug. 18, 2026",
+        "category": "Final",
+        "canonical_name": "2021-2022_Final_Dr_Rahat_Hossain_Faisal",
+        "files": [
+          "Final/2021-2022_Final_Dr_Rahat_Hossain_Faisal.pdf"
+        ]
+      },
+      {
+        "id": "880",
+        "session": "2021-2022",
+        "exam_type": "1st Mid",
+        "teacher": "Dr. Rahat Hossain Faisal",
+        "exam_date": "Aug. 18, 2026",
+        "category": "Midterm",
+        "canonical_name": "2021-2022_1st_Mid_Dr_Rahat_Hossain_Faisal",
+        "files": [
+          "Midterm/2021-2022_1st_Mid_Dr_Rahat_Hossain_Faisal.pdf"
+        ]
+      },
+      {
+        "id": "774",
+        "session": "2020-2021",
+        "exam_type": "Final",
+        "teacher": "Dr. Rahat Hossain Faisal",
+        "exam_date": "Dec. 9, 2025",
+        "category": "Final",
+        "canonical_name": "2020-2021_Final_Dr_Rahat_Hossain_Faisal",
+        "files": [
+          "Final/2020-2021_Final_Dr_Rahat_Hossain_Faisal.pdf",
+          "Final/2020-2021_Final_Dr_Rahat_Hossain_Faisal.md"
+        ]
+      },
+      {
+        "id": "727",
+        "session": "2020-2021",
+        "exam_type": "2nd Mid",
+        "teacher": "Dr. Rahat Hossain Faisal",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2020-2021_2nd_Mid_Dr_Rahat_Hossain_Faisal",
+        "files": [
+          "Midterm/2020-2021_2nd_Mid_Dr_Rahat_Hossain_Faisal.pdf",
+          "Midterm/2020-2021_2nd_Mid_Dr_Rahat_Hossain_Faisal.md"
+        ]
+      },
+      {
+        "id": "726",
+        "session": "2020-2021",
+        "exam_type": "1st Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2020-2021_1st_Mid",
+        "files": [
+          "Midterm/2020-2021_1st_Mid.pdf",
+          "Midterm/2020-2021_1st_Mid.md"
+        ]
+      },
+      {
+        "id": "493",
+        "session": "2019-2020",
+        "exam_type": "Final",
+        "teacher": "Dr. Rahat Hossain Faisal",
+        "exam_date": "Nov. 10, 2024",
+        "category": "Final",
+        "canonical_name": "2019-2020_Final_Dr_Rahat_Hossain_Faisal",
+        "files": [
+          "Final/2019-2020_Final_Dr_Rahat_Hossain_Faisal.pdf",
+          "Final/2019-2020_Final_Dr_Rahat_Hossain_Faisal.md"
+        ]
+      },
+      {
+        "id": "490",
+        "session": "2019-2020",
+        "exam_type": "1st Mid",
+        "teacher": "Dr. Rahat Hossain Faisal",
+        "exam_date": "Nov. 1, 2024",
+        "category": "Midterm",
+        "canonical_name": "2019-2020_1st_Mid_Dr_Rahat_Hossain_Faisal",
+        "files": [
+          "Midterm/2019-2020_1st_Mid_Dr_Rahat_Hossain_Faisal.pdf",
+          "Midterm/2019-2020_1st_Mid_Dr_Rahat_Hossain_Faisal.md"
+        ]
+      },
+      {
+        "id": "266",
+        "session": "2018-2019",
+        "exam_type": "Final",
+        "teacher": "Dr. Rahat Hossain Faisal",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2018-2019_Final_Dr_Rahat_Hossain_Faisal",
+        "files": [
+          "Final/2018-2019_Final_Dr_Rahat_Hossain_Faisal.pdf",
+          "Final/2018-2019_Final_Dr_Rahat_Hossain_Faisal.md"
+        ]
+      },
+      {
+        "id": "265",
+        "session": "2017-2018",
+        "exam_type": "Final",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2017-2018_Final",
+        "files": [
+          "Final/2017-2018_Final.pdf",
+          "Final/2017-2018_Final.md"
+        ]
+      },
+      {
+        "id": "264",
+        "session": "2016-2017",
+        "exam_type": "Final",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Final",
+        "canonical_name": "2016-2017_Final",
+        "files": [
+          "Final/2016-2017_Final.pdf",
+          "Final/2016-2017_Final.md"
+        ]
+      },
+      {
+        "id": "263",
+        "session": "2018-2019",
+        "exam_type": "1st Mid",
+        "teacher": "Dr. Rahat Hossain Faisal",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2018-2019_1st_Mid_Dr_Rahat_Hossain_Faisal",
+        "files": [
+          "Midterm/2018-2019_1st_Mid_Dr_Rahat_Hossain_Faisal.pdf"
+        ]
+      },
+      {
+        "id": "262",
+        "session": "2017-2018",
+        "exam_type": "1st Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2017-2018_1st_Mid_SetB",
+        "files": [
+          "Midterm/2017-2018_1st_Mid_SetB.pdf"
+        ]
+      },
+      {
+        "id": "261",
+        "session": "2017-2018",
+        "exam_type": "1st Mid",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Midterm",
+        "canonical_name": "2017-2018_1st_Mid_SetA",
+        "files": [
+          "Midterm/2017-2018_1st_Mid_SetA.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "CSE-3210",
+    "name": "Simulation and Modeling Lab",
+    "credits": 0.75,
+    "dir": "08_CSE-3210_Simulation_and_Modeling_Lab",
+    "questions": [
+      {
+        "id": "435",
+        "session": "2019-2020",
+        "exam_type": "Lab Final",
+        "teacher": "N/A",
+        "exam_date": "N/A",
+        "category": "Lab_Exam",
+        "canonical_name": "2019-2020_Lab_Final",
+        "files": [
+          "Lab_Exam/2019-2020_Lab_Final.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "CSE-3212",
+    "name": "Mobile Application Development Lab",
+    "credits": 1.5,
+    "dir": "09_CSE-3212_Mobile_Application_Development_Lab",
+    "questions": [
+      {
+        "id": "911",
+        "session": "2021-2022",
+        "exam_type": "Lab Final",
+        "teacher": "Md.rahat",
+        "exam_date": "Sept. 24, 2026",
+        "category": "Lab_Exam",
+        "canonical_name": "2021-2022_Lab_Final_Md_rahat",
+        "files": [
+          "Lab_Exam/2021-2022_Lab_Final_Md_rahat.pdf"
+        ]
+      },
+      {
+        "id": "733",
+        "session": "2020-2021",
+        "exam_type": "Lab Final",
+        "teacher": "Dr. Rahat Hossain Faisal",
+        "exam_date": "March 1, 2025",
+        "category": "Lab_Exam",
+        "canonical_name": "2020-2021_Lab_Final_Dr_Rahat_Hossain_Faisal",
+        "files": [
+          "Lab_Exam/2020-2021_Lab_Final_Dr_Rahat_Hossain_Faisal.pdf",
+          "Lab_Exam/2020-2021_Lab_Final_Dr_Rahat_Hossain_Faisal.md"
+        ]
+      },
+      {
+        "id": "267",
+        "session": "2018-2019",
+        "exam_type": "Class Test",
+        "teacher": "Md. Erfan",
+        "exam_date": "N/A",
+        "category": "Class_Test",
+        "canonical_name": "2018-2019_Class_Test_Md_Erfan",
+        "files": [
+          "Class_Test/2018-2019_Class_Test_Md_Erfan.pdf",
+          "Class_Test/2018-2019_Class_Test_Md_Erfan.md"
+        ]
+      }
+    ]
+  }
+]

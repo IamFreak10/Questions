@@ -1,0 +1,19 @@
+# Sensitive & Private
+*cookie*
+*session*
+*.json
+!metadata.json
+
+# Operating System & Editors
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python & Temporary
+__pycache__/
+*.pyc
+*.tmp
+*.log
