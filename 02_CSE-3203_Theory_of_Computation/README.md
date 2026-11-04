@@ -1,7 +1,8 @@
 # CSE-3203 - Theory of Computation
 
 > **Department of Computer Science and Engineering, University of Barishal**  
-> **Level:** 6th Semester &bull; **Credits:** 3.0 &bull; **Total Exam Questions:** 12
+> **Level:** 6th Semester &bull; **Credits:** 3.0 &bull; **Total Exam Questions:** 12  
+> **Exam Prep:** 📘 [**1st Mid-Term Preparation Guide (Session 2022–2023)**](../Mid_Preparation_2022-2023/02_CSE-3203_Theory_of_Computation/README.md)
 
 ---
 

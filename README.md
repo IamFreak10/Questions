@@ -12,6 +12,17 @@ Every question paper includes a high-definition **PDF document** for offline rea
 
 ---
 
+## 🎯 Mid-Term Preparation Hub (Session 2022–2023)
+
+Detailed course-wise topic analysis, question patterns, marks allocation, and high-yield revision roadmaps are available in [**`Mid_Preparation_2022-2023/`**](Mid_Preparation_2022-2023/README.md):
+- 📘 [**CSE-3201: Mathematical Analysis**](Mid_Preparation_2022-2023/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/README.md)
+- 📘 [**CSE-3203: Theory of Computation**](Mid_Preparation_2022-2023/02_CSE-3203_Theory_of_Computation/README.md)
+- 📘 [**CSE-3205: Artificial Intelligence**](Mid_Preparation_2022-2023/03_CSE-3205_Artificial_Intelligence/README.md)
+- 📘 [**CSE-3207: Peripherals and Interfacing**](Mid_Preparation_2022-2023/05_CSE-3207_Peripherals_and_Interfacing/README.md)
+- 📘 [**CSE-3209: Simulation and Modeling**](Mid_Preparation_2022-2023/07_CSE-3209_Simulation_and_Modeling/README.md)
+
+---
+
 ## 🗂️ Courses Overview
 
 | # | Code | Course Title | Credits | Questions | Available Sessions | Course Directory |
