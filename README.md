@@ -4,7 +4,7 @@
 [![Semester](https://img.shields.io/badge/Semester-6th-blue.svg)](https://github.com)
 [![Total Questions](https://img.shields.io/badge/Total_Questions-68-success.svg)](https://github.com)
 [![Status](https://img.shields.io/badge/Format-PDF-orange.svg)](https://github.com)
-[![Source](https://img.shields.io/badge/Source-Onebyzero%20Edu-purple.svg)](https://www.onebyzeroedu.com/university/show_department/1/#sem6)
+
 
 A curated, systematically organized repository of previous years' midterm, final, and laboratory exam questions for **6th Semester CSE students at the University of Barishal**.
 
