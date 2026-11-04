@@ -3,12 +3,12 @@
 
 [![Semester](https://img.shields.io/badge/Semester-6th-blue.svg)](https://github.com)
 [![Total Questions](https://img.shields.io/badge/Total_Questions-68-success.svg)](https://github.com)
-[![Status](https://img.shields.io/badge/Format-PDF%20%7C%20Markdown-orange.svg)](https://github.com)
+[![Status](https://img.shields.io/badge/Format-PDF-orange.svg)](https://github.com)
 [![Source](https://img.shields.io/badge/Source-Onebyzero%20Edu-purple.svg)](https://www.onebyzeroedu.com/university/show_department/1/#sem6)
 
 A curated, systematically organized repository of previous years' midterm, final, and laboratory exam questions for **6th Semester CSE students at the University of Barishal**.
 
-Every question paper includes a high-definition **PDF document** for offline reading and printing. Transcribed papers also include native **Markdown (`.md`)** files with full questions, subquestions, marks, topic tags, and embedded diagrams.
+Every question paper includes a high-definition **PDF document** for offline reading, studying, and printing.
 
 ---
 
@@ -42,7 +42,6 @@ Questions/
 │   ├── Final/
 │   │   ├── 2021-2022_Final.pdf
 │   │   ├── 2020-2021_Final_Ahsanul_Hauqe.pdf
-│   │   ├── 2020-2021_Final_Ahsanul_Hauqe.md
 │   │   └── ...
 │   ├── Midterm/
 │   │   ├── 2021-2022_1st_Mid_Ahsanul_haque.pdf
@@ -52,7 +51,6 @@ Questions/
 ├── 02_CSE-3203_Theory_of_Computation/
 │   ├── Final/
 │   ├── Midterm/
-│   ├── assets/                                           # Diagrams, finite state automata, graphs
 │   └── README.md
 │
 ├── 03_CSE-3205_Artificial_Intelligence/
@@ -71,8 +69,6 @@ Questions/
 | Format | Purpose | Description |
 | :---: | :--- | :--- |
 | **`.pdf`** | **Primary Exam Document** | Original high-definition official PDF or vectorized printout of the question paper. Ready for download, printing, or in-browser reading on GitHub. |
-| **`.md`** | **Searchable Transcription** | Clean Markdown containing full typed text of the questions, subquestions, marks distribution, and syllabus topic tags. |
-| **`assets/`** | **Embedded Graphics** | High-resolution circuit diagrams, state transition charts, and figures linked locally inside the Markdown files. |
 
 ---
 
@@ -88,9 +84,9 @@ git remote add origin https://github.com/<YOUR_USERNAME>/<REPO_NAME>.git
 git push -u origin main
 ```
 
-### 2. Searching Questions:
-- You can search across all questions using GitHub's built-in repository search (e.g., search for `"Pumping Lemma"`, `"A* Algorithm"`, or `"8086"`).
-- Markdown files render directly in the browser with full formatting and diagrams.
+### 2. Accessing Questions:
+- Browse each course directory to access official question PDFs organized chronologically by session and exam type.
+- PDFs can be previewed directly on GitHub or downloaded for offline study.
 
 ---
 
