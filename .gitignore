@@ -3,6 +3,7 @@
 *session*
 *.json
 !metadata.json
+!.agents/**/*.json
 
 # Operating System & Editors
 .DS_Store

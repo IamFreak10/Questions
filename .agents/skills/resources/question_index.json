@@ -1,0 +1,2351 @@
+{
+  "version": "1.0",
+  "description": "Comprehensive index of 6th semester CSE exam questions, transcripts, and syllabus topics",
+  "total_questions": 68,
+  "transcribed_questions": 35,
+  "text_extracted_questions": 12,
+  "syllabus": {
+    "CSE-3201": {
+      "Random Variables & Distributions": [
+        "random variable",
+        "discrete random variable",
+        "continuous random variable",
+        "pdf",
+        "cdf",
+        "sample variance",
+        "unbiasedness",
+        "expectation",
+        "variance",
+        "covariance"
+      ],
+      "Stochastic Processes": [
+        "stochastic process",
+        "index set",
+        "state space",
+        "independent increment",
+        "stationary process",
+        "evolutionary process",
+        "martingales",
+        "second order process",
+        "covariance function"
+      ],
+      "Markov Chains": [
+        "markov chain",
+        "transition probability",
+        "transition matrix",
+        "chapman kolmogorov",
+        "recurrent",
+        "transient",
+        "absorbing",
+        "periodicity",
+        "periodic",
+        "ergodic",
+        "first entrance decomposition"
+      ],
+      "Continuous Time & Poisson Processes": [
+        "continuous time markov chain",
+        "pure birth process",
+        "linear birth rate",
+        "yule process",
+        "death process",
+        "poisson process"
+      ],
+      "Queuing Theory": [
+        "queuing theory",
+        "queue",
+        "m/m/1",
+        "little's law",
+        "service rate",
+        "arrival rate",
+        "traffic intensity"
+      ]
+    },
+    "CSE-3203": {
+      "Finite Automata & Regular Languages": [
+        "dfa",
+        "nfa",
+        "epsilon-nfa",
+        "finite automata",
+        "minimization",
+        "table filling",
+        "myhill nerode",
+        "regular expression",
+        "regex",
+        "arden",
+        "regular grammar"
+      ],
+      "Pumping Lemma & Non-Regularity": [
+        "pumping lemma",
+        "adversary",
+        "non-regular",
+        "regular language closure"
+      ],
+      "Context-Free Grammars & Normal Forms": [
+        "context free grammar",
+        "cfg",
+        "derivation",
+        "ambiguity",
+        "chomsky normal form",
+        "cnf",
+        "greibach normal form",
+        "gnf",
+        "cyk"
+      ],
+      "Pushdown Automata (PDA)": [
+        "pushdown automata",
+        "pda",
+        "dpda",
+        "empty stack",
+        "final state",
+        "instantaneous description"
+      ],
+      "CFL Properties": [
+        "pumping lemma for cfl",
+        "closure properties of cfl"
+      ],
+      "Turing Machines & Computability": [
+        "turing machine",
+        "multi-tape",
+        "universal turing machine",
+        "halting problem",
+        "undecidable",
+        "undecidability",
+        "rice's theorem",
+        "post correspondence problem",
+        "pcp",
+        "recursively enumerable"
+      ],
+      "Chomsky Hierarchy": [
+        "chomsky hierarchy",
+        "type 0",
+        "type 1",
+        "type 2",
+        "type 3",
+        "context sensitive"
+      ]
+    },
+    "CSE-3205": {
+      "Agents & Environments": [
+        "intelligent agent",
+        "rational agent",
+        "peas",
+        "environment types",
+        "observable",
+        "deterministic",
+        "episodic"
+      ],
+      "Uninformed Search": [
+        "bfs",
+        "breadth first search",
+        "dfs",
+        "depth first search",
+        "depth limited search",
+        "dls",
+        "iterative deepening",
+        "ids",
+        "uniform cost search",
+        "ucs"
+      ],
+      "Heuristic Search": [
+        "heuristic",
+        "a* search",
+        "greedy best first",
+        "admissible",
+        "admissibility",
+        "consistent",
+        "consistency",
+        "ida*"
+      ],
+      "Adversarial Search & Games": [
+        "minimax",
+        "alpha beta pruning",
+        "game playing",
+        "ply",
+        "terminal state"
+      ],
+      "Constraint Satisfaction Problems": [
+        "constraint satisfaction",
+        "csp",
+        "backtracking",
+        "arc consistency",
+        "ac-3",
+        "mrv",
+        "forward checking"
+      ],
+      "Knowledge & Logic": [
+        "propositional logic",
+        "first order logic",
+        "fol",
+        "resolution",
+        "unification",
+        "horn clauses",
+        "forward chaining",
+        "backward chaining"
+      ],
+      "Probabilistic Reasoning & Learning": [
+        "bayesian network",
+        "conditional independence",
+        "perceptron",
+        "neural network",
+        "machine learning"
+      ]
+    },
+    "CSE-3206": {
+      "Search Implementation": [
+        "bfs implementation",
+        "dfs implementation",
+        "a* implementation",
+        "heuristic function"
+      ],
+      "Prolog Programming": [
+        "prolog",
+        "facts",
+        "rules",
+        "queries",
+        "recursion",
+        "cut",
+        "fail",
+        "list processing"
+      ],
+      "Game & CSP Solving": [
+        "tic-tac-toe",
+        "minimax coding",
+        "n-queens",
+        "map coloring"
+      ]
+    },
+    "CSE-3207": {
+      "8086 Architecture & Interfacing": [
+        "8086",
+        "bus interface unit",
+        "biu",
+        "execution unit",
+        "eu",
+        "memory interfacing",
+        "even bank",
+        "odd bank",
+        "address decoding",
+        "74ls138",
+        "io mapped",
+        "memory mapped"
+      ],
+      "8255 Programmable Peripheral Interface": [
+        "8255",
+        "ppi",
+        "port a",
+        "port b",
+        "port c",
+        "control word",
+        "mode 0",
+        "mode 1",
+        "mode 2",
+        "bsr mode",
+        "7-segment",
+        "stepper motor",
+        "matrix keyboard"
+      ],
+      "8254/8253 Programmable Interval Timer": [
+        "8254",
+        "8253",
+        "pit",
+        "control word",
+        "counter",
+        "frequency divider",
+        "square wave",
+        "modes 0 to 5"
+      ],
+      "8259A Programmable Interrupt Controller": [
+        "8259",
+        "pic",
+        "interrupt vector",
+        "priority",
+        "icw",
+        "ocw",
+        "cascading",
+        "master",
+        "slave"
+      ],
+      "DMA Controller": [
+        "8237",
+        "8257",
+        "dma",
+        "direct memory access",
+        "hold",
+        "hlda",
+        "transfer mode"
+      ],
+      "Serial Communication & USART": [
+        "8251",
+        "usart",
+        "rs-232",
+        "baud rate",
+        "asynchronous",
+        "synchronous"
+      ],
+      "Converters (ADC & DAC)": [
+        "adc",
+        "adc 0808",
+        "adc 0809",
+        "dac",
+        "dac 0808",
+        "successive approximation",
+        "r-2r ladder"
+      ]
+    },
+    "CSE-3208": {
+      "Assembly Interfacing Labs": [
+        "assembly interfacing",
+        "proteus",
+        "trainer kit",
+        "led interfacing",
+        "stepper motor control",
+        "dac waveform",
+        "adc reading"
+      ]
+    },
+    "CSE-3209": {
+      "Simulation Fundamentals": [
+        "system",
+        "system environment",
+        "entity",
+        "attribute",
+        "activity",
+        "state variables",
+        "discrete event simulation",
+        "continuous simulation",
+        "steps in simulation"
+      ],
+      "Simulation Worldviews & Queuing": [
+        "event scheduling",
+        "process interaction",
+        "simulation clock",
+        "event list",
+        "single server queue",
+        "m/m/1",
+        "inventory system"
+      ],
+      "Random Number Generation (RNG)": [
+        "random number",
+        "uniformity",
+        "independence",
+        "linear congruential",
+        "lcg",
+        "multiplicative congruential",
+        "mixed congruential"
+      ],
+      "Randomness Tests": [
+        "frequency test",
+        "kolmogorov smirnov",
+        "k-s test",
+        "chi-square",
+        "runs test",
+        "runs above and below",
+        "runs up and down",
+        "autocorrelation",
+        "poker test",
+        "gap test"
+      ],
+      "Random Variate Generation": [
+        "random variate",
+        "inverse transform",
+        "exponential distribution",
+        "uniform distribution",
+        "weibull",
+        "acceptance rejection",
+        "poisson variate",
+        "direct transform"
+      ],
+      "Verification, Validation & Output Analysis": [
+        "verification",
+        "validation",
+        "input modeling",
+        "goodness of fit",
+        "terminating simulation",
+        "non-terminating",
+        "warm-up period",
+        "replications",
+        "confidence intervals"
+      ]
+    },
+    "CSE-3210": {
+      "Simulation Coding & Models": [
+        "simpy",
+        "monte carlo",
+        "queue simulation",
+        "inventory model",
+        "lcg code",
+        "randomness test implementation"
+      ]
+    },
+    "CSE-3212": {
+      "Android Core & Lifecycle": [
+        "activity lifecycle",
+        "oncreate",
+        "onstart",
+        "onresume",
+        "onpause",
+        "onstop",
+        "ondestroy",
+        "manifest",
+        "androidmanifest"
+      ],
+      "UI & Navigation": [
+        "intent",
+        "explicit intent",
+        "implicit intent",
+        "bundle",
+        "layout",
+        "linearlayout",
+        "constraintlayout",
+        "recyclerview",
+        "cardview",
+        "viewbinding",
+        "adapter"
+      ],
+      "Data Persistence": [
+        "sharedpreferences",
+        "sqlite",
+        "room database",
+        "internal storage"
+      ],
+      "Background & Networking": [
+        "services",
+        "broadcast receiver",
+        "workmanager",
+        "asynctask",
+        "retrofit",
+        "volley",
+        "rest api",
+        "json"
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "853",
+      "course_code": "CSE-3201",
+      "course_name": "Mathematical Analysis for Computer Science",
+      "credits": 3.0,
+      "course_dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+      "session": "2021-2022",
+      "exam_type": "Final",
+      "teacher": "N/A",
+      "exam_date": "July 28, 2026",
+      "category": "Final",
+      "canonical_name": "2021-2022_Final",
+      "rel_pdf_path": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Final/2021-2022_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Final/2021-2022_Final.pdf",
+      "has_transcription": false,
+      "has_pdf_text": true,
+      "transcription": "",
+      "pdf_text": "AVAILABLE AT:\n\nOnebyzero Edu - Organized Learning, Smooth Career\nThe Comprehensive Academic Study Platform for University Students in Bangladesh (www.onebyzeroedu.com)\n\n\fAVAILABLE AT:\n\nOnebyzero Edu - Organized Learning, Smooth Career\nThe Comprehensive Academic Study Platform for University Students in Bangladesh (www.onebyzeroedu.com)",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "851",
+      "course_code": "CSE-3201",
+      "course_name": "Mathematical Analysis for Computer Science",
+      "credits": 3.0,
+      "course_dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+      "session": "2021-2022",
+      "exam_type": "1st Mid",
+      "teacher": "Ahsanul haque",
+      "exam_date": "July 22, 2026",
+      "category": "Midterm",
+      "canonical_name": "2021-2022_1st_Mid_Ahsanul_haque",
+      "rel_pdf_path": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2021-2022_1st_Mid_Ahsanul_haque.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2021-2022_1st_Mid_Ahsanul_haque.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "743",
+      "course_code": "CSE-3201",
+      "course_name": "Mathematical Analysis for Computer Science",
+      "credits": 3.0,
+      "course_dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+      "session": "2020-2021",
+      "exam_type": "Final",
+      "teacher": "Ahsanul Hauqe",
+      "exam_date": "Nov. 17, 2025",
+      "category": "Final",
+      "canonical_name": "2020-2021_Final_Ahsanul_Hauqe",
+      "rel_pdf_path": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Final/2020-2021_Final_Ahsanul_Hauqe.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Final/2020-2021_Final_Ahsanul_Hauqe.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Mathematical Analysis for Computer Science (CSE-3201)\n- **Session:** 20-21\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** Ahsanul Hauqe\n\n---\n> *Answer any five questions*\n\n---\n\n### 1. \n\n**a)** &nbsp;Define random variable with example. What are the different types of random variables? Explain with appropriate example.\n\n**b)** Write down the properties of random variable.\n\n**c)** State and prove the unbiasedness property of the sample variance.\n\n---\n\n---\n\n### 2. \n\n**a)** What do you mean by stochastic process? Briefly describe different types of stochastic process with respect to time and state space. Give example in each case.\n\n**b)** Define index set, state space and process with independent increment.\n\n**c)** What is second order process? Write down the properties of covariance function.\n\n---\n\n---\n\n### 3. \n\n**a)** Define stationary process and evolutionary process. Suppose [X(t), t \u0190 T] be a stochastic process where n=0,1,2,......, a&gt;0. Is this process stationary?\n\n**b)** Define martingales process. Let {Z i }; i=1,2,.... be a sequence of i.i.d. random variables with mean 0 and let X n = i=1 n Z then show that {X n } &prop; n=1 &nbsp; is a martingale.\n\n---\n\n---\n\n### 4. \n\n**a)** What is Markov chain? Briefly discuss different types of Markov chain with example.\n\n**b)** State and prove the first entrance decomposition formula.\n\n**c)** Define transition probability. Find the probability distribution of stochastic process.\n\n---\n\n---\n\n### 5. \n\n**a)** Define transition probability. State and derive the Chapman Kolmogorov equation for determining the higher order transition probabilities of a Markov Chain.\n\n**b)** &nbsp;Define Communicate state, class of state, periodicity and absorbing state.\n\n**c)** If state i is recurrent and, i&harr;j then state j is recurrent.\n\n---\n\n---\n\n### 6. \n\n**a)** &nbsp;Define the following terms: (i) continuous time markov chain (ii) Pure Birth Process (iii) A Birth Process with Linear Birth Rate.\n\n**b)** Determine the Probability Function for the Yule Process.\n\n**c)** &nbsp;State and prove Chapman Kolmogorov&#39;s Backward differential equations.\n\n---\n\n---\n\n### 7. \n\n**a)** Under usual notations, prove that\n\n**b)** Find the relation between &mu; and &lambda;\n\n**c)** Suppose that customers arrive (at a super market) at a Poisson rate of 1 per every 12 minutes and that the service time is exponential at a rate of 1 per every 8 minutes. Find: [5 Marks] The proportion of time that there is no customer in the super market. The proportion of time the super market is busy. Average number of customers in the super market. Average amount of time a customer spent in that queue to get into the super market.\n\n---\n\n---\n\n### 8. \n\n**a)** &nbsp;Briefly discuss the concept of queuing process with example. Also write down assumptions and the elements of queuing process.\n\n**b)** What is M/M/1 Queueing Model? Describe the derivation of M/M/1 Queueing Model.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Random Variables & Distributions",
+        "Stochastic Processes",
+        "Markov Chains",
+        "Continuous Time & Poisson Processes",
+        "Queuing Theory"
+      ],
+      "topic_details": [
+        {
+          "topic": "Random Variables & Distributions",
+          "matched_keyword": "random variable"
+        },
+        {
+          "topic": "Stochastic Processes",
+          "matched_keyword": "stochastic process"
+        },
+        {
+          "topic": "Markov Chains",
+          "matched_keyword": "markov chain"
+        },
+        {
+          "topic": "Continuous Time & Poisson Processes",
+          "matched_keyword": "continuous time markov chain"
+        },
+        {
+          "topic": "Queuing Theory",
+          "matched_keyword": "queue"
+        }
+      ]
+    },
+    {
+      "id": "707",
+      "course_code": "CSE-3201",
+      "course_name": "Mathematical Analysis for Computer Science",
+      "credits": 3.0,
+      "course_dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+      "session": "2020-2021",
+      "exam_type": "1st Mid",
+      "teacher": "Ahsanul Haque",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2020-2021_1st_Mid_Ahsanul_Haque",
+      "rel_pdf_path": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2020-2021_1st_Mid_Ahsanul_Haque.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2020-2021_1st_Mid_Ahsanul_Haque.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**1st Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Mathematical Analysis for Computer Science (CSE-3201)\n- **Session:** 20-21\n- **Time:** 60 minutes | **Full Marks:** 20.00\n- **Course Teacher:** Ahsanul Haque\n\n---\n---\n\n### 1. \n\n**a)** Define stochastic process with example. Describe different types of stochastic processes mentioning at least one appropriate example in each case.\n\n**b)** Consider the process {X(t), t \u0190T} whose probability distribution, under a certain condition, is given by the following figure. Test the stationarity.\n\n**c)** &nbsp;What is martingale process? Let {Z i }; i=1, 2, &hellip;&hellip; be a sequence of i.i.d. random variables with E{Z i }=1 and let &nbsp; then show that {X n } &infin; n=1 is a martingale.\n\n**d)** Define random variable with an example. State down properties of random variables.\n\n**e)** Define stationary process and evolutionary process. Briefly explain Bernoulli process and Poisson process.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Random Variables & Distributions",
+        "Stochastic Processes",
+        "Continuous Time & Poisson Processes"
+      ],
+      "topic_details": [
+        {
+          "topic": "Random Variables & Distributions",
+          "matched_keyword": "random variable"
+        },
+        {
+          "topic": "Stochastic Processes",
+          "matched_keyword": "stochastic process"
+        },
+        {
+          "topic": "Continuous Time & Poisson Processes",
+          "matched_keyword": "poisson process"
+        }
+      ]
+    },
+    {
+      "id": "476",
+      "course_code": "CSE-3201",
+      "course_name": "Mathematical Analysis for Computer Science",
+      "credits": 3.0,
+      "course_dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+      "session": "2019-2020",
+      "exam_type": "Final",
+      "teacher": "Md. Erfan",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2019-2020_Final_Md_Erfan",
+      "rel_pdf_path": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Final/2019-2020_Final_Md_Erfan.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Final/2019-2020_Final_Md_Erfan.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Mathematical Analysis for Computer Science (CSE-3201)\n- **Session:** 19-20\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** Md. Erfan\n\n---\n> *Answer any five questions*\n\n---\n\n### 1. \n\n**a)** Write down the reason for studying mathematical analysis in Computer Science and Engineering.\n\n**b)** Derive the recursive formula for the minimum number of moves required to solve the Tower of Hanoi problem with n disks.\n\n**c)** How many intersection points are there when n distinct lines are drawn in the plane, assuming no two lines are parallel and no three lines meet at the same point?\n\n**d)** Derive the recursive formula for the position of the survivor in the Josephus problem , given that every k-th person is eliminated from a circle of n people.\n\n---\n\n---\n\n### 2. \n\n**a)** Define Box and Whisker Plot . Set Q contains 20 positive integer values. The smallest value is a single digit and the largest is a three-digit value. Find the minimum and maximum possible range (Q max - Q min ) for Set Q\n\n**b)** Solve the recurrence relation T(n) = T(n-1) + n with T(1) = 1. What is the closed-form solution for T(n)? Hint: This is the sum of the first n natural numbers, Use the formula forthe sum of an arithmetic S(n) = n(n+1) / 2\n\n**c)** Prove the statement m = \u056c log 2 (n)\u4e85 + 1, where n is an m-bit integer.\n\n**d)** &nbsp;If 724 is the greatest common divisor (GCD) of positive integers A and B, and 726 is the least common multiple (LCM) of A and B, find the product AB.\n\n---\n\n---\n\n### 3. \n\n**a)** A number in decimal notation is divisible by 3 if and only if the sum of its digits is divisible by 3. Prove this well-known rule, and generalize it.\n\n**b)** Define relative primality. The formula for the n-th Catalan number is: &nbsp;calculate C 3 ?\n\n**c)** Define bayes theorem. What do you mean by priori and posterior probability. A bag I contains 4 white and 6 black balls while another Bag II contains 4 white and 3 black balls. One ball is drawn at random from one of the bags, and it is found to be black. Find the probability that it was drawn from Bag I.\n\n**d)** What do you mean by complex numbers? Prove that &radic;2 is irrational number.\n\n---\n\n---\n\n### 4. \n\n**a)** Draw the transition diagram for each case. Is it irreducible? For both yes or no, each cases justify your answer with proper explanation.\n\n**b)** Write down the following: i. Define hidden states and observed variable ii. Find the stationary distribution for the figure along with the transition matrix. iii. Find out the probability where observed mood sequences are HHG with SSR sequence. Write down the program to find the most likely weather sequence for the observed mood sequence.\n\n**c)** Find out the transition matrix for the following scenario: i. The President of the United States tells person A his or her intention to run or not to run in the next election. Then A relays the news to B, who in turn relays the message to C, and so forth, always to some new person. We assume that there is a probability that a person will change the answer from yes to no when transmitting it to the next person and a probability b that he or she will change it from no to yes. We choose as states the message, either yes or no. ii. In the Dark Ages, Harvard, Dartmouth, and Yale admitted only male students. Assume that, at that time, 80 percent of the sons of Harvard men went to Harvard and the rest went to Yale, 40 percent of the sons of Yale men went to Yale, and the rest split evenly between Harvard and Dartmouth; and of the sons of Dartmouth men, 70 percent went to Dartmouth, 20 percent to Harvard, and 10 percent to Yale.\n\n---\n\n---\n\n### 5. \n\n**a)** &nbsp;Explain the concepts of divergence and convergence, and their applications.\n\n**b)** &nbsp;Cribbage players have long been aware that 15=7+8=4+5+6=1+2+3+4+5. Find the number of ways to represent 1050 as a sum of consecutive positive integers.\n\n**c)** Define stochastic process. Determine whether the following series converges or diverges:\n\n**d)** &nbsp;What are p-values? Is the harmonic series divergent or convergent? Justify your answer.\n\n---\n\n---\n\n### 6. \n\n**a)** Write down the importance of Game Theory in computer science and engineering.\n\n**b)** Write down the meaning of competitive situation, strategy, two person zero sum game, maximin-minimax principle.\n\n**c)** Define Saddle point. Solve the following pay-off matrix to find the following: i. Saddle point ii. Best strategy for player A and B\n\n**d)** Using Kendall&#39;s notation, write down the type of queue for the following scenarios: [3] i) Exponentially distributed inter-arrival times and service times, with m servers. ii) Exponentially distributed inter-arrival times and general service times with infinite servers. iii) A system with exponential inter-arrival and service times, m servers, a maximum of K customers in the system, and N potential customers.\n\n---\n\n---\n\n### 7. \n\n**a)** From the following diagram find out the transition matrix. Suppose we are in the pizza day, find the 5 th day probability for the overall scenario.\n\n**b)** Write short notes on transient, recurrent and classes in Markov chain with examples.\n\n**c)** i. Find Precision, Recall, Accuracy and F1- Measure for predicting the dog. ii. Fill the ?? with correct True Positive(TP), True Negative(TN), False Positive(FP) and False Negative(FN). &nbsp; Actual Class Positive class Negative class Predicted Class Positive class ?? ?? Negative class ?? ??\n\n---\n\n---\n\n### 8. \n\n**a)** Define Queuing network. Write short notes on different customer behavior in queuing model.\n\n**b)** Define pure birth process. Briefly describe the M/M/1: infinity &infin;/FCFS model or birth and death model.\n\n**c)** Basic M/M/1 Queue: A service station has a single server where customers arrive according to a Poisson process with an average arrival rate of &lambda;=6. customers per hour. The service times are exponentially distributed with an average service rate of &mu;=8 customers per hour. 1. Calculate the traffic intensity p 2. Find the average number of customers in the system L. 3. Determine the average time a customer spends in the system W.\n\n**d)** Problem Statement: A bank has a single teller who serves customers at an average rate of 10 customers per hour. Customers arrive at the bank according to a Poisson process with an average arrival rate of 12 customers per hour. [2] 1. What is the average number of customers in the queue L q ? 2. What is the average time a customer spends waiting in the queue W q ?\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Stochastic Processes",
+        "Markov Chains",
+        "Continuous Time & Poisson Processes",
+        "Queuing Theory"
+      ],
+      "topic_details": [
+        {
+          "topic": "Stochastic Processes",
+          "matched_keyword": "stochastic process"
+        },
+        {
+          "topic": "Markov Chains",
+          "matched_keyword": "markov chain"
+        },
+        {
+          "topic": "Continuous Time & Poisson Processes",
+          "matched_keyword": "pure birth process"
+        },
+        {
+          "topic": "Queuing Theory",
+          "matched_keyword": "queue"
+        }
+      ]
+    },
+    {
+      "id": "194",
+      "course_code": "CSE-3201",
+      "course_name": "Mathematical Analysis for Computer Science",
+      "credits": 3.0,
+      "course_dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+      "session": "2018-2019",
+      "exam_type": "Final",
+      "teacher": "Md. Erfan",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2018-2019_Final_Md_Erfan",
+      "rel_pdf_path": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Final/2018-2019_Final_Md_Erfan.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Final/2018-2019_Final_Md_Erfan.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Mathematical Analysis for Computer Science (CSE-3201)\n- **Session:** 18-19\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** Md. Erfan\n\n---\n> *Answer Any Five Questions*\n\n---\n\n### 1. \n\n**a)** 1. a) Show that it&#39;s possible to construct a Venn diagram for all 2 n possible subsets of n given sets, using n convex polygons that are congruent to each other and rotated about a common center.\n\n**b)** A smoke detector system uses two devices, A and B. If smoke is present, the probability that it will be detected by device A is .95; by device B, .90; and by both devices, 0.88. Now,&nbsp; i. If smoke is present, find the probability that the smoke will be detected by either device A or B or both devices.&nbsp; ii. Find the probability that the smoke will be undetected. &nbsp;\n\n**c)** If W n is the minimum number of moves needed to transfer a tower of n disks from one peg to another when there are four pegs instead of three, show that W n(n+1) &le; 2W n(n-1)/2 + T n , for n&gt;0.&nbsp; (Here T n = 2 n -1 is the ordinary three-peg number. Use this to find a closed form f(n)] such that W n(n+1) &le; f(n) for all n &gt; 0)\n\n**d)** osephus had a friend who was saved by getting into the next-to-last position. What is I(n), the number of the penultimate survivor when every second person is executed?\n\n---\n\n---\n\n### 2. \n\n**a)** Write down the following questions with necessary explanation.&nbsp; (A) The speed, in miles per hour, at which the car travels a distance of 52 feet during reaction time is closest to which of the following?&nbsp; i. 43 ii. 47 iii. 51 iv. 55 v. 59 (B) Approximately what is the total stopping distance, in feet, if the car is traveling at a speed of 40 miles per hour when the driver is signaled to stop?&nbsp; i. 130 ii. 110 iii. 90 iv. 70 v. 40 (C) Of the following, which is the greatest speed, in miles per hour, at which the car can travel and stop with a total stopping distance of less than 200 feet?&nbsp; i. 50 ii. 55 iii. 60 iv. 65 v. 70\n\n**b)** &nbsp;Prove that &quot;Circumference (c) of a circle is directly proportional to its radius (r)&quot;. Establish the relationship between &#39;w&#39; with &#39;r&#39;. A rectangular label is attached to a right circular cylinder with radius r. The label, which encircles the cylinder without overlap, has width w and an area equal to the area of the base of the cylinder.&nbsp;\n\n**c)** A certain pet store sells only dogs and cats. In March, the store sold twice as many dogs as cats. In April, the store sold twice the number of dogs that it sold in March, and three times the number of cats that it sold in March. If the total number of pets the store sold in March and April combined was 500, how many dogs did the store sell in March?\n\n**d)** &nbsp;At a recent dog show, there were 5 finalists. One of the finalists was awarded &quot;Best in Show&quot; and another finalist was awarded &quot;Honorable Mention.&quot; In how many different ways could the two awards be given out?\n\n**e)** What do you mean by expectation?\n\n---\n\n---\n\n### 3. \n\n**a)** Consider the following process. We have two coins, one of which is fair, and the other of which has heads on both sides. We give these two coins to our friend, who chooses one of them at random (each with probability 1/2). During the rest of the process, she uses only the coin that she chose. She now proceeds to toss the coin many times, reporting the results. We consider this process to consist solely of what she reports to us.&nbsp; i. Given that she reports a head on the nth toss, what is the probability that a head is thrown on the (n+1) st toss?&nbsp; ii. Consider this process as having two states, heads and tails. By computing the other three transition probabilities analogous to the one in part (a), write down a &quot;transition matrix&quot; for this process.&nbsp; iii. Now assume that the process is in state &quot;heads&quot; on both the (n-1) st and the n th toss. Find the probability that a head comes up on the (n+1) st toss.&nbsp; iv. Is this process a Markov chain? &nbsp;\n\n**b)** Three tanks fight a three-way duel. Tank A has probability 1/2 of destroying the tank at which it fires, tank B has probability 1/3 of destroying the tank at which it fires, and tank C has probability 1/6 of destroying the tank at which it fires. The tanks fire together and each tank fires at the strongest opponent not yet destroyed. Form a Markov chain by taking as states the subsets of the set of tanks. Find N, Nc, and NR, and interpret your results.\n\n**c)** Suppose that two candidates, Daisy and Oscar, are running for office, and nin N voters cast their ballots. Votes are counted by the same official, one by one, until all n of them have been processed (like in the old days). After each ballot is opened, the official records the number of votes each candidate has received so far. At the end, the official announces that Daisy has won by a margin of m&gt;0 votes, i.e., that Daisy got (n+m)/2 votes and Oscar the remaining (n-m)/2 votes. What is the probability that at no time during the counting has Oscar been in the lead?\n\n---\n\n---\n\n### 4. \n\n**a)** Define Tower of Hanoi. If W n is the minimum number of moves needed to transfer a tower of n disks from one peg to another when there are four pegs instead of three, show that &nbsp;W n(n+1)/2 &le; W n(n-1)/2 +T n for n&gt;0.&nbsp; (Here Tn=2 n -1 is the ordinary three-peg number. Use this to find a closed form f(n) such that W n(n+1) &le; f(n) for all n &gt; 0.\n\n**b)** Write down the recursive formula for the following problems,&nbsp; i. Fibonacci Number&nbsp; ii. Lines in the Plane&nbsp; iii. GCD &nbsp;\n\n**c)** A number in decimal notation is divisible by 3 if and only if the sum of its digits is divisible by 3. Prove this well-known rule, and generalize it.\n\n**d)** &nbsp;The number 1111111111111111111 is prime. Prove that, in any radix b, (11...1) b can be prime only if the number of 1&#39;s is prime.&nbsp;\n\n**e)** What do you mean by complex numbers? Prove that&nbsp; &radic;2 is irrational number.\n\n---\n\n---\n\n### 5. \n\n**a)** What do you mean by divergence and convergence along with its usage?\n\n**b)** What do you mean by p values and harmonic series? Is harmonic series divergent or convergent? Justify your answer.\n\n**c)** Write down the formula for the Collatz conjecture number. It is conjectured (but not yet proven) that this algorithm will terminate at n=1 for every integer n. Still, the conjecture holds for all integers up to at least 1,000,000. For an input n, the cycle-length of n is the number of numbers generated up to and including the 1. Now count the cycle length for 22, 1000, 1 and 7.\n\n**d)** &nbsp;Determine whether the following series converges or diverges:\n\n**e)** Is there any differences between stochastic process and random process? Justify your answer.\n\n---\n\n---\n\n### 6. \n\n**a)** Write down the importance of Game Theory in computer science and engineering.\n\n**b)** Write down the meaning of competitive situation, strategy, two person zero sum game, maximin-minimax principle.\n\n**c)** &nbsp;Define Saddle point. Solve the following pay-off matrix to find the following: i. Saddle point ii. Best strategy for player A and B.&nbsp;&nbsp; &nbsp; &nbsp; Player A Player B Strategies I II III I 6 8 6 II 4 12 2\n\n**d)** Find a range of values of a and b for which the following pay-off matrix will a saddle point at (2, 2) position. &nbsp; &nbsp; Player A Player B Strategies I II III I 2 4 5 II 10 7 b III 4 a 6\n\n---\n\n---\n\n### 7. \n\n**a)** Write short notes on reducibility, irreducible, periodic, classes, and stationary distribution in marcov chain.\n\n**b)** Find out the transition matrix for the following scenario:&nbsp; a) The President of the United States tells person A his or her intention to run or not to run in the next election. Then A relays the news to B, who in turn relays the message to C, and so forth, always to some new person. We assume that there is a probability that a person will change the answer from yes to no when transmitting it to the next person and a probability b that he or she will change it from no to yes.&nbsp; b) In the Dark Ages, Harvard, Dartmouth, and Yale admitted only male students. Assume that, at that time, 80 percent of the sons of Harvard men went to Harvard and the rest went to Yale, 40 percent of the sons of Yale men went to Yale, and the rest split evenly between Harvard and Dartmouth; and of the sons of Dartmouth men, 70 percent went to Dartmouth, 20 percent to Harvard, and 10 percent to Yale. &nbsp;\n\n**c)** Define Bayes theorem. What do you mean by priori and posterior probability. A bag I contains 4 white and 6 black balls while another Bag II contains 4 white and 3 black balls. One ball is drawn at random from one of the bags, and it is found to be black. Find the probability that it was drawn from Bag I.\n\n**d)** &nbsp;Write down the following:&nbsp; i. Define hidden states and observed variable.&nbsp; ii. Find the stationary distribution for the figure along with the transition matrix.&nbsp; iii. Find out the probability where observed mood sequences are HHG with SSR sequence. Write down the program to find the most likely weather sequence for the observed mood sequence.\n\n---\n\n---\n\n### 8. \n\n**a)** Define Queuing network. Write short notes on different customer behavior in queuing model.\n\n**b)** The arrival rate of customers is 120 per hour and the service rate of each server is 180 per hour. Find the following. All times need to be converted in minutes.&nbsp; a) The average number of customers in the system.&nbsp; b) The average waiting time in the queue.&nbsp; c) The system utilization. P0=fraclambdamu&nbsp; d) The probability of a customer finding the server busy.&nbsp; e) The probability of customers waiting in the queue.&nbsp; f) The probability of customers being blocked. &nbsp;\n\n**c)** Define the types of queue in Kendall&#39;s form from the scenario,&nbsp; i. Write down Kendall&#39;s notation for the queuing model.&nbsp; ii. A queue with an exponential distribution for the inter-arrival times of customers, an exponential distribution for service times of customers with m number of server.&nbsp; iii. A queue with an exponential distribution for the inter-arrival times of customers, a general distribution for service times of customers with an infinite server.&nbsp; iv. A queueing system with an exponential distribution for the inter-arrival times of customers and the service times of customers, m servers, a maximum of K customers in the queueing system at once, and N potential customers in the calling population.&nbsp; v. A company has positions for three employees. Applicants for these jobs appear at a Poisson rate of two per year. If all jobs are filled, applicants look elsewhere. Those who hold a job do so for an exponentially distributed time with mean 1/2 year. Describe the situation, using Kendall&#39;s notation, as a queueing system.&nbsp; &nbsp;\n\n**d)** On an average, 6 customers reach a telephonic booth every hour to make calls. Determine the probability that exactly 4 customers will reach in 30 min period, assuming that arrivals follow poisson distribution. Correct answer is between &#39;0.160, 0.170&#39;. Briefly explain the answer?\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Random Variables & Distributions",
+        "Stochastic Processes",
+        "Markov Chains",
+        "Queuing Theory"
+      ],
+      "topic_details": [
+        {
+          "topic": "Random Variables & Distributions",
+          "matched_keyword": "expectation"
+        },
+        {
+          "topic": "Stochastic Processes",
+          "matched_keyword": "stochastic process"
+        },
+        {
+          "topic": "Markov Chains",
+          "matched_keyword": "markov chain"
+        },
+        {
+          "topic": "Queuing Theory",
+          "matched_keyword": "queue"
+        }
+      ]
+    },
+    {
+      "id": "193",
+      "course_code": "CSE-3201",
+      "course_name": "Mathematical Analysis for Computer Science",
+      "credits": 3.0,
+      "course_dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+      "session": "2017-2018",
+      "exam_type": "Final",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2017-2018_Final",
+      "rel_pdf_path": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Final/2017-2018_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Final/2017-2018_Final.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "192",
+      "course_code": "CSE-3201",
+      "course_name": "Mathematical Analysis for Computer Science",
+      "credits": 3.0,
+      "course_dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+      "session": "2016-2017",
+      "exam_type": "Final",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2016-2017_Final",
+      "rel_pdf_path": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Final/2016-2017_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Final/2016-2017_Final.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "191",
+      "course_code": "CSE-3201",
+      "course_name": "Mathematical Analysis for Computer Science",
+      "credits": 3.0,
+      "course_dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+      "session": "2018-2019",
+      "exam_type": "2nd Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2018-2019_2nd_Mid",
+      "rel_pdf_path": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2018-2019_2nd_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2018-2019_2nd_Mid.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "190",
+      "course_code": "CSE-3201",
+      "course_name": "Mathematical Analysis for Computer Science",
+      "credits": 3.0,
+      "course_dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+      "session": "2017-2018",
+      "exam_type": "2nd Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2017-2018_2nd_Mid",
+      "rel_pdf_path": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2017-2018_2nd_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2017-2018_2nd_Mid.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "189",
+      "course_code": "CSE-3201",
+      "course_name": "Mathematical Analysis for Computer Science",
+      "credits": 3.0,
+      "course_dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+      "session": "2019-2020",
+      "exam_type": "1st Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2019-2020_1st_Mid",
+      "rel_pdf_path": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2019-2020_1st_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2019-2020_1st_Mid.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "188",
+      "course_code": "CSE-3201",
+      "course_name": "Mathematical Analysis for Computer Science",
+      "credits": 3.0,
+      "course_dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+      "session": "2018-2019",
+      "exam_type": "1st Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2018-2019_1st_Mid",
+      "rel_pdf_path": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2018-2019_1st_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2018-2019_1st_Mid.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "187",
+      "course_code": "CSE-3201",
+      "course_name": "Mathematical Analysis for Computer Science",
+      "credits": 3.0,
+      "course_dir": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science",
+      "session": "2017-2018",
+      "exam_type": "1st Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2017-2018_1st_Mid",
+      "rel_pdf_path": "01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2017-2018_1st_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/01_CSE-3201_Mathematical_Analysis_for_Computer_Science/Midterm/2017-2018_1st_Mid.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "865",
+      "course_code": "CSE-3203",
+      "course_name": "Theory of Computation",
+      "credits": 3.0,
+      "course_dir": "02_CSE-3203_Theory_of_Computation",
+      "session": "2021-2022",
+      "exam_type": "Final",
+      "teacher": "Dr. Md Manjur Ahmed",
+      "exam_date": "Aug. 4, 2026",
+      "category": "Final",
+      "canonical_name": "2021-2022_Final_Dr_Md_Manjur_Ahmed",
+      "rel_pdf_path": "02_CSE-3203_Theory_of_Computation/Final/2021-2022_Final_Dr_Md_Manjur_Ahmed.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/02_CSE-3203_Theory_of_Computation/Final/2021-2022_Final_Dr_Md_Manjur_Ahmed.pdf",
+      "has_transcription": false,
+      "has_pdf_text": true,
+      "transcription": "",
+      "pdf_text": "AVAILABLE AT:\n\nOnebyzero Edu - Organized Learning, Smooth Career\nThe Comprehensive Academic Study Platform for University Students in Bangladesh (www.onebyzeroedu.com)\n\nCamScanner\n\n\fAVAILABLE AT:\n\nOnebyzero Edu - Organized Learning, Smooth Career\nThe Comprehensive Academic Study Platform for University Students in Bangladesh (www.onebyzeroedu.com)\n\nCamScanner",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "832",
+      "course_code": "CSE-3203",
+      "course_name": "Theory of Computation",
+      "credits": 3.0,
+      "course_dir": "02_CSE-3203_Theory_of_Computation",
+      "session": "2021-2022",
+      "exam_type": "1st Mid",
+      "teacher": "Dr. Md Manjur Ahmed",
+      "exam_date": "June 16, 2026",
+      "category": "Midterm",
+      "canonical_name": "2021-2022_1st_Mid_Dr_Md_Manjur_Ahmed",
+      "rel_pdf_path": "02_CSE-3203_Theory_of_Computation/Midterm/2021-2022_1st_Mid_Dr_Md_Manjur_Ahmed.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/02_CSE-3203_Theory_of_Computation/Midterm/2021-2022_1st_Mid_Dr_Md_Manjur_Ahmed.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "754",
+      "course_code": "CSE-3203",
+      "course_name": "Theory of Computation",
+      "credits": 3.0,
+      "course_dir": "02_CSE-3203_Theory_of_Computation",
+      "session": "2020-2021",
+      "exam_type": "Final",
+      "teacher": "Dr. Md Manjur Ahmed",
+      "exam_date": "Nov. 23, 2025",
+      "category": "Final",
+      "canonical_name": "2020-2021_Final_Dr_Md_Manjur_Ahmed",
+      "rel_pdf_path": "02_CSE-3203_Theory_of_Computation/Final/2020-2021_Final_Dr_Md_Manjur_Ahmed.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/02_CSE-3203_Theory_of_Computation/Final/2020-2021_Final_Dr_Md_Manjur_Ahmed.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "708",
+      "course_code": "CSE-3203",
+      "course_name": "Theory of Computation",
+      "credits": 3.0,
+      "course_dir": "02_CSE-3203_Theory_of_Computation",
+      "session": "2020-2021",
+      "exam_type": "1st Mid",
+      "teacher": "Dr. Md Manjur Ahmed",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2020-2021_1st_Mid_Dr_Md_Manjur_Ahmed",
+      "rel_pdf_path": "02_CSE-3203_Theory_of_Computation/Midterm/2020-2021_1st_Mid_Dr_Md_Manjur_Ahmed.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/02_CSE-3203_Theory_of_Computation/Midterm/2020-2021_1st_Mid_Dr_Md_Manjur_Ahmed.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**1st Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Theory of Computation (CSE-3203)\n- **Session:** 20-21\n- **Time:** 100 minutes | **Full Marks:** 40.00\n- **Course Teacher:** Dr. Md Manjur Ahmed\n\n---\n> *Time: 50+50 Minutes, Marks: 40 (will be converted to 20% marks)*\n\n---\n\n### 1. \n\n**1)** Make an NFA: Strings where the first symbol is present somewhere later on at least once.\n\n**2)** i) Analyze about the \"Bad Case for the Subset Construction\" during DFA to NFA conversion. ii) Describe the \"pigeonhole principle\" regarding the subset construction.\n\n**3)** Build in \u03b5-NFA for the following language: L = {w | w is empty, or if non-empty will end in 01}\n\n**4)** i) Prove that if we add a finite set of strings to a regular language, the result is a regular language. ii) A language L is accepted by some e-NFA if and only if L is accepted by some DFA.\n\n**5)** Convert the following RE to \u03b5-NFA: (0+1)*01(0+1)*\n\n**6)** i) Prove the theorem \"a mod b = b mod a, if and only if a = b. ii) By method of induction, proof the theorem \"if x \u2265 4 then 2* \u2265 x\u00b2.\n\n**7)** Describe the importance of Automata Theory.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Finite Automata & Regular Languages"
+      ],
+      "topic_details": [
+        {
+          "topic": "Finite Automata & Regular Languages",
+          "matched_keyword": "dfa"
+        }
+      ]
+    },
+    {
+      "id": "484",
+      "course_code": "CSE-3203",
+      "course_name": "Theory of Computation",
+      "credits": 3.0,
+      "course_dir": "02_CSE-3203_Theory_of_Computation",
+      "session": "2019-2020",
+      "exam_type": "Final",
+      "teacher": "Dr. Md Manjur Ahmed",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2019-2020_Final_Dr_Md_Manjur_Ahmed",
+      "rel_pdf_path": "02_CSE-3203_Theory_of_Computation/Final/2019-2020_Final_Dr_Md_Manjur_Ahmed.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/02_CSE-3203_Theory_of_Computation/Final/2019-2020_Final_Dr_Md_Manjur_Ahmed.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Theory of Computation (CSE-3203)\n- **Session:** 19-20\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** Dr. Md Manjur Ahmed\n\n---\n> *(Note: Answer any five set of questions from the followings)*\n\n---\n\n### 1. \n\n**a)** Define Turing Machine. Explain pushdown automaton.\n\n**b)** Prove that every language accepted by a multitap TM is recursively enumerable.\n\n**c)** What do you know about context-free grammars?\n\n---\n\n---\n\n### 2. \n\n**a)** Define with examples: Alphabet, String, Language\n\n**b)** Give a regular expression for the following language B over the alphabet {a, b}. B={w | w does not contain the substring aaa}.\n\n**c)** When is an expression called regular expression?\n\n---\n\n---\n\n### 3. \n\n**a)** Use the pumping lemma to prove that the language A is not context-free.\n\n![Question Diagram](../assets/Screenshot_4_2lWZpAq.png)\n\n**b)** Convert the following NFA to DFA.\n\n![Question Diagram](../assets/Screenshot_5_FszuzgP.png)\n\n**c)** State the Pumping Lemma for regular languages.\n\n---\n\n---\n\n### 4. \n\n**a)** Summarize the principal closure properties for regular languages.\n\n**b)** Convert DFA's to regular expressions by eliminating states (using an arbitrary example).\n\n**c)** Prove that if L is a regular language over the following alphabet, then it is also a regular language.\n\n![Question Diagram](../assets/Screenshot_7_hj7ZzcV.png)\n\n---\n\n---\n\n### 5. \n\n**a)** Construct a context-free grammar for the following DFA:\n\n![Question Diagram](../assets/Screenshot_8_rla8CJL.png)\n\n**b)** Show that the grammar ({S}, {a, b), R, S) with rules R = S-->aS | aSbS | \u20ac is ambiguous.\n\n**c)** Explain inverse homomorphism.\n\n---\n\n---\n\n### 6. \n\n**a)** Elaborate the three operations on languages that the operations of regular expression represent.\n\n**b)** Prove that if we add a finite set of strings to a regular language, the result is a regular language.\n\n**c)** Write the closure properties of regular languages.\n\n---\n\n---\n\n### 7. \n\n**a)** Prove that the following are not regular languages: (i) The set of strings of 0's and 1's beginning with 1, such that when interpreted as an integer, that integer is a prime. (ii) The set of strings of the form 0 i1 j such that the greatest common divisor of i and j is 1.\n\n**b)** State the properties of a parse tree. Construct a parse tree for the following string: S --> S S + | S S * l a\n\n**c)** Prove that every language defined by a regular expression is also defined by a finite automata.\n\n---\n\n---\n\n### 8. \n\n**a)** State formal definition of a finite automata. Give an example.\n\n**b)** Consider the regular expression (a(cd)*b)* (i) Find a string over {a, b, c, d}^4 which matches the expression. (ii) Find a string over {a, b, c, d}4 which does not match the expression.\n\n**c)** Build an e-NFA for the following language: [The question is incomplete]\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Finite Automata & Regular Languages",
+        "Pumping Lemma & Non-Regularity",
+        "Turing Machines & Computability"
+      ],
+      "topic_details": [
+        {
+          "topic": "Finite Automata & Regular Languages",
+          "matched_keyword": "dfa"
+        },
+        {
+          "topic": "Pumping Lemma & Non-Regularity",
+          "matched_keyword": "pumping lemma"
+        },
+        {
+          "topic": "Turing Machines & Computability",
+          "matched_keyword": "turing machine"
+        }
+      ]
+    },
+    {
+      "id": "475",
+      "course_code": "CSE-3203",
+      "course_name": "Theory of Computation",
+      "credits": 3.0,
+      "course_dir": "02_CSE-3203_Theory_of_Computation",
+      "session": "2019-2020",
+      "exam_type": "2nd Mid",
+      "teacher": "Dr. Md Manjur Ahmed",
+      "exam_date": "Oct. 8, 2025",
+      "category": "Midterm",
+      "canonical_name": "2019-2020_2nd_Mid_Dr_Md_Manjur_Ahmed",
+      "rel_pdf_path": "02_CSE-3203_Theory_of_Computation/Midterm/2019-2020_2nd_Mid_Dr_Md_Manjur_Ahmed.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/02_CSE-3203_Theory_of_Computation/Midterm/2019-2020_2nd_Mid_Dr_Md_Manjur_Ahmed.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**2nd Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Theory of Computation (CSE-3203)\n- **Session:** 19-20\n- **Time:** 45 minutes | **Full Marks:** 50.00\n- **Course Teacher:** Dr. Md Manjur Ahmed\n\n---\n---\n\n### 1. \n\n**1)** Define push down automata with example.\n\n**2)** Give pushdown automata that recognize the following languages: (a) A = { w\u2208 {0, 1} * | w contains at least three 1s } (b) B = { w\u2208 {0, 1} * | w = w^R and the length of w is odd }\n\n**3)** Use the pumping lemma to prove that the language A is not context free.\n\n![Question Diagram](../assets/Screenshot_4_JPDHf7S.png)\n\n**4)** Prove that if we add a finite set of strings to a regular language, the result is a regular language.\n\n**5)** Write the closure properties of regular languages.\n\n**6)** Does a push down automata have memory? Justify.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Pumping Lemma & Non-Regularity",
+        "Pushdown Automata (PDA)"
+      ],
+      "topic_details": [
+        {
+          "topic": "Pumping Lemma & Non-Regularity",
+          "matched_keyword": "pumping lemma"
+        },
+        {
+          "topic": "Pushdown Automata (PDA)",
+          "matched_keyword": "pushdown automata"
+        }
+      ]
+    },
+    {
+      "id": "200",
+      "course_code": "CSE-3203",
+      "course_name": "Theory of Computation",
+      "credits": 3.0,
+      "course_dir": "02_CSE-3203_Theory_of_Computation",
+      "session": "2018-2019",
+      "exam_type": "Final",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2018-2019_Final",
+      "rel_pdf_path": "02_CSE-3203_Theory_of_Computation/Final/2018-2019_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/02_CSE-3203_Theory_of_Computation/Final/2018-2019_Final.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Theory of Computation (CSE-3203)\n- **Session:** 18-19\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** \n\n---\n> *Answer Any Five (5) Questions From The Following*\n\n---\n\n### 1. \n\n**a)** What is Automata Theory? Describe the applications of Finite Automata.\n\n**b)** Explain the work of lexical analyzer with an on/off switch.\n\n**c)** The Chomsky Hierarchy is a containment hierarchy of classes of formal languages. Describe with suitable figure(s).\n\n**d)** Analyze the terms: Theorems, Lemmas and Corollaries.\n\n---\n\n---\n\n### 2. \n\n**a)** Describe the basic functionalities of pumping lemma.\n\n**b)** Use the pumping lemma to prove that the language is not context free.\n\n![Question Diagram](../assets/q1.png)\n\n**c)** Define push down automata with example.\n\n---\n\n---\n\n### 3. \n\n**a)** Describe Deductive proof. Prove that, if x is the sum of the squares of four positive integers, then\n\n![Question Diagram](../assets/q2.png)\n\n**b)** Briefly explain the configuration of a TM.\n\n**c)** Let x be a real number. Then prove that, [x] = [x] if and only if x is an integer.\n\n**d)** For all n \u2265 0, prove that\n\n![Question Diagram](../assets/q3.png)\n\n---\n\n---\n\n### 4. \n\n**a)** Describe with examples: advantages of DFA.\n\n**b)** Construct a DFA for the following language: Let, \u03a3 = {0, 1}, L = {w|w is a binary string that has even number of 1s and even number of 0s}.\n\n**c)** Construct a NFA for the following: Strings where the first symbol is present somewhere later on at least once.\n\n---\n\n---\n\n### 5. \n\n**a)** Build an NFA for the following language: L = {w | w ends in 101}\n\n**b)** Describe the Advantages & Caveats for NFA.\n\n**c)** Convert the NFA from Question 5(a), to DFA. Question 5(a): Build an NFA for the following language: L = {w | w ends in 101}\n\n---\n\n---\n\n### 6. \n\n**a)** Describe the necessities of explicit \u03b5-transitions in finite automata.\n\n**b)** Build an e-NFA for the following language: L= ={w|w is empty, or if non-empty will end in 11}\n\n**c)** Convert \u03b5-NFA to DFA based on Question 6(b) Question 6(b): Build an e-NFA for the following language: L= ={w|w is empty, or if non-empty will end in 11}\n\n---\n\n---\n\n### 7. \n\n**a)** What is regular expression? Describe the operations of regular expressions.\n\n**b)** Prove that if L=L(A) for some DFA A, then there is a regular expression R such that L=L(R).\n\n**c)** Convert the following DFA to an equivalent regular Expression.\n\n![Question Diagram](../assets/q4.png)\n\n**d)** Define- i) Associativity ii) Identity and iii) Distributive Law\n\n---\n\n---\n\n### 8. \n\n**a)** Regarding conversion of DFA from NFA, a bad case for the Subset Construction is occurred. Analyze this using the Pigeonhole Principle.\n\n**b)** Briefly describe, how we can eliminate \u03b5- transitions?\n\n**c)** What are the uses of \u03b5-Transitions?\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Finite Automata & Regular Languages",
+        "Pumping Lemma & Non-Regularity",
+        "Chomsky Hierarchy"
+      ],
+      "topic_details": [
+        {
+          "topic": "Finite Automata & Regular Languages",
+          "matched_keyword": "dfa"
+        },
+        {
+          "topic": "Pumping Lemma & Non-Regularity",
+          "matched_keyword": "pumping lemma"
+        },
+        {
+          "topic": "Chomsky Hierarchy",
+          "matched_keyword": "chomsky hierarchy"
+        }
+      ]
+    },
+    {
+      "id": "199",
+      "course_code": "CSE-3203",
+      "course_name": "Theory of Computation",
+      "credits": 3.0,
+      "course_dir": "02_CSE-3203_Theory_of_Computation",
+      "session": "2017-2018",
+      "exam_type": "Final",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2017-2018_Final",
+      "rel_pdf_path": "02_CSE-3203_Theory_of_Computation/Final/2017-2018_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/02_CSE-3203_Theory_of_Computation/Final/2017-2018_Final.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Theory of Computation (CSE-3203)\n- **Session:** 17-18\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** \n\n---\n> *Answer any five sets of questions from the followings.*\n\n---\n\n### 1. \n\n**a)** Construct a context-free grammar for the following DFA:\n\n![Question Diagram](../assets/q5.png)\n\n**b)** In compiler, ambiguous testing is a very important matter. Show that the grammar ({S}, {a, b}, R, S) with rules R = S -> aS | aSbS | \u20ac is ambiguous.\n\n**c)** Does a push down automata have memory? Justify.\n\n---\n\n---\n\n### 2. \n\n**a)** Why explicit \u03b5-transitions in finite automata is important?\n\n**b)** Build an \u03b5-NFA for the following language: L= {w | w is empty, or if non-empty will end in 01}\n\n**c)** Convert \u03b5-NFA to DFA based on Question 2(b)\n\n---\n\n---\n\n### 3. \n\n**a)** Differentiate between Finite State and Turing Machines.\n\n**b)** Convert the following NFA to DFA.\n\n![Question Diagram](../assets/q6.png)\n\n**c)** How a DFA processes strings?\n\n---\n\n---\n\n### 4. \n\n**a)** Define push down automata with example.\n\n**b)** Give pushdown automata that recognize the following languages: (a) A = {w \u2208 {0, 1} * | w contains at least three 1s } (b) B = {we {0, 1} * | w = w^R and the length of w is odd }\n\n**c)** Use the pumping lemma to prove that the language is not context free.\n\n![Question Diagram](../assets/q7.png)\n\n---\n\n---\n\n### 5. \n\n**a)** Let, \u2211 = {0, 1}. Construct a DFA for the following language: L = {w | w is a binary string that has even number of 1s and even number of 0s}\n\n**b)** Construct a NFA for the following: Strings where the first symbol is present somewhere later on at least once.\n\n---\n\n---\n\n### 6. \n\n**a)** Prove that the following language is either regular or not. A= { w w w | w \u2208 {a, b} * }\n\n**b)** Prove that if we add a finite set of strings to a regular language, the result is a regular language.\n\n**c)** Write the closure properties of regular languages.\n\n---\n\n---\n\n### 7. \n\n**a)** Describe the relation between Regular Expressions (RE) and Finite Automata. Show with figure that they are interchangeable.\n\n**b)** Convert the following RE to \u03b5-NFA: (0+1)*01(0+1)*\n\n---\n\n---\n\n### 8. \n\n**a)** Find DFA's which accepts the following languages: (i) Strings over {a, b} ending in aa. (ii) String over {a, b} containing three consecutive a's (that is, contains the substring aaa) (iii) All strings over {a, b} where each string of length 5 contains at least two a's.\n\n**b)** Consider the regular expression (a(cd)*b)*. (i) Find a string over {a, b, c, d}^4 which matches the expression. (ii) Find a string over {a, b, c, d}^4 which does not match the expression.\n\n**c)** Does a push down automata have memory? Justify.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Finite Automata & Regular Languages",
+        "Pumping Lemma & Non-Regularity",
+        "Pushdown Automata (PDA)"
+      ],
+      "topic_details": [
+        {
+          "topic": "Finite Automata & Regular Languages",
+          "matched_keyword": "dfa"
+        },
+        {
+          "topic": "Pumping Lemma & Non-Regularity",
+          "matched_keyword": "pumping lemma"
+        },
+        {
+          "topic": "Pushdown Automata (PDA)",
+          "matched_keyword": "pushdown automata"
+        }
+      ]
+    },
+    {
+      "id": "198",
+      "course_code": "CSE-3203",
+      "course_name": "Theory of Computation",
+      "credits": 3.0,
+      "course_dir": "02_CSE-3203_Theory_of_Computation",
+      "session": "2016-2017",
+      "exam_type": "Final",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2016-2017_Final",
+      "rel_pdf_path": "02_CSE-3203_Theory_of_Computation/Final/2016-2017_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/02_CSE-3203_Theory_of_Computation/Final/2016-2017_Final.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Theory of Computation (CSE-3203)\n- **Session:** 16-17\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** \n\n---\n> *Answer any Five (5) Questions from the followings.*\n\n---\n\n### 1. \n\n**a)** Analyze the terms: Theorems, Lemmas and Corollaries.\n\n**b)** What is Automata Theory? Describe the applications of Finite Automata.\n\n**c)** A containment hierarchy of classes of formal languages has been classified as The Chomsky Hierarchy. Describe with suitable figure(s).\n\n---\n\n---\n\n### 2. \n\n**a)** Define push down automata with example.\n\n**b)** Give pushdown automata that recognize the following languages: (a) A = { w \u2208 {0, 1} * | w contains at least three 1s } (b) B = { w \u2208 {0, 1} * | w = w^R and the length of w is odd }\n\n**c)** Use the pumping lemma to prove that the language A is not context free.\n\n![Question Diagram](../assets/q7_K7fbY8C.png)\n\n---\n\n---\n\n### 3. \n\n**a)** What is Turing Machine? Give advantages of it.\n\n**b)** Construct a Turing Machine that accepts the language of palindromes over {a,b}. Also specify the moves to trace the strings abaa, abba,aabaa.\n\n**c)** What is meant by a halting problem in a Turing Machine? Explain with an example.\n\n---\n\n---\n\n### 4. \n\n**a)** Let, \u03a3 = {0, 1} Construct a DFA for the following language: L = {w | w is a binary string that has even number of 1s and even number of 0s}\n\n**b)** Construct a NFA for the following: Strings where the first symbol is present somewhere later on at least once.\n\n---\n\n---\n\n### 5. \n\n**a)** Build an NFA for the following language: L = { w | w ends in 01}\n\n**b)** Describe the Advantages & Caveats for NFA.\n\n**c)** Convert the NFA from Question 5(a), to DFA.\n\n---\n\n---\n\n### 6. \n\n**a)** Why explicit \u03b5-transitions in finite automata is important?\n\n**b)** Build an \u03b5-NFA for the following language: L = {w | w is empty, or if non-empty will end in 01}\n\n**c)** Convert \u03b5-NFA to DFA based on Question 6(b) Question - 6(b): Build an \u03b5-NFA for the following language: L = {w | w is empty, or if non-empty will end in 01}\n\n---\n\n---\n\n### 7. \n\n**a)** Describe the relation between Regular Expressions (RE) and Finite Automata. Show with figure that they are interchangeable.\n\n**b)** Convert the following RE to \u03b5-NFA: (0+1)*01(0+1)*\n\n---\n\n---\n\n### 8. \n\n**a)** Construct a context-free grammar for the following DFA:\n\n![Question Diagram](../assets/q8.png)\n\n**b)** Show that the grammar ({S}, {a, b}, R, S) with rules R = S -> aS | aSbS | \u20ac is ambiguous.\n\n**c)** Does a push down automata have memory? Justify.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Finite Automata & Regular Languages",
+        "Pumping Lemma & Non-Regularity",
+        "Pushdown Automata (PDA)",
+        "Turing Machines & Computability",
+        "Chomsky Hierarchy"
+      ],
+      "topic_details": [
+        {
+          "topic": "Finite Automata & Regular Languages",
+          "matched_keyword": "dfa"
+        },
+        {
+          "topic": "Pumping Lemma & Non-Regularity",
+          "matched_keyword": "pumping lemma"
+        },
+        {
+          "topic": "Pushdown Automata (PDA)",
+          "matched_keyword": "pushdown automata"
+        },
+        {
+          "topic": "Turing Machines & Computability",
+          "matched_keyword": "turing machine"
+        },
+        {
+          "topic": "Chomsky Hierarchy",
+          "matched_keyword": "chomsky hierarchy"
+        }
+      ]
+    },
+    {
+      "id": "197",
+      "course_code": "CSE-3203",
+      "course_name": "Theory of Computation",
+      "credits": 3.0,
+      "course_dir": "02_CSE-3203_Theory_of_Computation",
+      "session": "2019-2020",
+      "exam_type": "1st Mid",
+      "teacher": "Dr. Md Manjur Ahmed",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2019-2020_1st_Mid_Dr_Md_Manjur_Ahmed",
+      "rel_pdf_path": "02_CSE-3203_Theory_of_Computation/Midterm/2019-2020_1st_Mid_Dr_Md_Manjur_Ahmed.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/02_CSE-3203_Theory_of_Computation/Midterm/2019-2020_1st_Mid_Dr_Md_Manjur_Ahmed.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**1st Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Theory of Computation (CSE-3203)\n- **Session:** 19-20\n- **Time:** 50 minutes | **Full Marks:** 50.00\n- **Course Teacher:** Dr. Md Manjur Ahmed\n\n---\n> *... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ...*\n\n---\n\n### 1. \n\n**1)** What is Automata Theory? Describe the applications of Finite Automata.\n\n**2)** Explain the work of lexical analyzer with an on/off switch.\n\n**3)** Analyze the terms: Theorems, Lemmas and Corollaries.\n\n**4)** Construct a NFA for the following: Strings where the first symbol is present somewhere later on at least once.\n\n**5)** Build an NFA for the following language: L = { w | w ends in 101}\n\n**6)** Convert the NFA from Question 5, to DFA. Question-5: Build an NFA for the following language: L = { w | w ends in 101}\n\n**7)** Build an \u03b5-NFA for the following language: L = {w | w is empty, or if non-empty will end in 11}\n\n**8)** Convert \u03b5-NFA to DFA based on Question 7. Question-7: Build an \u03b5-NFA for the following language: L = {w | w is empty, or if non-empty will end in 11}\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Finite Automata & Regular Languages"
+      ],
+      "topic_details": [
+        {
+          "topic": "Finite Automata & Regular Languages",
+          "matched_keyword": "dfa"
+        }
+      ]
+    },
+    {
+      "id": "196",
+      "course_code": "CSE-3203",
+      "course_name": "Theory of Computation",
+      "credits": 3.0,
+      "course_dir": "02_CSE-3203_Theory_of_Computation",
+      "session": "2018-2019",
+      "exam_type": "1st Mid",
+      "teacher": "Dr. Md. Manjur Ahmed",
+      "exam_date": "July 24, 2023",
+      "category": "Midterm",
+      "canonical_name": "2018-2019_1st_Mid_Dr_Md_Manjur_Ahmed",
+      "rel_pdf_path": "02_CSE-3203_Theory_of_Computation/Midterm/2018-2019_1st_Mid_Dr_Md_Manjur_Ahmed.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/02_CSE-3203_Theory_of_Computation/Midterm/2018-2019_1st_Mid_Dr_Md_Manjur_Ahmed.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**1st Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Theory of Computation (CSE-3203)\n- **Session:** 18-19\n- **Time:** N/A | **Full Marks:** 24.00\n- **Course Teacher:** Dr. Md. Manjur Ahmed\n\n---\n---\n\n### 1. \n\n**1)** Write any four application of NFA & DFA\n\n**2)** Construct a DFA for the following language L={w | w is a binary string that has been even number of 1s and even numbers of 0s}\n\n**3)** Construct a NFA for the following: Strings where the first symbol is present somewhere later on at least once.\n\n**4)** Write Bad case where states(DFA)>>states(NFA) describe with pigeonhole principle\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Finite Automata & Regular Languages"
+      ],
+      "topic_details": [
+        {
+          "topic": "Finite Automata & Regular Languages",
+          "matched_keyword": "dfa"
+        }
+      ]
+    },
+    {
+      "id": "195",
+      "course_code": "CSE-3203",
+      "course_name": "Theory of Computation",
+      "credits": 3.0,
+      "course_dir": "02_CSE-3203_Theory_of_Computation",
+      "session": "2017-2018",
+      "exam_type": "1st Mid",
+      "teacher": "N/A",
+      "exam_date": "Oct. 30, 2022",
+      "category": "Midterm",
+      "canonical_name": "2017-2018_1st_Mid",
+      "rel_pdf_path": "02_CSE-3203_Theory_of_Computation/Midterm/2017-2018_1st_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/02_CSE-3203_Theory_of_Computation/Midterm/2017-2018_1st_Mid.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**1st Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Theory of Computation (CSE-3203)\n- **Session:** 17-18\n- **Time:** N/A | **Full Marks:** N/A\n- **Course Teacher:** \n\n---\n---\n\n### 1. \n\n**A)** Describe about Chomsky hierarchy (occasionally referred to as the Chomsky-Sch\u00fctzenberger hierarchy). This hierarchy of grammars was described by Noam Chomsky in 1956 It is also named after Marcel-Paul Sch\u00fctzenberger, who played a crucial role in the development of the theory of formal languages. Chomsky Hierarchy represents the class of languages that are accepted by the different machine. The category of language in Chomsky's Hierarchy is as given below: 1. Type 0 known as Unrestricted Grammar or Recursively enumerable grammar. 2. Type 1 known as Context Sensitive Grammar. 3. Type 2 known as Context Free Grammar. 4. Type 3 Regular Grammar Describe all type.\n\n**B)** Let, \u2211 = {0, 1} Develop a DFA and make a transition table for the following language: L = {w | w is a bit string which contains the substring 11}\n\n**C)** Let, \u2211 = {0, 1} A DFA for the following language: L = {w | w is a binary string that has even number of 1s and even number of 0s} Let the string 110101. Calculate the extension of transition to paths.\n\n**D)** For the keyword recognizer occurrences of the words \"include\", Make a transition diagram.\n\n**E)** Make a NFA: Strings where the first symbol is present somewhere later on at least once.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Finite Automata & Regular Languages",
+        "Context-Free Grammars & Normal Forms",
+        "Turing Machines & Computability",
+        "Chomsky Hierarchy"
+      ],
+      "topic_details": [
+        {
+          "topic": "Finite Automata & Regular Languages",
+          "matched_keyword": "dfa"
+        },
+        {
+          "topic": "Context-Free Grammars & Normal Forms",
+          "matched_keyword": "context free grammar"
+        },
+        {
+          "topic": "Turing Machines & Computability",
+          "matched_keyword": "recursively enumerable"
+        },
+        {
+          "topic": "Chomsky Hierarchy",
+          "matched_keyword": "chomsky hierarchy"
+        }
+      ]
+    },
+    {
+      "id": "871",
+      "course_code": "CSE-3205",
+      "course_name": "Artificial Intelligence",
+      "credits": 3.0,
+      "course_dir": "03_CSE-3205_Artificial_Intelligence",
+      "session": "2021-2022",
+      "exam_type": "Final",
+      "teacher": "Dr. Tania Islam",
+      "exam_date": "Aug. 11, 2026",
+      "category": "Final",
+      "canonical_name": "2021-2022_Final_Dr_Tania_Islam",
+      "rel_pdf_path": "03_CSE-3205_Artificial_Intelligence/Final/2021-2022_Final_Dr_Tania_Islam.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/03_CSE-3205_Artificial_Intelligence/Final/2021-2022_Final_Dr_Tania_Islam.pdf",
+      "has_transcription": false,
+      "has_pdf_text": true,
+      "transcription": "",
+      "pdf_text": "AVAILABLE AT:\n\nOnebyzero Edu - Organized Learning, Smooth Career\nThe Comprehensive Academic Study Platform for University Students in Bangladesh (www.onebyzeroedu.com)\n\nCamScanner\n\n\fAVAILABLE AT:\n\nOnebyzero Edu - Organized Learning, Smooth Career\nThe Comprehensive Academic Study Platform for University Students in Bangladesh (www.onebyzeroedu.com)\n\nCamScanner",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "815",
+      "course_code": "CSE-3205",
+      "course_name": "Artificial Intelligence",
+      "credits": 3.0,
+      "course_dir": "03_CSE-3205_Artificial_Intelligence",
+      "session": "Undated",
+      "exam_type": "None (None)",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "General",
+      "canonical_name": "Undated_Artificial_Intelligence_Q815",
+      "rel_pdf_path": "03_CSE-3205_Artificial_Intelligence/General/Undated_Artificial_Intelligence_Q815.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/03_CSE-3205_Artificial_Intelligence/General/Undated_Artificial_Intelligence_Q815.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "763",
+      "course_code": "CSE-3205",
+      "course_name": "Artificial Intelligence",
+      "credits": 3.0,
+      "course_dir": "03_CSE-3205_Artificial_Intelligence",
+      "session": "Undated",
+      "exam_type": "None (None)",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "General",
+      "canonical_name": "Undated_Artificial_Intelligence_Q763",
+      "rel_pdf_path": "03_CSE-3205_Artificial_Intelligence/General/Undated_Artificial_Intelligence_Q763.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/03_CSE-3205_Artificial_Intelligence/General/Undated_Artificial_Intelligence_Q763.pdf",
+      "has_transcription": false,
+      "has_pdf_text": true,
+      "transcription": "",
+      "pdf_text": "AVAILABLE AT:\n\nOnebyzero Edu - Organized Learning, Smooth Career\nThe Comprehensive Academic Study Platform for University Students in Bangladesh (www.onebyzeroedu.com)\n\nCamScanner\n\n\fAVAILABLE AT:\n\nOnebyzero Edu - Organized Learning, Smooth Career\nThe Comprehensive Academic Study Platform for University Students in Bangladesh (www.onebyzeroedu.com)\n\nCamScanner",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "709",
+      "course_code": "CSE-3205",
+      "course_name": "Artificial Intelligence",
+      "credits": 3.0,
+      "course_dir": "03_CSE-3205_Artificial_Intelligence",
+      "session": "2020-2021",
+      "exam_type": "1st Mid",
+      "teacher": "Dr. Tania Islam",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2020-2021_1st_Mid_Dr_Tania_Islam",
+      "rel_pdf_path": "03_CSE-3205_Artificial_Intelligence/Midterm/2020-2021_1st_Mid_Dr_Tania_Islam.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/03_CSE-3205_Artificial_Intelligence/Midterm/2020-2021_1st_Mid_Dr_Tania_Islam.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**1st Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Artificial Intelligence (CSE-3205)\n- **Session:** 20-21\n- **Time:** 50 minutes | **Full Marks:** 20.00\n- **Course Teacher:** Dr. Tania Islam\n\n---\n---\n\n### 1. \n\n**1)** Compare uninformed search and informed search in terms of completeness, optimality, time complexity, and space complexity.\n\n**2)** Explain why heuristics are important in AI search problems with an example scenario.\n\n**3)** Imagine you are designing an intelligent personal shopping agent for an online store. The agent should understand the user's preferences (style, budget, and past purchase history). Negotiate discounts with the store's pricing system. Recommend the best items while balancing cost, quality, and delivery time. How would you design the perception, reasoning, and action components of this agent, and what AI techniques would you apply in each step?\n\n**4)** Explain the difference between simple reflex agents and model-based reflex agents.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "704",
+      "course_code": "CSE-3205",
+      "course_name": "Artificial Intelligence",
+      "credits": 3.0,
+      "course_dir": "03_CSE-3205_Artificial_Intelligence",
+      "session": "2020-2021",
+      "exam_type": "2nd Mid",
+      "teacher": "Dr. Tania Islam",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2020-2021_2nd_Mid_Dr_Tania_Islam",
+      "rel_pdf_path": "03_CSE-3205_Artificial_Intelligence/Midterm/2020-2021_2nd_Mid_Dr_Tania_Islam.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/03_CSE-3205_Artificial_Intelligence/Midterm/2020-2021_2nd_Mid_Dr_Tania_Islam.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**2nd Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Artificial Intelligence (CSE-3205)\n- **Session:** 20-21\n- **Time:** 50 minutes | **Full Marks:** 20.00\n- **Course Teacher:** Dr. Tania Islam\n\n---\n---\n\n### 1. \n\n**1)** Perform Breadth-First Search (BFS) starting from node A. List the order in which nodes are visited.\n\n**2)** Using A* algorithm, find the shortest path from A to F. Assume the heuristic (straight-line distance to F) is: h(A)=5, h(B)=4, h(C)=2, h(D)=6, h(E)=3, h(F)=0 Show your step-by-step calculation, including f(n)=g(n)+h(n).\n\n**3)** Draw the final search tree showing the paths explored by A*.\n\n**4)** Explain which algorithm (BFS or A*) is more efficient in this case and why.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Uninformed Search",
+        "Heuristic Search"
+      ],
+      "topic_details": [
+        {
+          "topic": "Uninformed Search",
+          "matched_keyword": "bfs"
+        },
+        {
+          "topic": "Heuristic Search",
+          "matched_keyword": "heuristic"
+        }
+      ]
+    },
+    {
+      "id": "495",
+      "course_code": "CSE-3205",
+      "course_name": "Artificial Intelligence",
+      "credits": 3.0,
+      "course_dir": "03_CSE-3205_Artificial_Intelligence",
+      "session": "2019-2020",
+      "exam_type": "Final",
+      "teacher": "Dr. Tania Islam",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2019-2020_Final_Dr_Tania_Islam",
+      "rel_pdf_path": "03_CSE-3205_Artificial_Intelligence/Final/2019-2020_Final_Dr_Tania_Islam.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/03_CSE-3205_Artificial_Intelligence/Final/2019-2020_Final_Dr_Tania_Islam.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Artificial Intelligence (CSE-3205)\n- **Session:** 19-20\n- **Time:** N/A | **Full Marks:** N/A\n- **Course Teacher:** Dr. Tania Islam\n\n---\n> *Answer any five questions from the followings*\n\n---\n\n### 1. \n\n**a)** How is Machine Learning related to Artificial Intelligence?\n\n**b)** Define Agent and Rational Agent through real-time example.\n\n**c)** Distinguish between the following properties of a task environment: i. Static or dynamic ii. Discrete or continuous iii. Single or multi-agent\n\n**d)** What is local maxima? How to escape local maxima?\n\n---\n\n---\n\n### 2. \n\n**a)** Describe the function of vacuum cleaner as an Agent with suitable diagram.\n\n**b)** Imagine, Mary is a model-based Al that builds and maintains an internal representation of the world. And Greg, on the other hand, is a goal-based Al that focuses on achieving specific objectives. Describe the fundamental differences between Model-Based Mary and Goal-Based Greg in terms of their operational strategies. How does each approach affect their decision-making processes and adaptability to changes in their environment\n\n**c)** Define Rational Agent with example. Is vacuum cleaner agent Rational? Why or why not? Explain with suitable reasons.\n\n---\n\n---\n\n### 3. \n\n**a)** Define in your own words the following terms: state, state space, search tree, search node, goal, action, transition model, and branching factor.\n\n**b)** What is Greedy Best First Search? Explain with an example the different stages of Greedy Best First search.\n\n**c)** Explain iterative deepening search with example.\n\n---\n\n---\n\n### 4. \n\n**a)** Explain the process of Minimax without alpha-beta pruning and how it determines the optimal move.\n\n![Question Diagram](../assets/Screenshot_5_tqS3mb3.png)\n\n**b)** How does alpha-beta pruning improve the efficiency of the Minimax algorithm in evaluating game trees like the tree?\n\n**c)** Explain the terms \"max node\" and \"min node\" in the Minimax algorithm. How are they used to represent players in a game?\n\n---\n\n---\n\n### 5. \n\n**a)** Consider the graph shown below where the numbers on the links are link costs and the numbers next to the states are heuristic estimates. Note that the arcs are undirected. Let A be the start state and G be the goal state. Simulate A* search with a strict expanded list on this graph. At each step, show the path to the state of the node that's being expanded, the length of that path, the total estimated cost of the path (actual + heuristic), and the current value of the expanded list (as a list of states).\n\n![Question Diagram](../assets/Screenshot_6_li8M2cJ.png)\n\n**b)** Is the heuristic given in Problem 5.a admissible? Explain.\n\n**c)** Is the heuristic given in Problem 5.a consistent? Explain.\n\n---\n\n---\n\n### 6. \n\n**a)** The graph above shows the step costs for different paths going from the start (S) to the goal (G). Use uniform cost search to find the optimal path to the goal.\n\n![Question Diagram](../assets/Screenshot_7_l4zZkqr.png)\n\n**b)** Write down the advantage of IDS over BFS and DFS. Also, shows times and space complexity among them.\n\n---\n\n---\n\n### 7. \n\n**a)** Consider the following constraint graph for a graph coloring problem (the constraints indicate that connected nodes cannot have the same color). The domains are shown in the boxes next to each variable node. Now answer the following questions: I. What are the variable domains after a full constraint propagation? II. Show the sequence of variable assignments during a pure backtracking search (do not assume that the propagation above has been done), assume that the variables are examined in numerical order and the values are assigned in the order shown next to each node.\n\n![Question Diagram](../assets/Screenshot_8_5nv7Krx.png)\n\n**b)** What is forward checking algorithm? Give an example.\n\n---\n\n---\n\n### 8. \n\n**a)** What is logic, syntax and semantics ? Write down some propositional logic syntax.\n\n**b)** Show that p\u2192(q\u2192r) is logically equivalent to (p\u2227q)\u2192r\n\n**c)** Translate each of the following sentences into First Order Logic (FOL) i. Not all cars have carburetors. ii. All babies are illogical. iii. Every connected and circuit-free graph is a tree. iv. All that glitters is not gold.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Agents & Environments",
+        "Uninformed Search",
+        "Heuristic Search",
+        "Adversarial Search & Games",
+        "Constraint Satisfaction Problems",
+        "Knowledge & Logic",
+        "Probabilistic Reasoning & Learning"
+      ],
+      "topic_details": [
+        {
+          "topic": "Agents & Environments",
+          "matched_keyword": "rational agent"
+        },
+        {
+          "topic": "Uninformed Search",
+          "matched_keyword": "bfs"
+        },
+        {
+          "topic": "Heuristic Search",
+          "matched_keyword": "heuristic"
+        },
+        {
+          "topic": "Adversarial Search & Games",
+          "matched_keyword": "minimax"
+        },
+        {
+          "topic": "Constraint Satisfaction Problems",
+          "matched_keyword": "backtracking"
+        },
+        {
+          "topic": "Knowledge & Logic",
+          "matched_keyword": "propositional logic"
+        },
+        {
+          "topic": "Probabilistic Reasoning & Learning",
+          "matched_keyword": "machine learning"
+        }
+      ]
+    },
+    {
+      "id": "207",
+      "course_code": "CSE-3205",
+      "course_name": "Artificial Intelligence",
+      "credits": 3.0,
+      "course_dir": "03_CSE-3205_Artificial_Intelligence",
+      "session": "2018-2019",
+      "exam_type": "Final",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2018-2019_Final",
+      "rel_pdf_path": "03_CSE-3205_Artificial_Intelligence/Final/2018-2019_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/03_CSE-3205_Artificial_Intelligence/Final/2018-2019_Final.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Artificial Intelligence (CSE-3205)\n- **Session:** 18-19\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** \n\n---\n> *Answer any five Questions from the followings.*\n\n---\n\n### 1. \n\n**a)** What is AI? Differentiate between the strong Al and Weak AI.\n\n**b)** Identify the four sources that demonstrate Evidence of Human Intelligence.\n\n**c)** Distinguish between the following properties of a task environment: i. Static or dynamic ii. Discrete or continuous iii.Single or multi-agent\n\n**d)** Briefly explain the PEAS description of the task environment for an automated taxi.\n\n---\n\n---\n\n### 2. \n\n**a)** Describe the function of vacuum cleaner as an Agent with suitable diagram.\n\n**b)** Convert the following &nbsp; sentence into clausal form:\n\n![Question Diagram](../assets/Screenshot_5_vnC5jel.png)\n\n![Question Diagram](../assets/Screenshot_5_vnC5jel.png)\n\n**c)** For the following database facts, write a completion formula that states that Johny is the only person that lives in Barishal. LIVESIN (johny, Barishal) LIVESIN(alice, Pabna) LIVESIN(darth, bogura) OWNS(johny, smartphone) STUDENT(darth)\n\n---\n\n---\n\n### 3. \n\n**a)** Define the following terms in your own words: state, state space, search tree, search node, goal, action, transition model, and branching factor.\n\n**b)** Perform A* Algorithm on the following figure. Explicitly write down the queue at each step\n\n![Question Diagram](../assets/Screenshot_6_qyPhoFF.png)\n\n---\n\n---\n\n### 4. \n\n**a)** Give the values calculated by minimax for all states in the tree. Do not use alpha-beta pruning.\n\n![Question Diagram](../assets/Screenshot_7_BZjWZ8C.png)\n\n**b)** Indicate which branches of the tree will be pruned by alpha-beta pruning?\n\n---\n\n---\n\n### 5. \n\n**a)** Consider the search space below, where S is the start node and G1 and G2 are goal nodes. Arcs are labeled with the value of a cost function; the number gives the cost of traversing the arc. Above each node is the value of a heuristic function; the number gives the estimate of the distance to the goal. Assume that the algorithms do not keep track of and recognize repeated states. &nbsp; For each of the following search strategies, BFS, DFS, GBFS i. indicate which goal state is reached first (if any) and ii. List in order, all the states that are popped off the OPEN list.\n\n![Question Diagram](../assets/Screenshot_8_iO5G8f9.png)\n\n---\n\n---\n\n### 6. \n\n**a)** The graph above shows the step costs for different paths going from the start (S) to the goal (G).Use uniform cost search to find the optimal path to the goal.\n\n![Question Diagram](../assets/Screenshot_10_mRhNGwn.png)\n\n**b)** Write down the advantage of IDS over BFS and DFS. Also, shows times and space complexity among them.\n\n---\n\n---\n\n### 7. \n\n**a)** What is probabilistic reasoning? How is probabilistic reasoning different from logical reasoning?\n\n**b)** A simple Bayesian Network, with corresponding conditional probability tables, is given below: From the Bayesian network, answer the following questions: i) What is the probability that it is cloudy, it is raining, the sparkler is off, and the grass is wet? ii) What is the probability that it is not cloudy, it is not raining, the sparkler is on, and the grass is wet?\n\n![Question Diagram](../assets/Screenshot_11_ycI1dq8.png)\n\n**c)** Explain backward chaining algorithm with suitable example.\n\n---\n\n---\n\n### 8. \n\n**a)** Translate each of the following sentences into First Order Logic (FOL): i. Not all cars have carburetors ii. Everyone loves everyone. iii.Every connected and circuit-free graph is a tree iv. All that glitters is not gold v. Not all that glitters is gold vi.There is a barber who shaves all men in the town who do not shave themselves\n\n**b)** Discuss the limitations of first-order logic when it comes to expressing certain types of statements or reasoning.\n\n**c)** A proposition with three variables, A, B, and C. Prove that proposition A&and;&not;A&and;(BVC) is a contradiction.\n\n**d)** Prove (AVB)and[(&not;A)&and;(&not;B)] are equivalent.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Agents & Environments",
+        "Uninformed Search",
+        "Heuristic Search",
+        "Adversarial Search & Games",
+        "Knowledge & Logic",
+        "Probabilistic Reasoning & Learning"
+      ],
+      "topic_details": [
+        {
+          "topic": "Agents & Environments",
+          "matched_keyword": "peas"
+        },
+        {
+          "topic": "Uninformed Search",
+          "matched_keyword": "bfs"
+        },
+        {
+          "topic": "Heuristic Search",
+          "matched_keyword": "heuristic"
+        },
+        {
+          "topic": "Adversarial Search & Games",
+          "matched_keyword": "minimax"
+        },
+        {
+          "topic": "Knowledge & Logic",
+          "matched_keyword": "first order logic"
+        },
+        {
+          "topic": "Probabilistic Reasoning & Learning",
+          "matched_keyword": "bayesian network"
+        }
+      ]
+    },
+    {
+      "id": "206",
+      "course_code": "CSE-3205",
+      "course_name": "Artificial Intelligence",
+      "credits": 3.0,
+      "course_dir": "03_CSE-3205_Artificial_Intelligence",
+      "session": "2017-2018",
+      "exam_type": "Final",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2017-2018_Final",
+      "rel_pdf_path": "03_CSE-3205_Artificial_Intelligence/Final/2017-2018_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/03_CSE-3205_Artificial_Intelligence/Final/2017-2018_Final.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "205",
+      "course_code": "CSE-3205",
+      "course_name": "Artificial Intelligence",
+      "credits": 3.0,
+      "course_dir": "03_CSE-3205_Artificial_Intelligence",
+      "session": "2016-2017",
+      "exam_type": "Final",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2016-2017_Final",
+      "rel_pdf_path": "03_CSE-3205_Artificial_Intelligence/Final/2016-2017_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/03_CSE-3205_Artificial_Intelligence/Final/2016-2017_Final.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "204",
+      "course_code": "CSE-3205",
+      "course_name": "Artificial Intelligence",
+      "credits": 3.0,
+      "course_dir": "03_CSE-3205_Artificial_Intelligence",
+      "session": "2018-2019",
+      "exam_type": "2nd Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2018-2019_2nd_Mid",
+      "rel_pdf_path": "03_CSE-3205_Artificial_Intelligence/Midterm/2018-2019_2nd_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/03_CSE-3205_Artificial_Intelligence/Midterm/2018-2019_2nd_Mid.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "203",
+      "course_code": "CSE-3205",
+      "course_name": "Artificial Intelligence",
+      "credits": 3.0,
+      "course_dir": "03_CSE-3205_Artificial_Intelligence",
+      "session": "2019-2020",
+      "exam_type": "1st Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2019-2020_1st_Mid",
+      "rel_pdf_path": "03_CSE-3205_Artificial_Intelligence/Midterm/2019-2020_1st_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/03_CSE-3205_Artificial_Intelligence/Midterm/2019-2020_1st_Mid.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "202",
+      "course_code": "CSE-3205",
+      "course_name": "Artificial Intelligence",
+      "credits": 3.0,
+      "course_dir": "03_CSE-3205_Artificial_Intelligence",
+      "session": "2018-2019",
+      "exam_type": "1st Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2018-2019_1st_Mid",
+      "rel_pdf_path": "03_CSE-3205_Artificial_Intelligence/Midterm/2018-2019_1st_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/03_CSE-3205_Artificial_Intelligence/Midterm/2018-2019_1st_Mid.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "201",
+      "course_code": "CSE-3205",
+      "course_name": "Artificial Intelligence",
+      "credits": 3.0,
+      "course_dir": "03_CSE-3205_Artificial_Intelligence",
+      "session": "2017-2018",
+      "exam_type": "1st Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2017-2018_1st_Mid",
+      "rel_pdf_path": "03_CSE-3205_Artificial_Intelligence/Midterm/2017-2018_1st_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/03_CSE-3205_Artificial_Intelligence/Midterm/2017-2018_1st_Mid.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "468",
+      "course_code": "CSE-3206",
+      "course_name": "Artificial Intelligence Lab",
+      "credits": 1.5,
+      "course_dir": "04_CSE-3206_Artificial_Intelligence_Lab",
+      "session": "2019-2020",
+      "exam_type": "Lab Final",
+      "teacher": "Dr. Tania Islam",
+      "exam_date": "Sept. 30, 2024",
+      "category": "Lab_Exam",
+      "canonical_name": "2019-2020_Lab_Final_Dr_Tania_Islam",
+      "rel_pdf_path": "04_CSE-3206_Artificial_Intelligence_Lab/Lab_Exam/2019-2020_Lab_Final_Dr_Tania_Islam.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/04_CSE-3206_Artificial_Intelligence_Lab/Lab_Exam/2019-2020_Lab_Final_Dr_Tania_Islam.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "885",
+      "course_code": "CSE-3207",
+      "course_name": "Peripherals and Interfacing",
+      "credits": 3.0,
+      "course_dir": "05_CSE-3207_Peripherals_and_Interfacing",
+      "session": "2021-2022",
+      "exam_type": "Final",
+      "teacher": "Dr. Tania Islam",
+      "exam_date": "Aug. 24, 2026",
+      "category": "Final",
+      "canonical_name": "2021-2022_Final_Dr_Tania_Islam",
+      "rel_pdf_path": "05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf",
+      "has_transcription": false,
+      "has_pdf_text": true,
+      "transcription": "",
+      "pdf_text": "AVAILABLE AT:\n\nOnebyzero Edu - Organized Learning, Smooth Career\nThe Comprehensive Academic Study Platform for University Students in Bangladesh (www.onebyzeroedu.com)\n\n\fAVAILABLE AT:\n\nOnebyzero Edu - Organized Learning, Smooth Career\nThe Comprehensive Academic Study Platform for University Students in Bangladesh (www.onebyzeroedu.com)",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "818",
+      "course_code": "CSE-3207",
+      "course_name": "Peripherals and Interfacing",
+      "credits": 3.0,
+      "course_dir": "05_CSE-3207_Peripherals_and_Interfacing",
+      "session": "2021-2022",
+      "exam_type": "1st Mid",
+      "teacher": "Dr. Tania Islam",
+      "exam_date": "March 4, 2026",
+      "category": "Midterm",
+      "canonical_name": "2021-2022_1st_Mid_Dr_Tania_Islam",
+      "rel_pdf_path": "05_CSE-3207_Peripherals_and_Interfacing/Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf",
+      "has_transcription": true,
+      "has_pdf_text": true,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**1st Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Peripherals and Interfacing (CSE-3207)\n- **Session:** 21-22\n- **Time:** 50 minutes | **Full Marks:** 20.00\n- **Course Teacher:** Dr. Tania Islam\n\n---\n---\n\n### 1. \n\n**a)** Explain the need for a peripheral interface in a computer system. Draw a block diagram showing a CPU connected to multiple peripherals through an I/O interface. Describe the basic functions of the interface. Give one advantage of using an interface instead of direct connection.\n\n**b)** Describe how a keyboard is interfaced with a computer. Mention at least two types of keyboards (e.g., membrane, mechanical) and their basic principle difference. Explain the steps from pressing a key to the CPU receiving the data.\n\n**c)** Describe how a mouse is connected to a computer system. Mention at least two types of mice (e.g., optical, mechanical/ball) and the principle of how they detect movement. Explain what types of data the mouse sends to the CPU.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "11/2/26, 7:41 PM\n\nCourse Title: Peripherals and Interfacing (CSE-3207) - 1st Mid Exam\n\nUniversity of Barishal\nDepartment of Computer Science and Engineering\n1st Mid Exam - Semester: 6th\nCourse: Course Title: Peripherals and Interfacing (CSE-3207)\nTime: 50 minutes | Marks: 20.00\n\nSession: 21-22\nTeacher: Dr. Tania Islam\n\n1.\na) Explain the need for a peripheral interface in a computer system. Draw a block diagram showing a\nCPU connected to multiple peripherals through an I/O interface. Describe the basic functions of\nthe interface. Give one advantage of using an interface instead of direct connection.\nb) Describe how a keyboard is interfaced with a computer. Mention at least two types of keyboards\n(e.g., membrane, mechanical) and their basic principle difference. Explain the steps from pressing\na key to the CPU receiving the data.\nc) Describe how a mouse is connected to a computer system. Mention at least two types of mice\n(e.g., optical, mechanical/ball) and the principle of how they detect movement. Explain what types\nof data the mouse sends to the CPU.\n\nfile:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/1st_Mid_(21-22)_Dr._Tania_Islam_818_Qu\u2026\n\n1/1",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "769",
+      "course_code": "CSE-3207",
+      "course_name": "Peripherals and Interfacing",
+      "credits": 3.0,
+      "course_dir": "05_CSE-3207_Peripherals_and_Interfacing",
+      "session": "2020-2021",
+      "exam_type": "Final",
+      "teacher": "Dr. Tania Islam",
+      "exam_date": "Dec. 3, 2025",
+      "category": "Final",
+      "canonical_name": "2020-2021_Final_Dr_Tania_Islam",
+      "rel_pdf_path": "05_CSE-3207_Peripherals_and_Interfacing/Final/2020-2021_Final_Dr_Tania_Islam.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2020-2021_Final_Dr_Tania_Islam.pdf",
+      "has_transcription": true,
+      "has_pdf_text": true,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Peripherals and Interfacing (CSE-3207)\n- **Session:** 20-21\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** Dr. Tania Islam\n\n---\n> *Answer any five(5) from the followings*\n\n---\n\n### 1. \n\n**a)** What is a peripheral device in a computer system? Why do we need interfacing circuits between the CPU and peripherals?\n\n**b)** &nbsp;Explain why peripherals cannot be directly connected to a microprocessor. Describe how an interface unit helps in matching speed, data format, and voltage levels between the CPU and external devices. Give one simple example.\n\n**c)** Differentiate between off-line and on-line peripherals.\n\n---\n\n---\n\n### 2. \n\n**a)** &nbsp;Explain what Bluetooth technology is, how it connects devices wirelessly, and give examples (headphones, keyboards, file transfer between mobiles).\n\n**b)** Describe why USB is widely used, its advantages (plug-and-play, high speed, power supply through cable), and examples of USB devices.\n\n**c)** Explain in simple terms how data flows through USB (host controller &rarr; device &rarr; packets), how the device is detected, and how communication is established\n\n---\n\n---\n\n### 3. \n\n**a)** Explain from the figure, how the control unit sends signals to the datapath, memory, and I/O devices. Mention how it controls reading, writing, and executing instructions based on the system bus.\n\n**b)** &nbsp;Explain what the datapath contains (ALU, registers, buses) and what the control unit does (generates control signals, manages instruction execution). Describe how both work together.\n\n**c)** Describe why we separate hardware into layers (CPU, memory, I/O), how abstraction hides low-level details, and how it helps software work on different hardware without changes.\n\n---\n\n---\n\n### 4. \n\n**a)** What is the role of the Accumulator (ACC) and ALU as shown in the 8085 architecture diagram?\n\n**b)** Why is the Instruction Register (IR) and Instruction Decoder important in the 8085 architecture as shown in the figure?\n\n**c)** How does the 8085 use internal buses and registers (W, Z, B, C, D, E, H, L, SP, PC) shown in the figure for data transfer?\n\n---\n\n---\n\n### 5. \n\n**a)** Why must the order of PUSH and POP operations be opposite when using the stack in a microprocessor?\n\n**b)** &nbsp;How does the 8085 microprocessor use the stack and stack pointer during CALL and RET instructions?\n\n**c)** What is the difference between call by value and call by reference, and how is the stack used in these methods?\n\n---\n\n---\n\n### 6. \n\n**a)** Explain the concept of superscalar processing. Why is the 8085 microprocessor not considered a superscalar processor? Discuss any two features that differentiate a superscalar CPU from the 8085.\n\n**b)** Describe the superscalar instruction decode and issue mechanism. How does dependency analysis (RAW, WAR, WAW) help the processor decide whether instructions can be issued in parallel?\n\n**c)** What is parallel encoding in instruction processing? Explain how parallel encoding and decoding enable multiple instruction pipelines. Give an example of independent and dependent instruction pairs.\n\n---\n\n---\n\n### 7. \n\n**a)** &nbsp;Define a RISC processor. List any four characteristics that differentiate it from a CISC processor.\n\n**b)** &nbsp;Explain the purpose of the Program Counter (PC) in assembly language programming. How does it work in a RISC processor?\n\n**c)** What is an opcode in assembly language? Give an example of a RISC instruction and identify its opcode.\n\n---\n\n---\n\n### 8. \n\n**a)** What is a peripheral device? Give two examples of input devices and two examples of output devices.\n\n**b)** &nbsp;Explain the difference between memory-mapped I/O and port-mapped I/O.\n\n**c)** What is an interrupt? Explain how it helps in interfacing peripherals with a microprocessor.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "11/2/26, 7:41 PM\n\nCourse Title: Peripherals and Interfacing (CSE-3207) - Final Exam\n\nUniversity of Barishal\nDepartment of Computer Science and Engineering\nFinal Exam - Semester: 6th\nCourse: Course Title: Peripherals and Interfacing (CSE-3207)\nTime: 180 minutes | Marks: 60.00\n\nSession: 20-21\nTeacher: Dr. Tania Islam\n\nAnswer any five(5) from the followings\n\n1.\na) What is a peripheral device in a computer system? Why do we need interfacing circuits between\nthe CPU and peripherals?\nb)\n\nExplain why peripherals cannot be directly connected to a microprocessor. Describe how an\ninterface unit helps in matching speed, data format, and voltage levels between the CPU and\nexternal devices. Give one simple example.\n\nc) Differentiate between off-line and on-line peripherals.\n\n2.\na)\n\nExplain what Bluetooth technology is, how it connects devices wirelessly, and give examples\n(headphones, keyboards, file transfer between mobiles).\n\nb) Describe why USB is widely used, its advantages (plug-and-play, high speed, power supply\nthrough cable), and examples of USB devices.\nc) Explain in simple terms how data flows through USB (host controller \u2192 device \u2192 packets), how\nthe device is detected, and how communication is established\n\n3.\n\nfile:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/Final_(20-21)_Dr._Tania_Islam_769_Question_\u2026\n\n1/4\n\n\f11/2/26, 7:41 PM\n\nCourse Title: Peripherals and Interfacing (CSE-3207) - Final Exam\n\na) Explain from the figure, how the control unit sends signals to the datapath, memory, and I/O\ndevices. Mention how it controls reading, writing, and executing instructions based on the system\nbus.\nb)\n\nExplain what the datapath contains (ALU, registers, buses) and what the control unit does\n(generates control signals, manages instruction execution). Describe how both work together.\n\nc) Describe why we separate hardware into layers (CPU, memory, I/O), how abstraction hides lowlevel details, and how it helps software work on different hardware without changes.\n\n4.\na) What is the role of the Accumulator (ACC) and ALU as shown in the 8085 architecture diagram?\nb) Why is the Instruction Register (IR) and Instruction Decoder important in the 8085 architecture as\nshown in the figure?\nc) How does the 8085 use internal buses and registers (W, Z, B, C, D, E, H, L, SP, PC) shown in the\nfigure for data transfer?\n\n5.\na) Why must the order of PUSH and POP operations be opposite when using the stack in a\nmicroprocessor?\nb)\n\nHow does the 8085 microprocessor use the stack and stack pointer during CALL and RET\ninstructions?\n\nc) What is the difference between call by value and call by reference, and how is the stack used in\nthese methods?\n\n6.\na) Explain the concept of superscalar processing. Why is the 8085 microprocessor not considered a\nsuperscalar processor? Discuss any two features that differentiate a superscalar CPU from the\n8085.\nfile:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/Final_(20-21)_Dr._Tania_Islam_769_Question_\u2026\n\n2/4\n\n\f11/2/26, 7:41 PM\n\nCourse Title: Peripherals and Interfacing (CSE-3207) - Final Exam\n\nb) Describe the superscalar instruction decode and issue mechanism. How does dependency\nanalysis (RAW, WAR, WAW) help the processor decide whether instructions can be issued in\nparallel?\nc) What is parallel encoding in instruction processing? Explain how parallel encoding and decoding\nenable multiple instruction pipelines. Give an example of independent and dependent instruction\npairs.\n\n7.\na)\n\nDefine a RISC processor. List any four characteristics that differentiate it from a CISC processor.\n\nb)\n\nExplain the purpose of the Program Counter (PC) in assembly language programming. How does\nit work in a RISC processor?\n\nc) What is an opcode in assembly language? Give an example of a RISC instruction and identify its\nopcode.\n\n8.\na) What is a peripheral device? Give two examples of input devices and two examples of output\ndevices.\nb)\n\nExplain the difference between memory-mapped I/O and port-mapped I/O.\n\nc) What is an interrupt? Explain how it helps in interfacing peripherals with a microprocessor.\n\nfile:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/Final_(20-21)_Dr._Tania_Islam_769_Question_\u2026\n\n3/4\n\n\f11/2/26, 7:41 PM\n\nCourse Title: Peripherals and Interfacing (CSE-3207) - Final Exam\n\nfile:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/Final_(20-21)_Dr._Tania_Islam_769_Question_\u2026\n\n4/4",
+      "topics": [
+        "8254/8253 Programmable Interval Timer"
+      ],
+      "topic_details": [
+        {
+          "topic": "8254/8253 Programmable Interval Timer",
+          "matched_keyword": "counter"
+        }
+      ]
+    },
+    {
+      "id": "717",
+      "course_code": "CSE-3207",
+      "course_name": "Peripherals and Interfacing",
+      "credits": 3.0,
+      "course_dir": "05_CSE-3207_Peripherals_and_Interfacing",
+      "session": "2020-2021",
+      "exam_type": "2nd Mid",
+      "teacher": "Dr. Tania Islam",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2020-2021_2nd_Mid_Dr_Tania_Islam",
+      "rel_pdf_path": "05_CSE-3207_Peripherals_and_Interfacing/Midterm/2020-2021_2nd_Mid_Dr_Tania_Islam.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2020-2021_2nd_Mid_Dr_Tania_Islam.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**2nd Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Peripherals and Interfacing (CSE-3207)\n- **Session:** 20-21\n- **Time:** 50 minutes | **Full Marks:** 20.00\n- **Course Teacher:** Dr. Tania Islam\n\n---\n---\n\n### 1. \n\n**1)** Give an example of an operation that uses the stack pointer.\n\n**2)** Draw and label the block diagram of the 8085 microprocessor.\n\n**3)** Differentiate between microprocessor and microcontroller.\n\n**4)** Differentiate between volatile and non-volatile memory.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "716",
+      "course_code": "CSE-3207",
+      "course_name": "Peripherals and Interfacing",
+      "credits": 3.0,
+      "course_dir": "05_CSE-3207_Peripherals_and_Interfacing",
+      "session": "2020-2021",
+      "exam_type": "1st Mid",
+      "teacher": "Dr. Tania Islam",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2020-2021_1st_Mid_Dr_Tania_Islam",
+      "rel_pdf_path": "05_CSE-3207_Peripherals_and_Interfacing/Midterm/2020-2021_1st_Mid_Dr_Tania_Islam.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2020-2021_1st_Mid_Dr_Tania_Islam.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**1st Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Peripherals and Interfacing (CSE-3207)\n- **Session:** 20-21\n- **Time:** 50 minutes | **Full Marks:** 20.00\n- **Course Teacher:** Dr. Tania Islam\n\n---\n---\n\n### 1. \n\n**1)** Explain one real-world application where a GPU is more efficient than a CPU.\n\n**2)** Explain the difference between RISC and CISC architectures. Give an example of a RISC processor and a CISC processor.\n\n**3)** What is a clock cycle and how does it affect CPU performance?\n\n**4)** Explain the working principle of Bluetooth communication.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "486",
+      "course_code": "CSE-3207",
+      "course_name": "Peripherals and Interfacing",
+      "credits": 3.0,
+      "course_dir": "05_CSE-3207_Peripherals_and_Interfacing",
+      "session": "2019-2020",
+      "exam_type": "Final",
+      "teacher": "Dr. Tania Islam",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2019-2020_Final_Dr_Tania_Islam",
+      "rel_pdf_path": "05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Peripherals and Interfacing (CSE-3207)\n- **Session:** 19-20\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** Dr. Tania Islam\n\n---\n> *Answer any five Questions from the followings*\n\n---\n\n### 1. \n\n**a)** What is Interface? Briefly explain different types of Interface\n\n**b)** What do you mean by Computer peripheral? List down the input and output Peripherals\n\n**c)** Differentiate between off-line and on-line peripherals\n\n**d)** Write short note on Universal Serial Bus\n\n---\n\n---\n\n### 2. \n\n**a)** Define the terms data path and control path . Explain their roles in the execution of instructions and how they interact with each other within a CPU\n\n**b)** Explain the components and functionality of an adder and a multiplexer in digital circuits.\n\n**c)** Define control hazards , data hazards , and structural hazards in the context of pipelined CPU architectures. Discuss the impact of each type of hazard on instruction execution and the techniques used to mitigate them.\n\n---\n\n---\n\n### 3. \n\n**a)** What do you mean by the accuracy of an optical mouse? Describe the factors that affect the quality of an optical mouse.\n\n**b)** Write short notes on: i. Polling rate ii. Refresh rate\n\n**c)** Can a mouse&#39;s sensitivity (DPI) be adjusted, and why might someone want to change it?\n\n---\n\n---\n\n### 4. \n\n**a)** Describe the function and importance of the Arithmetic Logic Unit (ALU) in a CPU. What types of operations does the ALU perform, and how does it interact with other components of the processor during instruction execution?\n\n**b)** Create a flowchart to illustrate the process of multiplying two numbers using assembly language. Explain the key steps involved in the flowchart and how they translate into assembly language instructions.\n\n**c)** Define the terms Stack Pointer (SP) and Stack Memory in the context of computer architecture.\n\n---\n\n---\n\n### 5. \n\n**a)** Define cycle time and CPI (Cycles Per Instruction) . How do these metries influence processor performance? Provide an example of how reducing CPI or cycle time can improve overall performance.\n\n**b)** Define registers in the context of computer architecture. What are the different types of registers, and how do they contribute to the overall performance of a CPU?\n\n---\n\n---\n\n### 6. \n\n**a)** Define processor architecture and explain its importance in computer systems. Describe the key components of a processor architecture and how they work together to execute instructions.\n\n**b)** Compare RISC (Reduced Instruction Set Computing) and CISC (Complex Instruction Set Computing) architectures. What are the advantages and disadvantages of each, and in what types of applications are they typically used?\n\n---\n\n---\n\n### 7. \n\n**a)** Explain the architecture and performance of GPU. Why are GPUs particularly well-suited for parallel processing tasks?\n\n**b)** Discuss the advancements introduced with Bluetooth 4.0 technology in comparison to its predecessors. What key features made Bluetooth 4.0 a significant improvement for mobile devices.\n\n**c)** USB 3.0, launched in 2010, introduced key improvements over earlier versions. Explain its main features and benefits.\n\n---\n\n---\n\n### 8. \n\n**a)** Write short notes on the Hall effect keyboard.\n\n**b)** Write down the difference between laser keyboard and dome switch keyboard\n\n**c)** Discuss the impact of proper keyboard ergonomics on user productivity and health. What are some key ergonomic tips for reducing strain when using a keyboard for long periodspp?\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "213",
+      "course_code": "CSE-3207",
+      "course_name": "Peripherals and Interfacing",
+      "credits": 3.0,
+      "course_dir": "05_CSE-3207_Peripherals_and_Interfacing",
+      "session": "2018-2019",
+      "exam_type": "Final",
+      "teacher": "Dr. Tania Islam",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2018-2019_Final_Dr_Tania_Islam",
+      "rel_pdf_path": "05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Peripherals and Interfacing (CSE-3207)\n- **Session:** 18-19\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** Dr. Tania Islam\n\n---\n> *Answer any five Questions from the followings.*\n\n---\n\n### 1. \n\n**a)** What is Interface? Briefly explain different types of Interface\n\n**b)** What do you mean by Computer peripheral? List down the input and output Peripherals.\n\n**c)** Differentiate between off-line and on-line peripherals\n\n**d)** Write short note on Universal Serial Bus\n\n---\n\n---\n\n### 2. \n\n**a)** What is the Aspect ratio and Viewable area?\n\n**b)** Why LCD is called liquid crystal? Draw and define the cutaway rendering of a color CRT\n\n**c)** Describe the working procedure of a CRT monitor and provide a simplified diagram illustrating the key components and electron beam&#39;s path within the monitor?\n\n---\n\n---\n\n### 3. \n\n**a)** What do you mean by the accuracy of an optical mouse? Describe the factors that affect the quality of an optical mouse.\n\n**b)** Write short notes on: i. Polling rate ii. Refresh rate &nbsp;\n\n**c)** Can a mouse&#39;s sensitivity (DPI) be adjusted, and why might someone want to change it?\n\n---\n\n---\n\n### 4. \n\n**a)** If the 3 rd bit of port C has to be &quot;RESET&quot;, then what is the control word of 82C55?\n\n**b)** What is bar code? Describe the principle of barcode reading.\n\n**c)** Discuss the role of input/output derivers for UNIX/LINUX operating system.\n\n---\n\n---\n\n### 5. \n\n**a)** Explain various storage interfaces.\n\n**b)** What is sound card? Describe the major components of a sound card.\n\n**c)** Describe the functions of the signals BUSY, PAPER, #ERROR, #INI and #STR of the parallel printer.\n\n---\n\n---\n\n### 6. \n\n**a)** Define digital camera scanner. Write down the advantages and disadvantages of digital camera scanner over other scanner.\n\n**b)** Write down the advantages &amp; disadvantages of Drum scanner over flatbed scanner.\n\n**c)** Define check digit. Using the following code determines the check digit. &quot;93000283936&quot;\n\n---\n\n---\n\n### 7. \n\n**a)** Define printer. What are the basic technologies of Printer?\n\n**b)** Briefly explain the inkjet printer printing process. &nbsp;\n\n**c)** Why Laser printer is so popular over other printers?\n\n---\n\n---\n\n### 8. \n\n**a)** Write short notes on the Hall effect keyboard.\n\n**b)** Write down the difference between laser keyboard and dome switch keyboard\n\n**c)** What is hall effect keyboard? Write down the working principle of these keyboard.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "8255 Programmable Peripheral Interface",
+        "8254/8253 Programmable Interval Timer"
+      ],
+      "topic_details": [
+        {
+          "topic": "8255 Programmable Peripheral Interface",
+          "matched_keyword": "port c"
+        },
+        {
+          "topic": "8254/8253 Programmable Interval Timer",
+          "matched_keyword": "control word"
+        }
+      ]
+    },
+    {
+      "id": "212",
+      "course_code": "CSE-3207",
+      "course_name": "Peripherals and Interfacing",
+      "credits": 3.0,
+      "course_dir": "05_CSE-3207_Peripherals_and_Interfacing",
+      "session": "2017-2018",
+      "exam_type": "Final",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2017-2018_Final",
+      "rel_pdf_path": "05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Peripherals and Interfacing (CSE-3207)\n- **Session:** 17-18\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** \n\n---\n> *Answer any five Questions from the followings.*\n\n---\n\n### 1. \n\n**a)** Define computer peripherals. Make a brief list of most well known Input and Output peripherals\n\n**b)** What do you know about keyboard? Briefly explain the basic working principles of keyboard?\n\n**c)** Write short notes on the Hall effect keyboard.\n\n---\n\n---\n\n### 2. \n\n**a)** How can we calculate the measurements size of computer display?\n\n**b)** Why LCD is called liquid crystal? Explain how CRT monitor display an image.\n\n**c)** Write down the benefits and the limitations of optical mice over mechanical mice.\n\n---\n\n---\n\n### 3. \n\n**a)** Write down prominent features including advantages, disadvantages and real time applications of OMR, MICR and OCR\n\n**b)** 8255 operates in three operational modes: Mode 0, Mode 1, Mode 2. Explain them with right control word.\n\n**c)** Discuss the role of input/output derivers for UNIX/LINUX operating system.\n\n---\n\n---\n\n### 4. \n\n**a)** Mention the basic role of DMA. Make a brief description of DMA transfer modes.\n\n**b)** What do you mean by cycle stealing in DMA?\n\n**c)** Draw the block diagram of 8255 architecture. Write down the port functions of 8255.\n\n---\n\n---\n\n### 5. \n\n**a)** Compare Memory-mapped I/O with peripheral I/O\n\n**b)** What is the main purpose of Scanner? Write down the basic steps of Scanning process &nbsp;elaborately.\n\n**c)** How does computer mouse work?\n\n---\n\n---\n\n### 6. \n\n**a)** Why UPC-A, UPC-E, UPC Supplemental are needed?\n\n**b)** What is Barcode Reader? Define and identify the following barcode structure.\n\n**c)** Define check digit. Using the following code determines the check digit. &quot;93000283936&quot;\n\n---\n\n---\n\n### 7. \n\n**a)** Define printer. What are the basic technologies of Printer?\n\n**b)** i. What are the color schemes in printing? ii. How does plotter enhance printing?\n\n**c)** Briefly explain the inkjet printer printing process.\n\n**d)** Differentiate between Dot matrix printing and Laser printing.\n\n---\n\n---\n\n### 8. \n\n**a)** Write short notes on main component of Touch Screen.\n\n**b)** What is MIDI? What are the benefits of MIDI with some applications?\n\n**c)** Explain the command byte 10011100 of the command resister in the 82C55.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "8255 Programmable Peripheral Interface",
+        "8254/8253 Programmable Interval Timer",
+        "DMA Controller"
+      ],
+      "topic_details": [
+        {
+          "topic": "8255 Programmable Peripheral Interface",
+          "matched_keyword": "8255"
+        },
+        {
+          "topic": "8254/8253 Programmable Interval Timer",
+          "matched_keyword": "control word"
+        },
+        {
+          "topic": "DMA Controller",
+          "matched_keyword": "dma"
+        }
+      ]
+    },
+    {
+      "id": "211",
+      "course_code": "CSE-3207",
+      "course_name": "Peripherals and Interfacing",
+      "credits": 3.0,
+      "course_dir": "05_CSE-3207_Peripherals_and_Interfacing",
+      "session": "2016-2017",
+      "exam_type": "Final",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2016-2017_Final",
+      "rel_pdf_path": "05_CSE-3207_Peripherals_and_Interfacing/Final/2016-2017_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2016-2017_Final.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Peripherals and Interfacing (CSE-3207)\n- **Session:** 16-17\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** \n\n---\n> *N.B.: Answer any FIVE questions out of the followings. All parts of each question must be answered consecutively. Right side of the question shows the maximum marks.*\n\n---\n\n### 1. \n\n**a)** What is Interface? Briefly explain different types of Interfaces.\n\n**b)** What do you mean by Computer peripheral? List down the input and output Peripherals.\n\n**c)** Differentiate between off-line and on-line peripherals.\n\n**d)** Write short note on Universal Serial Bus.\n\n---\n\n---\n\n### 2. \n\n**a)** How I/O port address allows the software drivers to communicate with hardware devices on computer.\n\n**b)** Explain the I/O interface from serial to parallel and parallel to SCSI converter.\n\n**c)** Discuss the role of input/output derivers for UNIX/LINUX operating system.\n\n---\n\n---\n\n### 3. \n\n**a)** List various I/O data transfer techniques. Make brief explanation about their relative merits/demerits.\n\n**b)** Describe the basic feature of different types of MIDI messages. Mention the basic application of MIDI.\n\n**c)** What is MIDI along with its port? What are the pros/cons of MIDI?\n\n---\n\n---\n\n### 4. \n\n**a)** 8255 operates in three operational modes: Mode 0, Mode 1, Mode 2. Explain them with right control word.\n\n**b)** Draw the block diagram of 8255 architecture. Write down the port functions of 8255.\n\n---\n\n---\n\n### 5. \n\n**a)** Write down prominent features including advantages, disadvantages and real time applications of OMR/OCR/MICR.\n\n**b)** Make comparative discussion about laser printer and dot matrix printer.\n\n**c)** What do you mean by cycle stealing in DMA?\n\n---\n\n---\n\n### 6. \n\n**a)** What is Aspect ratio and viewable area?\n\n**b)** Working procedure of plasma display monitor.\n\n**c)** How does work Bluetooth mouse and wireless mouse?\n\n**d)** Write short notes on the Hall effect keyboard.\n\n---\n\n---\n\n### 7. \n\n**a)** Compare Memory-mapped I/O with peripheral I/O.\n\n**b)** What is Barcode Reader? Define and identify the following barcode structure.\n\n**c)** Define check digit. Using the following code determines the check digit. &quot;93000283936&quot;\n\n---\n\n---\n\n### 8. \n\n**a)** Define printer. What are the basic technologies of Printer?\n\n**b)** Briefly explain the inkjet printer printing process.\n\n**c)** Define Drum scanner and Digital camera Scanner. How CCD array works inside a scanner?\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "8255 Programmable Peripheral Interface",
+        "8254/8253 Programmable Interval Timer",
+        "DMA Controller"
+      ],
+      "topic_details": [
+        {
+          "topic": "8255 Programmable Peripheral Interface",
+          "matched_keyword": "8255"
+        },
+        {
+          "topic": "8254/8253 Programmable Interval Timer",
+          "matched_keyword": "control word"
+        },
+        {
+          "topic": "DMA Controller",
+          "matched_keyword": "dma"
+        }
+      ]
+    },
+    {
+      "id": "210",
+      "course_code": "CSE-3207",
+      "course_name": "Peripherals and Interfacing",
+      "credits": 3.0,
+      "course_dir": "05_CSE-3207_Peripherals_and_Interfacing",
+      "session": "2018-2019",
+      "exam_type": "2nd Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2018-2019_2nd_Mid",
+      "rel_pdf_path": "05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_2nd_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_2nd_Mid.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "209",
+      "course_code": "CSE-3207",
+      "course_name": "Peripherals and Interfacing",
+      "credits": 3.0,
+      "course_dir": "05_CSE-3207_Peripherals_and_Interfacing",
+      "session": "2019-2020",
+      "exam_type": "1st Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2019-2020_1st_Mid",
+      "rel_pdf_path": "05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "208",
+      "course_code": "CSE-3207",
+      "course_name": "Peripherals and Interfacing",
+      "credits": 3.0,
+      "course_dir": "05_CSE-3207_Peripherals_and_Interfacing",
+      "session": "2018-2019",
+      "exam_type": "1st Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2018-2019_1st_Mid",
+      "rel_pdf_path": "05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_1st_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_1st_Mid.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "881",
+      "course_code": "CSE-3209",
+      "course_name": "Simulation and Modeling",
+      "credits": 3.0,
+      "course_dir": "07_CSE-3209_Simulation_and_Modeling",
+      "session": "2021-2022",
+      "exam_type": "Final",
+      "teacher": "Dr. Rahat Hossain Faisal",
+      "exam_date": "Aug. 18, 2026",
+      "category": "Final",
+      "canonical_name": "2021-2022_Final_Dr_Rahat_Hossain_Faisal",
+      "rel_pdf_path": "07_CSE-3209_Simulation_and_Modeling/Final/2021-2022_Final_Dr_Rahat_Hossain_Faisal.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/2021-2022_Final_Dr_Rahat_Hossain_Faisal.pdf",
+      "has_transcription": false,
+      "has_pdf_text": true,
+      "transcription": "",
+      "pdf_text": "AVAILABLE AT:\n\nOnebyzero Edu - Organized Learning, Smooth Career\nThe Comprehensive Academic Study Platform for University Students in Bangladesh (www.onebyzeroedu.com)\n\nCamScanner\n\n\fAVAILABLE AT:\n\nOnebyzero Edu - Organized Learning, Smooth Career\nThe Comprehensive Academic Study Platform for University Students in Bangladesh (www.onebyzeroedu.com)\n\nCamScanner",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "880",
+      "course_code": "CSE-3209",
+      "course_name": "Simulation and Modeling",
+      "credits": 3.0,
+      "course_dir": "07_CSE-3209_Simulation_and_Modeling",
+      "session": "2021-2022",
+      "exam_type": "1st Mid",
+      "teacher": "Dr. Rahat Hossain Faisal",
+      "exam_date": "Aug. 18, 2026",
+      "category": "Midterm",
+      "canonical_name": "2021-2022_1st_Mid_Dr_Rahat_Hossain_Faisal",
+      "rel_pdf_path": "07_CSE-3209_Simulation_and_Modeling/Midterm/2021-2022_1st_Mid_Dr_Rahat_Hossain_Faisal.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Midterm/2021-2022_1st_Mid_Dr_Rahat_Hossain_Faisal.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "774",
+      "course_code": "CSE-3209",
+      "course_name": "Simulation and Modeling",
+      "credits": 3.0,
+      "course_dir": "07_CSE-3209_Simulation_and_Modeling",
+      "session": "2020-2021",
+      "exam_type": "Final",
+      "teacher": "Dr. Rahat Hossain Faisal",
+      "exam_date": "Dec. 9, 2025",
+      "category": "Final",
+      "canonical_name": "2020-2021_Final_Dr_Rahat_Hossain_Faisal",
+      "rel_pdf_path": "07_CSE-3209_Simulation_and_Modeling/Final/2020-2021_Final_Dr_Rahat_Hossain_Faisal.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/2020-2021_Final_Dr_Rahat_Hossain_Faisal.pdf",
+      "has_transcription": true,
+      "has_pdf_text": true,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Simulation and Modeling (CSE-3209)\n- **Session:** 20-21\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** Dr. Rahat Hossain Faisal\n\n---\n> *Answer any five Questions from the followings.*\n\n---\n\n### 1. \n\n**a)** How simulation plays important role in new innovation?\n\n**b)** In which situations simulation is not a better choice?\n\n**c)** What are different methods of studying a system before designing a simulation?\n\n**d)** Classify simulation models.\n\n---\n\n---\n\n### 2. \n\n**a)** &nbsp;Briefly explain the differences between discrete system and continuous system with suitable figures.\n\n**b)** Discuss the concept of &quot;Time Advance Mechanism&quot; with an example.\n\n**c)** What are different components of a Discrete-event simulation models? Explain.\n\n---\n\n---\n\n### 3. \n\n**a)** Write short notes on the followings including their scope of implementation in simulation process: i) Exponential Distribution&nbsp; ii) Triangular Distribution&nbsp; iii) Lognormal Distribution&nbsp; iv) Poisson Process&nbsp; v) Weibull Distribution&nbsp; vi) Geometric Distribution &nbsp; &nbsp;\n\n---\n\n---\n\n### 4. \n\n**a)** Define the following queuing system characteristics: (i) calling population (ii) Arrival process.\n\n**b)** A classical inventory problem concerns the purchase and sale of newspapers. The paper seller buys the papers for 33 cents each and sells them for 50 cents each. (The lost profit from excess demand is 17 cents for each paper demanded that could not be provided.) Newspapers not sold at the end of the day are sold as scrap for 5 cents each. (the salvage value of scrap papers) . There are three types of Newsday&#39;s, &quot;good,&quot; &quot;fair,&quot; and &quot;poor,&quot; with probabilities of 0.35, 0.45, and 0.20 , respectively. The problem is to determine the optimal number of papers the newspaper seller should purchase. This will be accomplished by simulating demands for 20 days and recording profits from sales each day. The demand table and distribution of type of Newsday are given below. &nbsp; Simulation Task Simulate for the purchase of 70 newspapers per day for 20 days and compute the profit of the news dealer. Random Numbers for Simulation Random numbers for Type of News day: 94, 77, 49, 45, 43, 32, 49, 00, 16, 24, 31, 14, 41, 61, 85, 08, 15, 97, 52, 78 Random numbers for Demand: 80, 20, 15, 88, 98, 65, 86, 73, 24, 60, 60, 29, 18, 90, 93, 73, 21, 45, 76, 96\n\n---\n\n---\n\n### 5. \n\n**a)** What are the problems may occur during the generation of random numbers?\n\n**b)** Define linear congruential method for generating random number. Use the method with X 0 =27, a=17, c=43, m=100 to generate 4 numbers\n\n**c)** &nbsp;What are the methods used for testing a random number? Test uniformity for 0.44, 0.81, 0.14, 0.05, 0.93 using Kolmogorov-Smirnov test (\u0251=0.05, D \u0251 =0.565).\n\n---\n\n---\n\n### 6. \n\n**a)** What is the Kendall notation of Queuing System?\n\n**b)** Define a Markov chains and its application.\n\n**c)** Use the mixed congruential method to generate sequence of three two-digit random numbers with X 0 =37, a=7, c=29, m=100. &nbsp;\n\n---\n\n---\n\n### 7. \n\n**a)** Explain how simulation and modelling can play an important role in Manufacturing and Material Handling System.\n\n**b)** Briefly describe probable simulation processes in a Manufacturing System [Use an appropriate example].\n\n**c)** Define verification in simulation process? Describe techniques to perform verification on simulation model.\n\n---\n\n---\n\n### 8. \n\n**a)** Monte Carlo simulation is a special case of stochastic simulation? Comment.\n\n**b)** What method did we use to develop the model for the ATM (bank) case study?\n\n**c)** &nbsp;What is SIMSCRIPT? What is its importance? Discuss its various functions.\n\n**d)** Write short note on Statistical output analysis.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "11/2/26, 7:41 PM\n\nCourse Title: Simulation and Modeling (CSE-3209) - Final Exam\n\nUniversity of Barishal\nDepartment of Computer Science and Engineering\nFinal Exam - Semester: 6th\nCourse: Course Title: Simulation and Modeling (CSE-3209)\nTime: 180 minutes | Marks: 60.00\n\nSession: 20-21\nTeacher: Dr. Rahat Hossain Faisal\n\nAnswer any five Questions from the followings.\n\n1.\na) How simulation plays important role in new innovation?\nb) In which situations simulation is not a better choice?\nc) What are different methods of studying a system before designing a simulation?\nd) Classify simulation models.\n\n2.\na)\n\nBriefly explain the differences between discrete system and continuous system with suitable\nfigures.\n\nb) Discuss the concept of \"Time Advance Mechanism\" with an example.\nc) What are different components of a Discrete-event simulation models? Explain.\n\n3.\na) Write short notes on the followings including their scope of implementation in simulation process: i)\nExponential Distribution ii) Triangular Distribution iii) Lognormal Distribution iv) Poisson Process\nv) Weibull Distribution vi) Geometric Distribution\n\nfile:///home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/Final_(20-21)_Dr._Rahat_Hossain_Faisal_774_Qu\u2026\n\n1/3\n\n\f11/2/26, 7:41 PM\n\nCourse Title: Simulation and Modeling (CSE-3209) - Final Exam\n\n4.\na) Define the following queuing system characteristics: (i) calling population (ii) Arrival process.\nb) A classical inventory problem concerns the purchase and sale of newspapers. The paper seller\nbuys the papers for 33 cents each and sells them for 50 cents each. (The lost profit from excess\ndemand is 17 cents for each paper demanded that could not be provided.) Newspapers not sold at\nthe end of the day are sold as scrap for 5 cents each. (the salvage value of scrap papers) . There\nare three types of Newsday's, \"good,\" \"fair,\" and \"poor,\" with probabilities of 0.35, 0.45, and 0.20 ,\nrespectively. The problem is to determine the optimal number of papers the newspaper seller\nshould purchase. This will be accomplished by simulating demands for 20 days and recording\nprofits from sales each day. The demand table and distribution of type of Newsday are given\nbelow. Simulation Task Simulate for the purchase of 70 newspapers per day for 20 days and\ncompute the profit of the news dealer. Random Numbers for Simulation Random numbers for Type\nof News day: 94, 77, 49, 45, 43, 32, 49, 00, 16, 24, 31, 14, 41, 61, 85, 08, 15, 97, 52, 78 Random\nnumbers for Demand: 80, 20, 15, 88, 98, 65, 86, 73, 24, 60, 60, 29, 18, 90, 93, 73, 21, 45, 76, 96\n\n5.\na) What are the problems may occur during the generation of random numbers?\nb) Define linear congruential method for generating random number. Use the method with X 0 =27,\na=17, c=43, m=100 to generate 4 numbers\nc)\n\nWhat are the methods used for testing a random number? Test uniformity for 0.44, 0.81, 0.14,\n0.05, 0.93 using Kolmogorov-Smirnov test (\u0251=0.05, D \u0251 =0.565).\n\n6.\na) What is the Kendall notation of Queuing System?\nb) Define a Markov chains and its application.\nc) Use the mixed congruential method to generate sequence of three two-digit random numbers with\nX 0 =37, a=7, c=29, m=100.\n\nfile:///home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/Final_(20-21)_Dr._Rahat_Hossain_Faisal_774_Qu\u2026\n\n2/3\n\n\f11/2/26, 7:41 PM\n\nCourse Title: Simulation and Modeling (CSE-3209) - Final Exam\n\n7.\na) Explain how simulation and modelling can play an important role in Manufacturing and Material\nHandling System.\nb) Briefly describe probable simulation processes in a Manufacturing System [Use an appropriate\nexample].\nc) Define verification in simulation process? Describe techniques to perform verification on simulation\nmodel.\n\n8.\na) Monte Carlo simulation is a special case of stochastic simulation? Comment.\nb) What method did we use to develop the model for the ATM (bank) case study?\nc)\n\nWhat is SIMSCRIPT? What is its importance? Discuss its various functions.\n\nd) Write short note on Statistical output analysis.\n\nfile:///home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/Final_(20-21)_Dr._Rahat_Hossain_Faisal_774_Qu\u2026\n\n3/3",
+      "topics": [
+        "Simulation Fundamentals",
+        "Random Number Generation (RNG)",
+        "Random Variate Generation",
+        "Verification, Validation & Output Analysis"
+      ],
+      "topic_details": [
+        {
+          "topic": "Simulation Fundamentals",
+          "matched_keyword": "system"
+        },
+        {
+          "topic": "Random Number Generation (RNG)",
+          "matched_keyword": "random number"
+        },
+        {
+          "topic": "Random Variate Generation",
+          "matched_keyword": "exponential distribution"
+        },
+        {
+          "topic": "Verification, Validation & Output Analysis",
+          "matched_keyword": "verification"
+        }
+      ]
+    },
+    {
+      "id": "727",
+      "course_code": "CSE-3209",
+      "course_name": "Simulation and Modeling",
+      "credits": 3.0,
+      "course_dir": "07_CSE-3209_Simulation_and_Modeling",
+      "session": "2020-2021",
+      "exam_type": "2nd Mid",
+      "teacher": "Dr. Rahat Hossain Faisal",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2020-2021_2nd_Mid_Dr_Rahat_Hossain_Faisal",
+      "rel_pdf_path": "07_CSE-3209_Simulation_and_Modeling/Midterm/2020-2021_2nd_Mid_Dr_Rahat_Hossain_Faisal.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Midterm/2020-2021_2nd_Mid_Dr_Rahat_Hossain_Faisal.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**2nd Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Simulation and Modeling (CSE-3209)\n- **Session:** 20-21\n- **Time:** 60 minutes | **Full Marks:** 10.00\n- **Course Teacher:** Dr. Rahat Hossain Faisal\n\n---\n> *Answer all the Questions from the followings.*\n\n---\n\n### 1. \n\n**1)** Write short notes on the followings: i) Weibull Distribution ii) Gamma Distribution iii) Geometric Distribution iv) Bernoulli Distribution\n\n**2)** A Hurricane is to hit in the country, and expected to follow poisson distribution with a mean of 0.8 per year. Find the possibility of occurring more than two hurricanes in a year. Also find the possibility of exactly one hurricane in a year.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Random Variate Generation"
+      ],
+      "topic_details": [
+        {
+          "topic": "Random Variate Generation",
+          "matched_keyword": "weibull"
+        }
+      ]
+    },
+    {
+      "id": "726",
+      "course_code": "CSE-3209",
+      "course_name": "Simulation and Modeling",
+      "credits": 3.0,
+      "course_dir": "07_CSE-3209_Simulation_and_Modeling",
+      "session": "2020-2021",
+      "exam_type": "1st Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2020-2021_1st_Mid",
+      "rel_pdf_path": "07_CSE-3209_Simulation_and_Modeling/Midterm/2020-2021_1st_Mid.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Midterm/2020-2021_1st_Mid.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**1st Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Simulation and Modeling (CSE-3209)\n- **Session:** 20-21\n- **Time:** 60 minutes | **Full Marks:** 10.00\n- **Course Teacher:** \n\n---\n---\n\n### 1. \n\n**1)** What is computer simulation?\n\n**2)** Briefly describe the steps of simulation study.\n\n**3)** Briefly explain the differences between discrete system and continuous system with suitable figure.\n\n**4)** Write down the name of several entities, attributes, activities, events, and state variables for the following system i) A small appliance repair shop ii) A hospital emergency room\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Simulation Fundamentals"
+      ],
+      "topic_details": [
+        {
+          "topic": "Simulation Fundamentals",
+          "matched_keyword": "system"
+        }
+      ]
+    },
+    {
+      "id": "493",
+      "course_code": "CSE-3209",
+      "course_name": "Simulation and Modeling",
+      "credits": 3.0,
+      "course_dir": "07_CSE-3209_Simulation_and_Modeling",
+      "session": "2019-2020",
+      "exam_type": "Final",
+      "teacher": "Dr. Rahat Hossain Faisal",
+      "exam_date": "Nov. 10, 2024",
+      "category": "Final",
+      "canonical_name": "2019-2020_Final_Dr_Rahat_Hossain_Faisal",
+      "rel_pdf_path": "07_CSE-3209_Simulation_and_Modeling/Final/2019-2020_Final_Dr_Rahat_Hossain_Faisal.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/2019-2020_Final_Dr_Rahat_Hossain_Faisal.pdf",
+      "has_transcription": true,
+      "has_pdf_text": true,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Simulation and Modeling (CSE-3209)\n- **Session:** 19-20\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** Dr. Rahat Hossain Faisal\n\n---\n> *Answer any five Questions from the followings.*\n\n---\n\n### 1. \n\n**a)** &nbsp;What is computer simulation?\n\n**b)** Briefly describe the steps of simulation study.\n\n**c)** riefly explain the differences between discrete system and continuous system with suitable figure.\n\n**d)** Write down the name of several entities, attributes, activities, events, and state variables for the following system: i) A small appliance repair shop ii) A hospital emergency room &nbsp;\n\n---\n\n---\n\n### 2. \n\n**a)** Write short notes on the followings: i) Weibull Distribution ii) Gamma Distribution iii) Geometric Distribution iv) Bernoulli Distribution &nbsp;\n\n**b)** A Hurricane is to hit in the country, and expected to follow poisson distribution with a mean of 0.8 per year. Find the possibility of occurring more than two hurricanes in a year. Also find the possibility of exactly one hurricane in a year.\n\n---\n\n---\n\n### 3. \n\n**a)** Suppose that x and y are jointly discrete random variables with &nbsp;P(x,y)=(x+y)/30 &nbsp; &nbsp; &nbsp; for x=0,1,2 and y=0,1,2,3;&nbsp; =0 0, otherwise.&nbsp; Are x and y independent? &nbsp;\n\n**b)** &nbsp;Suppose that x and y are jointly continuous random variables with&nbsp; f(x,y)=y-x for 0&lt;x&lt;1 and 1&lt;y&lt;2; &nbsp;=0 &nbsp; &nbsp; &nbsp; &nbsp; 0, otherwise.&nbsp; Compute E(x), Var(x), E(y), Var(y), Cov(x,y), Cor(x,y). &nbsp; &nbsp;\n\n**c)** Test for whether the 3rd, 8th, 13th, and so on, numbers in the following sequence are autocorrelation using alpha=0.05. 0.12 0.01 0.23 0.28 0.89 0.31 0.64 0.28 0.83 0.93 0.99 0.15 0.33 0.35 0.91 0.41 0.60 0.27 0.75 0.88 0.68 0.49 0.05 0.43 0.95 0.58 0.19 0.36 0.69 0.87\n\n---\n\n---\n\n### 4. \n\n**a)** Briefly explain the differences between discrete system and continuous system with suitable figures.\n\n**b)** Discuss the concept of &quot;Time Advance Mechanism&quot; with an example.\n\n**c)** What are different components of a Discrete-event simulation models? Explain.\n\n---\n\n---\n\n### 5. \n\n**a)** &nbsp;Define Chi-Square Test.\n\n**b)** Generate three Poisson variants with mean \u0251=0.2 using acceptance rejection techniques. Given random numbers are 0.4357, 0.4146, 0.8353, 0.9952 and 0.8004.\n\n**c)** The life of a device used to inspect cracks in aircraft wings is given by X, a continuous random variable assuming all values in the range x ge 0. The cdf of the device&#39;s lifetime, in years, is as follows: i) Find the probability that the device will last for 2 years. ii) Find the probability that the device will last between 2 and 3 years. &nbsp;\n\n---\n\n---\n\n### 6. \n\n**a)** What is the Kendall notation of Queuing System?\n\n**b)** Define a Markov chains and its application.\n\n**c)** Use the mixed congruential method to generate a sequence of three two-digit random numbers with X 0 =37, a=7, c=29 and m=100.\n\n---\n\n---\n\n### 7. \n\n**a)** &nbsp;For the following multiplicative generator, compute Z i for enough values of i ge 1 to cover an entire cycle. i) Z 0 =1, a=11, m=16 ii) Z 0 =2, a=11, m=16 iii) Z 0 =1, a=2, m=13 iv) Z 0 =2, a=3, m=13\n\n**b)** Find first three random variables in [0,1] using X 0 =27, a=8, c=47, m=100.\n\n**c)** The sequence of numbers 0.54, 0.73, 0.98, 0.11 and 0.68 has been generated. Use the Kolmogorov-Smirnov test with alpha=0.05 to check uniformity\n\n---\n\n---\n\n### 8. \n\n**a)** At a grocery store with one counter, customers arrive at random from 1 to 8 minutes apart (each of inter-arrival time has the same probability of occurrence). The service times vary from 1 to 6 minutes with the probabilities as 0.10, 0.20, 0.30, 0.25, 0.10 and 0.05 respectively. Analyze the system by simulating the arrival and service of 15 customers. [Justifying your situation and requirements, you can choose your required random values]\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "11/2/26, 7:41 PM\n\nCourse Title: Simulation and Modeling (CSE-3209) - Final Exam\n\nUniversity of Barishal\nDepartment of Computer Science and Engineering\nFinal Exam - Semester: 6th\nCourse: Course Title: Simulation and Modeling (CSE-3209)\nTime: 180 minutes | Marks: 60.00\n\nSession: 19-20\nTeacher: Dr. Rahat Hossain Faisal\n\nAnswer any five Questions from the followings.\n\n1.\na)\n\nWhat is computer simulation?\n\nb) Briefly describe the steps of simulation study.\nc) riefly explain the differences between discrete system and continuous system with suitable figure.\nd) Write down the name of several entities, attributes, activities, events, and state variables for the\nfollowing system: i) A small appliance repair shop ii) A hospital emergency room\n\n2.\na) Write short notes on the followings: i) Weibull Distribution ii) Gamma Distribution iii) Geometric\nDistribution iv) Bernoulli Distribution\nb) A Hurricane is to hit in the country, and expected to follow poisson distribution with a mean of 0.8\nper year. Find the possibility of occurring more than two hurricanes in a year. Also find the\npossibility of exactly one hurricane in a year.\n\n3.\na) Suppose that x and y are jointly discrete random variables with P(x,y)=(x+y)/30\n\nfor x=0,1,2\n\nand y=0,1,2,3; =0 0, otherwise. Are x and y independent?\nfile:///home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/Final_(19-20)_Dr._Rahat_Hossain_Faisal_493_Qu\u2026\n\n1/3\n\n\f11/2/26, 7:41 PM\n\nb)\n\nCourse Title: Simulation and Modeling (CSE-3209) - Final Exam\n\nSuppose that x and y are jointly continuous random variables with f(x,y)=y-x for 0<x<1 and\n1<y<2; =0\n\n0, otherwise. Compute E(x), Var(x), E(y), Var(y), Cov(x,y), Cor(x,y).\n\nc) Test for whether the 3rd, 8th, 13th, and so on, numbers in the following sequence are\nautocorrelation using alpha=0.05. 0.12 0.01 0.23 0.28 0.89 0.31 0.64 0.28 0.83 0.93 0.99 0.15\n0.33 0.35 0.91 0.41 0.60 0.27 0.75 0.88 0.68 0.49 0.05 0.43 0.95 0.58 0.19 0.36 0.69 0.87\n\n4.\na) Briefly explain the differences between discrete system and continuous system with suitable\nfigures.\nb) Discuss the concept of \"Time Advance Mechanism\" with an example.\nc) What are different components of a Discrete-event simulation models? Explain.\n\n5.\na)\n\nDefine Chi-Square Test.\n\nb) Generate three Poisson variants with mean \u0251=0.2 using acceptance rejection techniques. Given\nrandom numbers are 0.4357, 0.4146, 0.8353, 0.9952 and 0.8004.\nc) The life of a device used to inspect cracks in aircraft wings is given by X, a continuous random\nvariable assuming all values in the range x ge 0. The cdf of the device's lifetime, in years, is as\nfollows: i) Find the probability that the device will last for 2 years. ii) Find the probability that the\ndevice will last between 2 and 3 years.\n\n6.\na) What is the Kendall notation of Queuing System?\nb) Define a Markov chains and its application.\n\nfile:///home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/Final_(19-20)_Dr._Rahat_Hossain_Faisal_493_Qu\u2026\n\n2/3\n\n\f11/2/26, 7:41 PM\n\nCourse Title: Simulation and Modeling (CSE-3209) - Final Exam\n\nc) Use the mixed congruential method to generate a sequence of three two-digit random numbers\nwith X 0 =37, a=7, c=29 and m=100.\n\n7.\na)\n\nFor the following multiplicative generator, compute Z i for enough values of i ge 1 to cover an\nentire cycle. i) Z 0 =1, a=11, m=16 ii) Z 0 =2, a=11, m=16 iii) Z 0 =1, a=2, m=13 iv) Z 0 =2, a=3,\nm=13\n\nb) Find first three random variables in [0,1] using X 0 =27, a=8, c=47, m=100.\nc) The sequence of numbers 0.54, 0.73, 0.98, 0.11 and 0.68 has been generated. Use the\nKolmogorov-Smirnov test with alpha=0.05 to check uniformity\n\n8.\na) At a grocery store with one counter, customers arrive at random from 1 to 8 minutes apart (each of\ninter-arrival time has the same probability of occurrence). The service times vary from 1 to 6\nminutes with the probabilities as 0.10, 0.20, 0.30, 0.25, 0.10 and 0.05 respectively. Analyze the\nsystem by simulating the arrival and service of 15 customers. [Justifying your situation and\nrequirements, you can choose your required random values]\n\nfile:///home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/Final_(19-20)_Dr._Rahat_Hossain_Faisal_493_Qu\u2026\n\n3/3",
+      "topics": [
+        "Simulation Fundamentals",
+        "Random Number Generation (RNG)",
+        "Randomness Tests",
+        "Random Variate Generation"
+      ],
+      "topic_details": [
+        {
+          "topic": "Simulation Fundamentals",
+          "matched_keyword": "system"
+        },
+        {
+          "topic": "Random Number Generation (RNG)",
+          "matched_keyword": "uniformity"
+        },
+        {
+          "topic": "Randomness Tests",
+          "matched_keyword": "chi-square"
+        },
+        {
+          "topic": "Random Variate Generation",
+          "matched_keyword": "weibull"
+        }
+      ]
+    },
+    {
+      "id": "490",
+      "course_code": "CSE-3209",
+      "course_name": "Simulation and Modeling",
+      "credits": 3.0,
+      "course_dir": "07_CSE-3209_Simulation_and_Modeling",
+      "session": "2019-2020",
+      "exam_type": "1st Mid",
+      "teacher": "Dr. Rahat Hossain Faisal",
+      "exam_date": "Nov. 1, 2024",
+      "category": "Midterm",
+      "canonical_name": "2019-2020_1st_Mid_Dr_Rahat_Hossain_Faisal",
+      "rel_pdf_path": "07_CSE-3209_Simulation_and_Modeling/Midterm/2019-2020_1st_Mid_Dr_Rahat_Hossain_Faisal.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Midterm/2019-2020_1st_Mid_Dr_Rahat_Hossain_Faisal.pdf",
+      "has_transcription": true,
+      "has_pdf_text": true,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**1st Mid Exam | Semester: 6th**\n\n- **Course:** Course Title: Simulation and Modeling (CSE-3209)\n- **Session:** 19-20\n- **Time:** 60 minutes | **Full Marks:** 10.00\n- **Course Teacher:** Dr. Rahat Hossain Faisal\n\n---\n---\n\n### 1. \n\n**a)** When simulation is an appropriate tool to develop a system? Explain.\n\n**b)** With an appropriate flow chart, explain the simulation process.\n\n**c)** What do you understand by &quot;Time Advance Mechanism&quot; in simulation? Explain with its principles.\n\n**d)** Explain different components of a Discrete-event simulation model?\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "11/2/26, 7:41 PM\n\nCourse Title: Simulation and Modeling (CSE-3209) - 1st Mid Exam\n\nUniversity of Barishal\nDepartment of Computer Science and Engineering\n1st Mid Exam - Semester: 6th\nCourse: Course Title: Simulation and Modeling (CSE-3209)\nTime: 60 minutes | Marks: 10.00\n\nSession: 19-20\nTeacher: Dr. Rahat Hossain Faisal\n\n1.\na) When simulation is an appropriate tool to develop a system? Explain.\nb) With an appropriate flow chart, explain the simulation process.\nc) What do you understand by \"Time Advance Mechanism\" in simulation? Explain with its principles.\nd) Explain different components of a Discrete-event simulation model?\n\nfile:///home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Midterm/1st_Mid_(19-20)_Dr._Rahat_Hossain_Faisal_\u2026\n\n1/1",
+      "topics": [
+        "Simulation Fundamentals"
+      ],
+      "topic_details": [
+        {
+          "topic": "Simulation Fundamentals",
+          "matched_keyword": "system"
+        }
+      ]
+    },
+    {
+      "id": "266",
+      "course_code": "CSE-3209",
+      "course_name": "Simulation and Modeling",
+      "credits": 3.0,
+      "course_dir": "07_CSE-3209_Simulation_and_Modeling",
+      "session": "2018-2019",
+      "exam_type": "Final",
+      "teacher": "Dr. Rahat Hossain Faisal",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2018-2019_Final_Dr_Rahat_Hossain_Faisal",
+      "rel_pdf_path": "07_CSE-3209_Simulation_and_Modeling/Final/2018-2019_Final_Dr_Rahat_Hossain_Faisal.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/2018-2019_Final_Dr_Rahat_Hossain_Faisal.pdf",
+      "has_transcription": true,
+      "has_pdf_text": true,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Simulation and Modeling (CSE-3209)\n- **Session:** 18-19\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** Dr. Rahat Hossain Faisal\n\n---\n> *Answer any 5 from the followings*\n\n---\n\n### 1. \n\n**a)** How simulation plays important role in new innovation?\n\n**b)** In which situations simulation is not a better choice?\n\n**c)** What are different methods of studying a system before designing a simulation?\n\n**d)** Classify simulation models.\n\n---\n\n---\n\n### 2. \n\n**a)** Briefly explain the differences between discrete system and continuous system with suitable figures.\n\n**b)** Discuss the concept of &quot;Time Advance Mechanism&quot; with an example.\n\n**c)** What are different components of a Discrete-event simulation models? Explain.\n\n---\n\n---\n\n### 3. \n\n**a)** Define Chi-Square Test.\n\n**b)** Generate three Poisson variants with mean&nbsp; \u0251 = 0.2 using acceptance rejection techniques. Given random numbers are 0.4357, 0.4146, 0.8353, 0.9952 and 0.8004.\n\n**c)** The life of a device used to inspect cracks in aircraft wings is given by X, a continuous random variable assuming all values in the range x &ge; 0. The cdf of the device&#39;s lifetime, in years, is as follows: i. Find the probability that the device will last for &lt; 2 years. ii. Find the probability that the device will last between 2 and 3 years. &nbsp;\n\n---\n\n---\n\n### 4. \n\n**a)** Explain over all aspects and characteristics of a Queueing System.\n\n**b)** &nbsp;Customers at a restaurant arrive in groups (one to eight persons). The number of persons (per group) for 300 customers and the relative frequencies appear are shown below. Draw empirical CDF. [4] Arrivals per party 1 2 3 4 5 6 7 8 Frequency 30 110 45 71 12 13 7 12\n\n---\n\n---\n\n### 5. \n\n**a)** Explain different methods of random number generation\n\n**b)** What are the challenges in generating pseudo random numbers.\n\n---\n\n---\n\n### 6. \n\n**a)** When Linear Congruential Generator is used?\n\n**b)** How Linear Congruential Generator is implemented? Explain with an example.\n\n**c)** &nbsp;Explain two methods of uniformity test with appropriate examples.\n\n---\n\n---\n\n### 7. \n\n**a)** Explain how simulation and modelling can play an important role in Manufacturing and Material Handling System.\n\n**b)** Briefly describe probable simulation processes in a Manufacturing System [Use an appropriate example].\n\n**c)** Define verification in simulation process? Describe techniques to perform verification on simulation model.\n\n---\n\n---\n\n### 8. \n\n**a)** Monte Carlo simulation is a special case of stochastic simulation? Comment.\n\n**b)** What method did we use to develop the model for the ATM (bank) case study?\n\n**c)** What is SIMSCRIPT? What is its importance? Discuss its various functions.\n\n**d)** Write short note on Statistical output analysis.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "11/2/26, 7:41 PM\n\nCourse Title: Simulation and Modeling (CSE-3209) - Final Exam\n\nUniversity of Barishal\nDepartment of Computer Science and Engineering\nFinal Exam - Semester: 6th\nCourse: Course Title: Simulation and Modeling (CSE-3209)\nTime: 180 minutes | Marks: 60.00\n\nSession: 18-19\nTeacher: Dr. Rahat Hossain Faisal\n\nAnswer any 5 from the followings\n\n1.\na) How simulation plays important role in new innovation?\nb) In which situations simulation is not a better choice?\nc) What are different methods of studying a system before designing a simulation?\nd) Classify simulation models.\n\n2.\na) Briefly explain the differences between discrete system and continuous system with suitable\nfigures.\nb) Discuss the concept of \"Time Advance Mechanism\" with an example.\nc) What are different components of a Discrete-event simulation models? Explain.\n\n3.\na) Define Chi-Square Test.\nb) Generate three Poisson variants with mean \u0251 = 0.2 using acceptance rejection techniques. Given\nrandom numbers are 0.4357, 0.4146, 0.8353, 0.9952 and 0.8004.\n\nfile:///home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/Final_(18-19)_Dr._Rahat_Hossain_Faisal_266_Qu\u2026\n\n1/3\n\n\f11/2/26, 7:41 PM\n\nCourse Title: Simulation and Modeling (CSE-3209) - Final Exam\n\nc) The life of a device used to inspect cracks in aircraft wings is given by X, a continuous random\nvariable assuming all values in the range x \u2265 0. The cdf of the device's lifetime, in years, is as\nfollows: i. Find the probability that the device will last for < 2 years. ii. Find the probability that the\ndevice will last between 2 and 3 years.\n\n4.\na) Explain over all aspects and characteristics of a Queueing System.\nb)\n\nCustomers at a restaurant arrive in groups (one to eight persons). The number of persons (per\ngroup) for 300 customers and the relative frequencies appear are shown below. Draw empirical\nCDF. [4] Arrivals per party 1 2 3 4 5 6 7 8 Frequency 30 110 45 71 12 13 7 12\n\n5.\na) Explain different methods of random number generation\nb) What are the challenges in generating pseudo random numbers.\n\n6.\na) When Linear Congruential Generator is used?\nb) How Linear Congruential Generator is implemented? Explain with an example.\nc)\n\nExplain two methods of uniformity test with appropriate examples.\n\n7.\na) Explain how simulation and modelling can play an important role in Manufacturing and Material\nHandling System.\n\nfile:///home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/Final_(18-19)_Dr._Rahat_Hossain_Faisal_266_Qu\u2026\n\n2/3\n\n\f11/2/26, 7:41 PM\n\nCourse Title: Simulation and Modeling (CSE-3209) - Final Exam\n\nb) Briefly describe probable simulation processes in a Manufacturing System [Use an appropriate\nexample].\nc) Define verification in simulation process? Describe techniques to perform verification on simulation\nmodel.\n\n8.\na) Monte Carlo simulation is a special case of stochastic simulation? Comment.\nb) What method did we use to develop the model for the ATM (bank) case study?\nc) What is SIMSCRIPT? What is its importance? Discuss its various functions.\nd) Write short note on Statistical output analysis.\n\nfile:///home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/Final_(18-19)_Dr._Rahat_Hossain_Faisal_266_Qu\u2026\n\n3/3",
+      "topics": [
+        "Simulation Fundamentals",
+        "Random Number Generation (RNG)",
+        "Randomness Tests",
+        "Random Variate Generation",
+        "Verification, Validation & Output Analysis"
+      ],
+      "topic_details": [
+        {
+          "topic": "Simulation Fundamentals",
+          "matched_keyword": "system"
+        },
+        {
+          "topic": "Random Number Generation (RNG)",
+          "matched_keyword": "random number"
+        },
+        {
+          "topic": "Randomness Tests",
+          "matched_keyword": "chi-square"
+        },
+        {
+          "topic": "Random Variate Generation",
+          "matched_keyword": "acceptance rejection"
+        },
+        {
+          "topic": "Verification, Validation & Output Analysis",
+          "matched_keyword": "verification"
+        }
+      ]
+    },
+    {
+      "id": "265",
+      "course_code": "CSE-3209",
+      "course_name": "Simulation and Modeling",
+      "credits": 3.0,
+      "course_dir": "07_CSE-3209_Simulation_and_Modeling",
+      "session": "2017-2018",
+      "exam_type": "Final",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2017-2018_Final",
+      "rel_pdf_path": "07_CSE-3209_Simulation_and_Modeling/Final/2017-2018_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/2017-2018_Final.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Simulation and Modeling (CSE-3209)\n- **Session:** 17-18\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** \n\n---\n> *Answer any five questions from the following.*\n\n---\n\n### 1. \n\n**a)** What is computer simulation? &nbsp;\n\n**b)** &nbsp;Briefly describe the steps of simulation study.\n\n**c)** &nbsp;Briefly explain the differences between discrete system and continuous system with suitable figure.\n\n**d)** &nbsp;Write down the name of several entities, attributes, activities, events, and state variables for the following system i) A small appliance repair shop ii) A hospital emergency room\n\n---\n\n---\n\n### 2. \n\n**a)** Write short notes on the followings including their scope of implementation in simulation process: i) Exponential Distribution iii) Lognormal Distribution ii) Triangular Distribution iv) Poisson Process &nbsp; &nbsp;\n\n**b)** b) A Hurricane is to hit in the country, and expected to follow poisson distribution with a mean of 0.8 per year. Find the possibility of occurring more than two hurricanes in a year. Also find the possibility of exactly one hurricane in a year. &nbsp;\n\n---\n\n---\n\n### 3. \n\n**a)** Define the following queuing system characteristics: (i) Calling population (ii) Arrival process &nbsp;\n\n**b)** A classical inventory problem concerns the purchase and sale of newspapers. The paper seller buys the papers for 33 cents each and sells them for 50 cents each. (The lost profit from excess demand is 17 cents for each paper demanded that could not be provided.) Newspapers not sold at the end of the day are sold as scrap for 5 cents each. (the salvage value of scrap papers). There are three types of Newsday&#39;s, &quot;good, &quot;fair,&quot; and &quot;poor,&quot; with probabilities of 0.35, 0.45, and 0.20, Respectively. The problem is to determine the optimal number of papers the newspaper seller should purchase. This will be accomplished by simulating demands for 20 days and recording profits from sales each day. The demand table and distribution of type of Newsday are given below. Simulate for the purchase of 70 newspapers per day for 20 days and compute the profit of news dealer. Random numbers for Type of News day: 94, 77, 49, 45, 43, 32, 49, 00, 16, 24, 31, 14, 41, 61, 85, 08, 15, 97, 52, 78 Random numbers for Demand: 80, 20, 15, 88, 98, 65, 86, 73, 24, 60, 60, 29, 18, 90, 93, 73, 21, 45, 76, 96\n\n---\n\n---\n\n### 4. \n\n**a)** &nbsp;What are the problems may occur during the generation of random numbers? &nbsp;\n\n**b)** &nbsp;Define linear congruential method for generating random number. Use the linear congruential method to generate a sequence of four (4) random numbers with X 0 = 27, a = 17, c = 43, and m = 100. &nbsp;\n\n**c)** &nbsp;What are the methods are used for testing a random number? Suppose, five numbers 0.44, 0.81, 0.14, 0.05, 0.93 are generated. Test the uniformity of the generated numbers using the Kolmogorov-Smirnov test with the level of significance &alpha; = 0.05. [Critical value D &alpha; =0.565] &nbsp;\n\n---\n\n---\n\n### 5. \n\n**a)** For the following multiplicative generator, compute Zi for enough values of i&gt;=1 to cover an entire cycle i) Zo1, a=11, m=16 ii) Zo2, a=11, m=16 iii) Zo 1, a2, m=13 iv) Zo2, a=3, m=13 &nbsp;\n\n**b)** &nbsp;Find first three random variables in [0,1] using Xo = 27, a = 8, c = 47, m = 100. &nbsp;\n\n**c)** &nbsp; &nbsp;The sequence of numbers 0.54, 0.73, 0.98, 0.11 and 0.68 has been generated. Use the Kolmogorov-Smirnov test with a = 0.05 to check uniformity. &nbsp; &nbsp; &nbsp;\n\n---\n\n---\n\n### 6. \n\n**a)** Suppose that x and y are jointly discrete random variables with P(x,y)=(x+y)/30&nbsp; &nbsp; &nbsp;for x=0,1,2 and y=0,1,2,3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;= 0&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 0,&nbsp;therewise Are x and y independent?\n\n**b)** Suppose that x and y are jointly continuous random variables with f(x,y)= y-x = 0 , for 0&lt;x&lt;1 and 1&lt;y&lt;2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =0&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; otherwise Compute E(x), Var(x), E(y), Var(y), Cov(x, y), Cor(x,y) &nbsp;\n\n**c)** Test for whether the 3rd, 8th, 13th, and so on, numbers in the following sequence at the beginning of this section are autocorrelated using &alpha; = 0.05.\n\n---\n\n---\n\n### 7. \n\n**a)** &nbsp;Explain how simulation and modelling can play an important role in Manufacturing and Material Handling System. &nbsp;\n\n**b)** Briefly describe probable simulation processes in a Manufacturing System [Use an appropriate example]. &nbsp;\n\n**c)** &nbsp;Define verification in simulation process? Describe techniques to perform verification on simulation model. &nbsp;\n\n---\n\n---\n\n### 8. \n\n**a)** At a grocery store with one counter, customers arrive at random from 1 to 8 minutes apart (each of inter-arrival time has the same probability of occurrence). The service times vary from 1 to 6 minutes with the probabilities as 0.10, 0.20, 0.30, 0.25, 0.10 and 0.05 respectively. Analyze the system by simulating the arrival and service of 15 customers. [Justifying your situation and requirements, you can choose your required random values]\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Simulation Fundamentals",
+        "Random Number Generation (RNG)",
+        "Random Variate Generation",
+        "Verification, Validation & Output Analysis"
+      ],
+      "topic_details": [
+        {
+          "topic": "Simulation Fundamentals",
+          "matched_keyword": "system"
+        },
+        {
+          "topic": "Random Number Generation (RNG)",
+          "matched_keyword": "random number"
+        },
+        {
+          "topic": "Random Variate Generation",
+          "matched_keyword": "exponential distribution"
+        },
+        {
+          "topic": "Verification, Validation & Output Analysis",
+          "matched_keyword": "verification"
+        }
+      ]
+    },
+    {
+      "id": "264",
+      "course_code": "CSE-3209",
+      "course_name": "Simulation and Modeling",
+      "credits": 3.0,
+      "course_dir": "07_CSE-3209_Simulation_and_Modeling",
+      "session": "2016-2017",
+      "exam_type": "Final",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Final",
+      "canonical_name": "2016-2017_Final",
+      "rel_pdf_path": "07_CSE-3209_Simulation_and_Modeling/Final/2016-2017_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Final/2016-2017_Final.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Simulation and Modeling (CSE-3209)\n- **Session:** 16-17\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** \n\n---\n> *Answer any five questions from the followings.*\n\n---\n\n### 1. \n\n**a)** Define System. Write the components of a system with an example.\n\n**b)** &nbsp;Explain the characteristics of a System. &nbsp;\n\n**c)** Define the following terms with example: i) Open System ii) Closed System &nbsp;\n\n---\n\n---\n\n### 2. \n\n**a)** At a grocery store with one counter, customers arrive at random from 1 to 8 minutes apart (each of inter-arrival time has the same probability of occurrence). The service times vary from 1 to 6 minutes with the probabilities as 0.10, 0.20, 0.30, 0.25, 0.10 and 0.05 respectively. Analyze the system by simulating the arrival and service of 15 customers. [Justifying your situation and requirements, you can choose your required random values]\n\n---\n\n---\n\n### 3. \n\n**a)** Write short notes on the followings: i) Weibull Distribution ii) Gamma Distribution iii) Geometric Distribution iv) Bernoulli Distribution &nbsp;\n\n**b)** A Hurricane is to hit in the country, and expected to follow poisson distribution with a mean of 0.8 per year. Find the possibility of occurring more than two hurricanes in a year. Also find the possibility of exactly one hurricane in a year. &nbsp;\n\n---\n\n---\n\n### 4. \n\n**a)** Explain over aspects and characteristics of a Queueing System. &nbsp;\n\n**b)** &nbsp;Customers at a restaurant arrive in groups (one to eight persons). The number of persons (per group) for 300 customers and the relative frequencies appear are shown below. Draw empirical CDF.\n\n---\n\n---\n\n### 5. \n\n**a)** Explain different methods of random number generation. &nbsp;\n\n**b)** &nbsp;What are the challenges in generating pseudo random numbers.\n\n---\n\n---\n\n### 6. \n\n**a)** &nbsp;When Linear Congruential Generator is used? &nbsp;\n\n**b)** &nbsp;How Linear Congruential Generator is implemented? Explain with an example. &nbsp;\n\n**c)** &nbsp;Explain two methods of uniformity test with appropriate examples. &nbsp;\n\n---\n\n---\n\n### 7. \n\n**a)** Suppose that x and y are jointly discrete random variables with Are x and y independent? &nbsp;\n\n**b)** Suppose that x and y are jointly continuous random variables with Compute E(x), Var(x), E(y), Var(y), Cov(x, y), Cor(x, y) &nbsp;\n\n**c)** &nbsp;Test for whether the 3rd, 8th, 13th, and so on, numbers in the following sequence at the beginning of this section are autocorrelated using a = 0.05.\n\n---\n\n---\n\n### 8. \n\n**a)** &nbsp;Explain how simulation and modelling can play an important role in Manufacturing and Material Handling System. &nbsp;\n\n**b)** Briefly describe probable simulation processes in a Manufacturing System [Use an appropriate example]. &nbsp;\n\n**c)** &nbsp;Define verification in simulation process? Describe techniques to perform verification on simulation model. &nbsp;\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "Simulation Fundamentals",
+        "Random Number Generation (RNG)",
+        "Random Variate Generation",
+        "Verification, Validation & Output Analysis"
+      ],
+      "topic_details": [
+        {
+          "topic": "Simulation Fundamentals",
+          "matched_keyword": "system"
+        },
+        {
+          "topic": "Random Number Generation (RNG)",
+          "matched_keyword": "random number"
+        },
+        {
+          "topic": "Random Variate Generation",
+          "matched_keyword": "weibull"
+        },
+        {
+          "topic": "Verification, Validation & Output Analysis",
+          "matched_keyword": "verification"
+        }
+      ]
+    },
+    {
+      "id": "263",
+      "course_code": "CSE-3209",
+      "course_name": "Simulation and Modeling",
+      "credits": 3.0,
+      "course_dir": "07_CSE-3209_Simulation_and_Modeling",
+      "session": "2018-2019",
+      "exam_type": "1st Mid",
+      "teacher": "Dr. Rahat Hossain Faisal",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2018-2019_1st_Mid_Dr_Rahat_Hossain_Faisal",
+      "rel_pdf_path": "07_CSE-3209_Simulation_and_Modeling/Midterm/2018-2019_1st_Mid_Dr_Rahat_Hossain_Faisal.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Midterm/2018-2019_1st_Mid_Dr_Rahat_Hossain_Faisal.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "262",
+      "course_code": "CSE-3209",
+      "course_name": "Simulation and Modeling",
+      "credits": 3.0,
+      "course_dir": "07_CSE-3209_Simulation_and_Modeling",
+      "session": "2017-2018",
+      "exam_type": "1st Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2017-2018_1st_Mid_SetB",
+      "rel_pdf_path": "07_CSE-3209_Simulation_and_Modeling/Midterm/2017-2018_1st_Mid_SetB.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Midterm/2017-2018_1st_Mid_SetB.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "261",
+      "course_code": "CSE-3209",
+      "course_name": "Simulation and Modeling",
+      "credits": 3.0,
+      "course_dir": "07_CSE-3209_Simulation_and_Modeling",
+      "session": "2017-2018",
+      "exam_type": "1st Mid",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Midterm",
+      "canonical_name": "2017-2018_1st_Mid_SetA",
+      "rel_pdf_path": "07_CSE-3209_Simulation_and_Modeling/Midterm/2017-2018_1st_Mid_SetA.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/07_CSE-3209_Simulation_and_Modeling/Midterm/2017-2018_1st_Mid_SetA.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "435",
+      "course_code": "CSE-3210",
+      "course_name": "Simulation and Modeling Lab",
+      "credits": 0.75,
+      "course_dir": "08_CSE-3210_Simulation_and_Modeling_Lab",
+      "session": "2019-2020",
+      "exam_type": "Lab Final",
+      "teacher": "N/A",
+      "exam_date": "N/A",
+      "category": "Lab_Exam",
+      "canonical_name": "2019-2020_Lab_Final",
+      "rel_pdf_path": "08_CSE-3210_Simulation_and_Modeling_Lab/Lab_Exam/2019-2020_Lab_Final.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/08_CSE-3210_Simulation_and_Modeling_Lab/Lab_Exam/2019-2020_Lab_Final.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "911",
+      "course_code": "CSE-3212",
+      "course_name": "Mobile Application Development Lab",
+      "credits": 1.5,
+      "course_dir": "09_CSE-3212_Mobile_Application_Development_Lab",
+      "session": "2021-2022",
+      "exam_type": "Lab Final",
+      "teacher": "Md.rahat",
+      "exam_date": "Sept. 24, 2026",
+      "category": "Lab_Exam",
+      "canonical_name": "2021-2022_Lab_Final_Md_rahat",
+      "rel_pdf_path": "09_CSE-3212_Mobile_Application_Development_Lab/Lab_Exam/2021-2022_Lab_Final_Md_rahat.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/09_CSE-3212_Mobile_Application_Development_Lab/Lab_Exam/2021-2022_Lab_Final_Md_rahat.pdf",
+      "has_transcription": false,
+      "has_pdf_text": false,
+      "transcription": "",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    },
+    {
+      "id": "733",
+      "course_code": "CSE-3212",
+      "course_name": "Mobile Application Development Lab",
+      "credits": 1.5,
+      "course_dir": "09_CSE-3212_Mobile_Application_Development_Lab",
+      "session": "2020-2021",
+      "exam_type": "Lab Final",
+      "teacher": "Dr. Rahat Hossain Faisal",
+      "exam_date": "March 1, 2025",
+      "category": "Lab_Exam",
+      "canonical_name": "2020-2021_Lab_Final_Dr_Rahat_Hossain_Faisal",
+      "rel_pdf_path": "09_CSE-3212_Mobile_Application_Development_Lab/Lab_Exam/2020-2021_Lab_Final_Dr_Rahat_Hossain_Faisal.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/09_CSE-3212_Mobile_Application_Development_Lab/Lab_Exam/2020-2021_Lab_Final_Dr_Rahat_Hossain_Faisal.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Lab Final Exam | Semester: 6th**\n\n- **Course:** Course Title: Mobile Application Development Lab. (CSE-3212)\n- **Session:** 20-21\n- **Time:** 180 minutes | **Full Marks:** 60.00\n- **Course Teacher:** Dr. Rahat Hossain Faisal\n\n---\n> *Part-01 (Theory) | Time: 1 Hour | Full Marks: 25*\n\n---\n\n### 1. \n\n**a)** What will be the error/output? Why is this layout failing?\n\n**b)** How would you fix it so the two inner Rows are shown side-by-side? Write one fixed snippet\n\n---\n\n---\n\n### 2. \n\n**a)** Why doesn&#39;t the number on the screen update?\n\n**b)** Show/explain the two key changes to fix it.\n\n---\n\n---\n\n### 3. \n\n**a)** Which keyword is missing in the function signature?\n\n**b)** After fixing, what is the function&#39;s return type?\n\n---\n\n---\n\n### 4. \n\n**a)** When will you use SingleChildScrollView?\n\n---\n\n---\n\n### 5. \n\n**a)** Write the exact console order with timing.\n\n---\n\n---\n\n### 6. \n\n**a)** Dart type of the whole object?\n\n**b)** Dart type of &quot;elements&quot;?\n\n---\n\n---\n\n### 7. \n\n**a)** You are updating a user&#39;s profile. When would you use the PUT method, and when would you use the PATCH method? In Dart , what is the key difference between a List and a Map ?&nbsp;\n\n---\n\n---\n\n### 8. \n\n**a)** Give one technical advantage of Native (Kotlin/Swift) and one business advantage of Flutter.\n\n---\n\n---\n\n### 9. \n\n**a)** Explain the key difference between FutureBuilder and StreamBuilder . Provide one clear, practical scenario for each.\n\n---\n\n---\n\n### 10. \n\n**a)** Make child1 take 35 percent , and child2 take 65 percent in a Row (write the minimal widget structure code).\n\n---\n\n---\n\n### 11. \n\n**a)** Why is this happening?\n\n**b)** Where is the correct lifecycle method to place this function so it only runs once?\n\n---\n\n---\n\n### 12. \n\n**a)** Which State lifecycle method is called only once when the widget is first inserted into the tree?\n\n---\n\n---\n\n### 13. \n\n**a)** In the Getx architecture, what is Dependency Injection?\n\n---\n\n---\n\n### 14. \n\n**a)** What is the primary purpose of the dispose() method in a State object? &nbsp;\n\n---\n\n---\n\n### 15. \n\n**a)** Develop a mobile app using any frameworks/language complying with the following instructions,\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [
+        "UI & Navigation"
+      ],
+      "topic_details": [
+        {
+          "topic": "UI & Navigation",
+          "matched_keyword": "layout"
+        }
+      ]
+    },
+    {
+      "id": "267",
+      "course_code": "CSE-3212",
+      "course_name": "Mobile Application Development Lab",
+      "credits": 1.5,
+      "course_dir": "09_CSE-3212_Mobile_Application_Development_Lab",
+      "session": "2018-2019",
+      "exam_type": "Class Test",
+      "teacher": "Md. Erfan",
+      "exam_date": "N/A",
+      "category": "Class_Test",
+      "canonical_name": "2018-2019_Class_Test_Md_Erfan",
+      "rel_pdf_path": "09_CSE-3212_Mobile_Application_Development_Lab/Class_Test/2018-2019_Class_Test_Md_Erfan.pdf",
+      "abs_pdf_path": "/home/iamfreak/Downloads/6th/Questions/09_CSE-3212_Mobile_Application_Development_Lab/Class_Test/2018-2019_Class_Test_Md_Erfan.pdf",
+      "has_transcription": true,
+      "has_pdf_text": false,
+      "transcription": "# University of Barishal\n### Department of Computer Science and Engineering\n**Class Test Exam | Semester: 6th**\n\n- **Course:** Course Title: Mobile Application Development Lab. (CSE-3212)\n- **Session:** 18-19\n- **Time:** N/A | **Full Marks:** N/A\n- **Course Teacher:** Md. Erfan\n\n---\n---\n\n### 1. \n\n**a)** Design an API for retrieving the list of doctors.\n\n**b)** Design a Search API for retrieving the list of doctors based on specific criteria.\n\n---\n\n---\n\n---\n\n---\n\n- \n\n- \n\n---\n\n---\n\n---\n\n---\n\n",
+      "pdf_text": "",
+      "topics": [],
+      "topic_details": []
+    }
+  ]
+}

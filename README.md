@@ -72,6 +72,20 @@ Questions/
 
 ---
 
+## 🤖 AI Agent Skills & Tools
+
+The repository includes a suite of specialized agent skills and CLI tools in [`.agents/skills/`](.agents/skills/) to analyze questions, search topics, and inspect PDFs:
+
+| Skill | Purpose | CLI Command Example |
+| :--- | :--- | :--- |
+| **`search-topics`** | Search questions across all courses by concept, theorem, algorithm, or keyword | `python3 .agents/skills/search-topics/scripts/search_topics.py "pumping lemma"` |
+| **`analyze-questions`** | Analyze topic frequencies, recurring patterns, and teacher styles | `python3 .agents/skills/analyze-questions/scripts/analyze_questions.py --course CSE-3203` |
+| **`inspect-exam-pdf`** | Quickly locate and inspect question paper PDFs, pages, and metadata | `python3 .agents/skills/inspect-exam-pdf/scripts/locate_paper.py --course CSE-3207` |
+
+See [`AGENTS.md`](AGENTS.md) for full AI agent integration guidelines.
+
+---
+
 ## 🚀 How to Use & Push to GitHub
 
 ### 1. Initialize and Push to GitHub:
