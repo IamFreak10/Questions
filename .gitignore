@@ -18,3 +18,8 @@ __pycache__/
 *.pyc
 *.tmp
 *.log
+
+# User Study Guides & Notes (Ignored from GitHub)
+05_CSE-3207_Peripherals_and_Interfacing/Keyboard_Mouse_Printer_Questions_2018-19.md
+*Keyboard_Mouse_Printer*
+
