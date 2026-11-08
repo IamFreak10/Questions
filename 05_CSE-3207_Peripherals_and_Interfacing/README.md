@@ -14,6 +14,7 @@
 
 ## 📚 Study Guides & Topic Analysis
 
+- 📋 [Keyboard, Mouse & Printer Exam Questions Only (2016–2022)](Keyboard_Mouse_Printer_Exam_Questions_Only.md)
 - 📘 [Keyboard, Mouse & Printer New-Generation Question Analysis (2016–2022)](Keyboard_Mouse_Printer_Question_Analysis.md)
 - 📙 [Keyboard, Mouse & Printer Master Preparation Guide (2018 to Latest)](Keyboard_Mouse_Printer_Questions_2018_to_Latest.md)
 - 📕 [Midterm Exam Preparation Guide (Session 2022–2023)](MID%20preparation%202022-23.md)
