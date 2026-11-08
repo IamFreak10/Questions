@@ -175,3 +175,4 @@ Under Dr. Tania Islam, modern question sets in CSE-3207 end with a 4-mark scenar
 
 3. **High-Volume Production Printing (2021–22 Final Q4(c)):**
    - **Publishing House (Thousands of pages/day):** Industrial/Enterprise High-Speed Laser Printer or Digital Press (40–70+ PPM, heavy duty cycle 50k–100k+ pages/month, electrophotographic toner with ultra-low per-page consumable cost, zero smudging).
+
