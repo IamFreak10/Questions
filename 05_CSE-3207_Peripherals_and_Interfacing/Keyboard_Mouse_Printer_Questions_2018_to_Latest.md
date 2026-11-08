@@ -1,64 +1,80 @@
-# CSE-3207: Peripherals & Interfacing — Keyboard, Mouse & Printer Master Guide (2018 to Latest Exams)
+# CSE-3207: Peripherals & Interfacing — Keyboard, Mouse & Printer Master Guide (All Previous Years: 2016–2022)
 
 > **Department of Computer Science and Engineering, University of Barishal**  
-> **Course Code:** CSE-3207 &bull; **Course Title:** Peripherals and Interfacing &bull; **Credits:** 3.0  
-> **Coverage Period:** Academic Sessions **2018–2019 through 2021–2022 (Latest in Archive)**  
-> **Course Teacher / Primary Examiner:** Dr. Tania Islam  
-> **Target Topics:** **Keyboard**, **Mouse / Pointing Devices**, **Printer (Interfacing & Technologies)**  
+> **Course Code:** CSE-3207 (Formerly CSE-3101) &bull; **Course Title:** Peripherals and Interfacing &bull; **Credits:** 3.0  
+> **Coverage Period:** Academic Sessions **2016–2017 through 2021–2022 (All Archived Years in Repository)**  
+> **Primary Examiner:** Dr. Tania Islam  
+> **Target Topics:** **Keyboard**, **Mouse / Pointing Devices**, **Printer (Interfacing & Technologies)** ONLY  
 >
 > **Source Exam Papers Referenced:**
-> 1. [2018–2019 Mid Term-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_1st_Mid.pdf#page=1)
-> 2. [2018–2019 Mid Term-II](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_2nd_Mid.pdf#page=1)
-> 3. [2018–2019 Final Exam](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1)
-> 4. [2019–2020 Mid Term-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1)
-> 5. [2019–2020 Final Exam](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1)
-> 6. [2020–2021 Final Exam](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2020-2021_Final_Dr_Tania_Islam.pdf#page=1)
-> 7. [2021–2022 Mid Term-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf#page=1)
-> 8. [2021–2022 Final Exam](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1)
+> 1. [2016–2017 Final Exam](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2016-2017_Final.pdf#page=1)
+> 2. [2017–2018 Final Exam](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1)
+> 3. [2018–2019 Mid Term-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_1st_Mid.pdf#page=1)
+> 4. [2018–2019 Mid Term-II](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_2nd_Mid.pdf#page=1)
+> 5. [2018–2019 Final Exam](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1)
+> 6. [2019–2020 Mid Term-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1)
+> 7. [2019–2020 Final Exam](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1)
+> 8. [2020–2021 Final Exam](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2020-2021_Final_Dr_Tania_Islam.pdf#page=1)
+> 9. [2021–2022 Mid Term-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf#page=1)
+> 10. [2021–2022 Final Exam](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1)
 
 ---
 
-## 📑 Master Historical Question Matrix (2018 – 2022)
+## 📑 Master Historical Question Matrix (2016 – 2022)
 
-The following table indexes **every question** concerning **Keyboard**, **Mouse**, and **Printer** from 2018 to the latest available exams:
+The following table indexes **every question** concerning **Keyboard**, **Mouse**, and **Printer** across all previous examination years in the repository:
 
-| Session | Exam Type | Q# | Topic | Question Text | Marks | Source Link |
-| :--- | :--- | :---: | :--- | :--- | :---: | :--- |
-| **2018–19** | Mid-I | **Q1** | Keyboard | *Draw and Define the membrane keyboard layers.* | 4 | [2018-19 Mid-I: Q1](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_1st_Mid.pdf#page=1) |
-| **2018–19** | Mid-I | **Q4** | Mouse | *Write down the benefits and the limitations of optical mice over mechanical mice.* | 4 | [2018-19 Mid-I: Q4](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_1st_Mid.pdf#page=1) |
-| **2018–19** | Mid-II | **Q1** | Printer | *Write down the functions of the printer.* | 5 | [2018-19 Mid-II: Q1](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_2nd_Mid.pdf#page=1) |
-| **2018–19** | Mid-II | **Q2** | Printer | *Describe the types of the printer and the differences among them.* | 5 | [2018-19 Mid-II: Q2](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_2nd_Mid.pdf#page=1) |
-| **2018–19** | Final | **Q3 (a)** | Mouse | *What do you mean by the accuracy of an optical mouse? Describe the factors that affect the quality of an optical mouse.* | 5 | [2018-19 Final: Q3(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2018–19** | Final | **Q3 (b)** | Mouse | *Write short notes on: i. Polling rate ii. Refresh rate* | 4 | [2018-19 Final: Q3(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2018–19** | Final | **Q3 (c)** | Mouse | *Can a mouse's sensitivity (DPI) be adjusted, and why might someone want to change it?* | 3 | [2018-19 Final: Q3(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2018–19** | Final | **Q5 (c)** | Printer | *Describe the functions of the signals BUSY, PAPER, #ERROR, #INI and #STR of the parallel printer.* | 5 | [2018-19 Final: Q5(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2018–19** | Final | **Q7 (a)** | Printer | *Define printer. What are the basic technologies of Printer?* | 4 | [2018-19 Final: Q7(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2018–19** | Final | **Q7 (b)** | Printer | *Briefly explain the inkjet printer printing process.* | 4 | [2018-19 Final: Q7(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2018–19** | Final | **Q7 (c)** | Printer | *Why Laser printer is so popular over other printers?* | 4 | [2018-19 Final: Q7(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2018–19** | Final | **Q8 (a)** | Keyboard | *Write short notes on the Hall effect keyboard.* | 4 | [2018-19 Final: Q8(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2018–19** | Final | **Q8 (b)** | Keyboard | *Write down the difference between laser keyboard and dome switch keyboard.* | 4 | [2018-19 Final: Q8(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2018–19** | Final | **Q8 (c)** | Keyboard | *What is hall effect keyboard? Write down the working principle of these keyboard.* | 4 | [2018-19 Final: Q8(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2019–20** | Mid-I | **Q1** | Keyboard | *What is keyboard interfacing. What is scanning in keyboard and what is scan time?* | 5 | [2019-20 Mid-I: Q1](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1) |
-| **2019–20** | Mid-I | **Q2** | Keyboard | *What is Key bouncing? How a keyboard matrix is formed in keyboard interface?* | 5 | [2019-20 Mid-I: Q2](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1) |
-| **2019–20** | Mid-I | **Q3** | Mouse | *What do you mean by the accuracy of an optical mouse? Describe the factors that affect the quality of an optical mouse.* | 5 | [2019-20 Mid-I: Q3](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1) |
-| **2019–20** | Mid-I | **Q4** | Mouse | *Write short notes on: a) Polling rate b) Refresh rate* | 5 | [2019-20 Mid-I: Q4](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1) |
-| **2019–20** | Final | **Q3 (a)** | Mouse | *What do you mean by the accuracy of an optical mouse? Describe the factors that affect the quality of an optical mouse.* | 4 | [2019-20 Final: Q3(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2019–20** | Final | **Q3 (b)** | Mouse | *Write short notes on: i. Polling rate ii. Refresh rate* | 4 | [2019-20 Final: Q3(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2019–20** | Final | **Q3 (c)** | Mouse | *Can a mouse's sensitivity (DPI) be adjusted, and why might someone want to change it?* | 4 | [2019-20 Final: Q3(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2019–20** | Final | **Q8 (a)** | Keyboard | *Write short notes on the Hall effect keyboard.* | 4 | [2019-20 Final: Q8(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2019–20** | Final | **Q8 (b)** | Keyboard | *Write down the difference between laser keyboard and dome switch keyboard.* | 4 | [2019-20 Final: Q8(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2019–20** | Final | **Q8 (c)** | Keyboard | *Discuss the impact of proper keyboard ergonomics on user productivity and health. What are some key ergonomic tips for reducing strain when using a keyboard for long periods?* | 4 | [2019-20 Final: Q8(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2021–22** | Mid-I | **Q1 (b)** | Keyboard | *Describe how a keyboard is interfaced with a computer. Mention at least two types of keyboards (e.g., membrane, mechanical) and their basic principle difference. Explain the steps from pressing a key to the CPU receiving the data.* | 7 | [2021-22 Mid-I: Q1(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf#page=1) |
-| **2021–22** | Mid-I | **Q1 (c)** | Mouse | *Describe how a mouse is connected to a computer system. Mention at least two types of mice (e.g., optical, mechanical/ball) and the principle of how they detect movement. Explain what types of data the mouse sends to the CPU.* | 6 | [2021-22 Mid-I: Q1(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf#page=1) |
-| **2021–22** | Final | **Q2 (a)** | Keyboard | *Describe the working principle of a keyboard. Explain how a key press is detected using the keyboard matrix concept.* | 4 | [2021-22 Final: Q2(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2021–22** | Final | **Q2 (b)** | Keyboard | *Compare membrane, mechanical, and wireless keyboards. Discuss advantages, disadvantages, and applications.* | 4 | [2021-22 Final: Q2(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2021–22** | Final | **Q2 (c)** | Keyboard | *A software company has programmers, graphic designers, and data-entry operators. Recommend suitable keyboards for each and justify your answer.* | 4 | [2021-22 Final: Q2(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2021–22** | Final | **Q3 (a)** | Mouse | *Explain the working principle of an optical mouse. How does it detect movement compared with a mechanical mouse?* | 4 | [2021-22 Final: Q3(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2021–22** | Final | **Q3 (b)** | Mouse | *Differentiate among laser, optical, and wireless mice in terms of accuracy, power consumption, cost, and applications.* | 4 | [2021-22 Final: Q3(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2021–22** | Final | **Q3 (c)** | Mouse | *A hospital wants computers in operating rooms where hygiene is important. Recommend suitable pointing devices and justify your answer.* | 4 | [2021-22 Final: Q3(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2021–22** | Final | **Q4 (a)** | Printer | *Explain the working principles of Inkjet Printer and Laser Printer with neat diagrams.* | 4 | [2021-22 Final: Q4(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2021–22** | Final | **Q4 (b)** | Printer | *Compare Inkjet, Laser, and Dot Matrix printers using printing speed, print quality, cost per page, maintenance, and applications.* | 4 | [2021-22 Final: Q4(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
-| **2021–22** | Final | **Q4 (c)** | Printer | *Recommend a printer for a publishing company that prints thousands of pages daily. Justify your answer.* | 4 | [2021-22 Final: Q4(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
+| Session | Exam Type | Q# | Topic | Exact Question Text as Given | Marks | Source Link |
+| :---: | :---: | :---: | :---: | :--- | :---: | :--- |
+| **2016–17** | Final | **Q5 (b)** | Printer | *Make comparative discussion about laser printer and dot matrix printer.* | 4 | [2016-17 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2016-2017_Final.pdf#page=1) |
+| **2016–17** | Final | **Q6 (c)** | Mouse | *How does work Bluetooth mouse and wireless mouse?* | 4 | [2016-17 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2016-2017_Final.pdf#page=1) |
+| **2016–17** | Final | **Q6 (d)** | Keyboard | *Write short notes on the Hall effect keyboard.* | 2 | [2016-17 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2016-2017_Final.pdf#page=1) |
+| **2016–17** | Final | **Q8 (a)** | Printer | *Define printer. What are the basic technologies of Printer?* | 4 | [2016-17 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2016-2017_Final.pdf#page=1) |
+| **2016–17** | Final | **Q8 (b)** | Printer | *Briefly explain the inkjet printer printing process.* | 4 | [2016-17 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2016-2017_Final.pdf#page=1) |
+| **2017–18** | Final | **Q1 (b)** | Keyboard | *What do you know about keyboard? Briefly explain the basic working principles of keyboard?* | 6 | [2017-18 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1) |
+| **2017–18** | Final | **Q1 (c)** | Keyboard | *Write short notes on the Hall effect keyboard.* | 3 | [2017-18 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1) |
+| **2017–18** | Final | **Q2 (c)** | Mouse | *Write down the benefits and the limitations of optical mice over mechanical mice.* | 3 | [2017-18 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1) |
+| **2017–18** | Final | **Q5 (c)** | Mouse | *How does computer mouse work?* | 4 | [2017-18 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1) |
+| **2017–18** | Final | **Q7 (a)** | Printer | *Define printer. What are the basic technologies of Printer?* | 3 | [2017-18 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1) |
+| **2017–18** | Final | **Q7 (b)** | Printer | *i. What are the color schemes in printing? ii. How does plotter enhance printing?* | 3 | [2017-18 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1) |
+| **2017–18** | Final | **Q7 (c)** | Printer | *Briefly explain the inkjet printer printing process.* | 3 | [2017-18 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1) |
+| **2017–18** | Final | **Q7 (d)** | Printer | *Differentiate between Dot matrix printing and Laser printing.* | 3 | [2017-18 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1) |
+| **2018–19** | Mid-I | **Q1** | Keyboard | *Draw and Define the membrane keyboard layers.* | 4 | [2018-19 Mid-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_1st_Mid.pdf#page=1) |
+| **2018–19** | Mid-I | **Q4** | Mouse | *Write down the benefits and the limitations of optical mice over mechanical mice.* | 4 | [2018-19 Mid-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_1st_Mid.pdf#page=1) |
+| **2018–19** | Mid-II | **Q1** | Printer | *Write down the functions of the printer.* | 5 | [2018-19 Mid-II](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_2nd_Mid.pdf#page=1) |
+| **2018–19** | Mid-II | **Q2** | Printer | *Describe the types of the printer and the differences among them* | 5 | [2018-19 Mid-II](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_2nd_Mid.pdf#page=1) |
+| **2018–19** | Final | **Q3 (a)** | Mouse | *What do you mean by the accuracy of an optical mouse? Describe the factors that affect the quality of an optical mouse.* | 5 | [2018-19 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2018–19** | Final | **Q3 (b)** | Mouse | *Write short notes on: i. Polling rate ii. Refresh rate* | 4 | [2018-19 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2018–19** | Final | **Q3 (c)** | Mouse | *Can a mouse's sensitivity (DPI) be adjusted, and why might someone want to change it?* | 3 | [2018-19 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2018–19** | Final | **Q5 (c)** | Printer | *Describe the functions of the signals BUSY, PAPER, #ERROR, #INI and #STR of the parallel printer.* | 5 | [2018-19 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2018–19** | Final | **Q7 (a)** | Printer | *Define printer. What are the basic technologies of Printer?* | 4 | [2018-19 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2018–19** | Final | **Q7 (b)** | Printer | *Briefly explain the inkjet printer printing process.* | 4 | [2018-19 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2018–19** | Final | **Q7 (c)** | Printer | *Why Laser printer is so popular over other printers?* | 4 | [2018-19 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2018–19** | Final | **Q8 (a)** | Keyboard | *Write short notes on the Hall effect keyboard.* | 4 | [2018-19 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2018–19** | Final | **Q8 (b)** | Keyboard | *Write down the difference between laser keyboard and dome switch keyboard* | 4 | [2018-19 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2018–19** | Final | **Q8 (c)** | Keyboard | *What is hall effect keyboard? Write down the working principle of these keyboard.* | 4 | [2018-19 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2019–20** | Mid-I | **Q1** | Keyboard | *What is keyboard interfacing. What is scanning in keyboard and what is scan time?* | 5 | [2019-20 Mid-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1) |
+| **2019–20** | Mid-I | **Q2** | Keyboard | *. What is Key bouncing? How a keyboard matrix is formed in keyboard interface ?* | 5 | [2019-20 Mid-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1) |
+| **2019–20** | Mid-I | **Q3** | Mouse | *What do you mean by the accuracy of an optical mouse? Describe the factors that affect the quality of an optical mouse.* | 5 | [2019-20 Mid-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1) |
+| **2019–20** | Mid-I | **Q4** | Mouse | *Write short notes on: a) Polling rate b) Refresh rate* | 5 | [2019-20 Mid-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1) |
+| **2019–20** | Final | **Q3 (a)** | Mouse | *What do you mean by the accuracy of an optical mouse? Describe the factors that affect the quality of an optical mouse.* | 4 | [2019-20 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2019–20** | Final | **Q3 (b)** | Mouse | *Write short notes on: i. Polling rate ii. Refresh rate* | 4 | [2019-20 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2019–20** | Final | **Q3 (c)** | Mouse | *Can a mouse's sensitivity (DPI) be adjusted, and why might someone want to change it?* | 4 | [2019-20 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2019–20** | Final | **Q8 (a)** | Keyboard | *Write short notes on the Hall effect keyboard.* | 4 | [2019-20 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2019–20** | Final | **Q8 (b)** | Keyboard | *Write down the difference between laser keyboard and dome switch keyboard* | 4 | [2019-20 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2019–20** | Final | **Q8 (c)** | Keyboard | *Discuss the impact of proper keyboard ergonomics on user productivity and health. What are some key ergonomic tips for reducing strain when using a keyboard for long periodspp?* | 4 | [2019-20 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2020–21** | Final | **Q2 (a)** | Keyboard | *Explain what Bluetooth technology is, how it connects devices wirelessly, and give examples (headphones, keyboards, file transfer between mobiles).* | 2 | [2020-21 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2020-2021_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2021–22** | Mid-I | **Q1 (b)** | Keyboard | *Describe how a keyboard is interfaced with a computer. Mention at least two types of keyboards (e.g., membrane, mechanical) and their basic principle difference. Explain the steps from pressing a key to the CPU receiving the data.* | 7 | [2021-22 Mid-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf#page=1) |
+| **2021–22** | Mid-I | **Q1 (c)** | Mouse | *Describe how a mouse is connected to a computer system. Mention at least two types of mice (e.g., optical, mechanical/ball) and the principle of how they detect movement. Explain what types of data the mouse sends to the CPU.* | 6 | [2021-22 Mid-I](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf#page=1) |
+| **2021–22** | Final | **Q2 (a)** | Keyboard | *Describe the working principle of a keyboard. Explain how a key press is detected using the keyboard matrix concept.* | 4 | [2021-22 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2021–22** | Final | **Q2 (b)** | Keyboard | *Compare membrane, mechanical, and wireless keyboards. Discuss advantages, disadvantages, and applications.* | 4 | [2021-22 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2021–22** | Final | **Q2 (c)** | Keyboard | *A software company has programmers, graphic designers, and data-entry operators. Recommend suitable keyboards for each and justify your answer.* | 4 | [2021-22 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2021–22** | Final | **Q3 (a)** | Mouse | *Explain the working principle of an optical mouse. How does it detect movement compared with a mechanical mouse?* | 4 | [2021-22 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2021–22** | Final | **Q3 (b)** | Mouse | *Differentiate among laser, optical, and wireless mice in terms of accuracy, power consumption, cost, and applications.* | 4 | [2021-22 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2021–22** | Final | **Q3 (c)** | Mouse | *A hospital wants computers in operating rooms where hygiene is important. Recommend suitable pointing devices and justify your answer.* | 4 | [2021-22 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2021–22** | Final | **Q4 (a)** | Printer | *Explain the working principles of Inkjet Printer and Laser Printer with neat diagrams.* | 4 | [2021-22 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2021–22** | Final | **Q4 (b)** | Printer | *Compare Inkjet, Laser, and Dot Matrix printers using printing speed, print quality, cost per page, maintenance, and applications.* | 4 | [2021-22 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
+| **2021–22** | Final | **Q4 (c)** | Printer | *Recommend a printer for a publishing company that prints thousands of pages daily. Justify your answer.* | 4 | [2021-22 Final](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1) |
 
 ---
 
@@ -67,7 +83,7 @@ The following table indexes **every question** concerning **Keyboard**, **Mouse*
 ---
 
 ### Topic 1.1: Keyboard Interfacing, Matrix Scanning & Key Press Detection
-* **Tested In:** [2019-20 Mid-I: Q1, Q2](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1), [2021-22 Mid-I: Q1(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf#page=1), [2021-22 Final: Q2(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1)
+* **Tested In:** [2017-18 Final: Q1(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1), [2019-20 Mid-I: Q1, Q2](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1), [2021-22 Mid-I: Q1(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf#page=1), [2021-22 Final: Q2(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1)
 
 #### 1. What is Keyboard Interfacing?
 **Keyboard interfacing** is the hardware and software communication mechanism that links a physical keyboard matrix to a host microcomputer system. It encompasses:
@@ -173,15 +189,15 @@ Debounced Clean Signal: 1 --------------\_____ 0 (Stable latch)
 +-------------------------------------------------------------+
 ```
 
-1. **Top Membrane Layer:** Flexible polyester sheet with conductive electrical circuit traces (printed with conductive silver ink) on its bottom face.
-2. **Spacer Layer:** Dielectric insulation sheet with circular cutouts under each key. Keeps the top and bottom layers normally separated by an air gap.
-3. **Bottom Membrane Layer:** Stationary polyester sheet with complementary conductive circuit traces printed on its top face, resting on a rigid backplate.
-4. **Operation:** Key depression collapses the rubber dome, pushing the top membrane through the hole to contact the bottom membrane, completing the electrical circuit.
+1. **Top Flexible Membrane Layer:** Flexible plastic film with printed conductive silver/carbon traces facing downwards.
+2. **Spacer Layer:** Non-conductive insulating sheet with holes directly beneath each key. It keeps top and bottom traces separated by a microscopic air gap when at rest.
+3. **Bottom Stationary Membrane Layer:** Fixed plastic film with conductive matrix traces facing upwards toward the spacer holes.
+4. **Working Principle:** When pressed, the key plunger pushes the flexible top trace through the spacer hole into direct electrical contact with the bottom trace, completing the circuit at that row-column junction.
 
 ---
 
 ### Topic 1.3: Hall Effect Keyboard — Working Principle & Features
-* **Tested In:** [2018-19 Final: Q8(a), Q8(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1), [2019-20 Final: Q8(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1)
+* **Tested In:** [2016-17 Final: Q6(d)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2016-2017_Final.pdf#page=1), [2017-18 Final: Q1(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1), [2018-19 Final: Q8(a), Q8(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1), [2019-20 Final: Q8(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1)
 
 - **Definition:** A contactless keyboard switch utilizing the **Hall Effect** (Edwin Hall, 1879) where key actuation is sensed via magnetic field variations rather than physical metal-on-metal electrical contact.
 - **Physical Law:** When current $I$ passes through a semiconductor slab in a perpendicular magnetic field $B$, the Lorentz force $\vec{F} = q(\vec{v} \times \vec{B})$ creates a transverse Hall voltage:
@@ -239,18 +255,31 @@ Debounced Clean Signal: 1 --------------\_____ 0 (Stable latch)
 
 ---
 
+### Topic 1.7: Bluetooth Wireless Keyboard Connection
+* **Tested In:** [2020-21 Final: Q2(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2020-2021_Final_Dr_Tania_Islam.pdf#page=1)
+
+- **Bluetooth Technology:** A short-range 2.4 GHz ISM radio frequency standard utilizing Frequency-Hopping Spread Spectrum (FHSS) across 79 channels to connect devices without physical cables.
+- **Connection Workflow for Keyboards:**
+  1. *Inquiry & Advertising:* The keyboard enters pairing mode, broadcasting its device name and Bluetooth HID profile.
+  2. *Paging & Pairing:* Host PC detects the keyboard, exchanges cryptographic link keys via Secure Simple Pairing (SSP) or PIN entry.
+  3. *HID Channel Establishment:* L2CAP (Logical Link Control and Adaptation Protocol) opens a dedicated low-latency human interface channel.
+  4. *Data Transmission:* Keystroke scan codes are packaged into standard Bluetooth HID reports and streamed asynchronously to the host OS.
+
+---
+
 # SECTION 2: MOUSE & POINTING DEVICES — COMPLETE SOLUTIONS
 
 ---
 
 ### Topic 2.1: Working Principle: Optical Mice vs. Mechanical Mice
-* **Tested In:** [2018-19 Mid-I: Q4](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_1st_Mid.pdf#page=1), [2021-22 Mid-I: Q1(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf#page=1), [2021-22 Final: Q3(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1)
+* **Tested In:** [2017-18 Final: Q2(c), Q5(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1), [2018-19 Mid-I: Q4](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_1st_Mid.pdf#page=1), [2021-22 Mid-I: Q1(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf#page=1), [2021-22 Final: Q3(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1)
 
 #### 1. Mechanical (Ball) Mouse Principle:
 - Uses a heavy rubber-coated metal ball located in the base.
 - When rolled across a surface, the ball rotates two orthogonal cylindrical rollers placed at $90^\circ$ to each other ($X$-axis and $Y$-axis).
 - Each roller is coupled to a slotted circular encoder wheel.
-- An infrared LED shines light through the wheel slots onto a phototransistor detector (opto-isolator). As the slotted wheel spins, it interrupts the light beam, producing quadrature pulse signals that an internal counter translates into $\Delta X$ and $\Delta Y$ movement coordinates.
+- An infrared LED shines light through the wheel slots onto a phototransistor detector pair (opto-isolator).
+- **Quadrature Phase Encoding:** Two detectors placed with a $90^\circ$ phase offset produce two square wave signals ($A$ and $B$). The lead or lag between $A$ and $B$ reveals rotational direction (clockwise vs. counter-clockwise), while pulse counts represent velocity and distance.
 
 #### 2. Optical Mouse Principle:
 - An optical mouse is a solid-state optoelectronic device with **zero moving parts**.
@@ -276,7 +305,21 @@ MECHANICAL (BALL) MOUSE                   OPTICAL MOUSE
 
 ---
 
-### Topic 2.2: Accuracy & Factors Affecting Optical Mouse Quality
+### Topic 2.2: Wireless & Bluetooth Mouse Working Principles
+* **Tested In:** [2016-17 Final: Q6(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2016-2017_Final.pdf#page=1)
+
+- **2.4 GHz Proprietary RF Mouse:**
+  - Uses an internal radio transceiver operating on the unlicensed 2.4 GHz ISM band paired with a dedicated USB nano-dongle.
+  - Optical DSP displacement data $(\Delta X, \Delta Y)$ is packetized, modulated (typically GFSK - Gaussian Frequency Shift Keying), and transmitted over fixed or frequency-agile RF channels.
+  - Advantages: Plug-and-play without OS pairing configuration, ultra-low latency (1 ms / 1000 Hz polling rate).
+- **Bluetooth Mouse:**
+  - Connects directly to the host PC's built-in Bluetooth controller using the standard Human Interface Device (HID) over GATT or Classic profile.
+  - Advantages: Requires no USB dongle (preserves scarce laptop USB ports), easily paired across multiple devices (PC, tablet, phone).
+  - Limitations: Slightly higher latency (typically 8 ms / 125 Hz), vulnerable to 2.4 GHz Wi-Fi interference.
+
+---
+
+### Topic 2.3: Accuracy & Factors Affecting Optical Mouse Quality
 * **Tested In:** [2018-19 Final: Q3(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1), [2019-20 Mid-I: Q3](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1), [2019-20 Final: Q3(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1)
 
 - **Definition of Accuracy:** The degree of true fidelity between physical mouse travel across a surface and the resulting on-screen cursor displacement. An accurate mouse exhibits strict **1:1 tracking** without acceleration, angle prediction, pixel skipping, or software smoothing.
@@ -290,7 +333,7 @@ MECHANICAL (BALL) MOUSE                   OPTICAL MOUSE
 
 ---
 
-### Topic 2.3: Polling Rate vs. Refresh Rate
+### Topic 2.4: Polling Rate vs. Refresh Rate
 * **Tested In:** [2018-19 Final: Q3(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1), [2019-20 Mid-I: Q4](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2019-2020_1st_Mid.pdf#page=1), [2019-20 Final: Q3(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1)
 
 | Parameter | Polling Rate (Report Rate) | Refresh Rate (Sensor Frame Rate) |
@@ -303,7 +346,7 @@ MECHANICAL (BALL) MOUSE                   OPTICAL MOUSE
 
 ---
 
-### Topic 2.4: Mouse Sensitivity (DPI) Adjustment
+### Topic 2.5: Mouse Sensitivity (DPI) Adjustment
 * **Tested In:** [2018-19 Final: Q3(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1), [2019-20 Final: Q3(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2019-2020_Final_Dr_Tania_Islam.pdf#page=1)
 
 - **Can DPI be adjusted?** Yes, via dedicated hardware buttons behind the scroll wheel, software drivers (e.g., Razer Synapse, Logitech G HUB), or OS pointer settings.
@@ -314,7 +357,7 @@ MECHANICAL (BALL) MOUSE                   OPTICAL MOUSE
 
 ---
 
-### Topic 2.5: Comparison: Laser vs. Optical vs. Wireless Mice
+### Topic 2.6: Comparison: Laser vs. Optical vs. Wireless Mice
 * **Tested In:** [2021-22 Final: Q3(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1)
 
 | Parameter | Optical Mouse (LED) | Laser Mouse (VCSEL) | Wireless Mouse (RF / Bluetooth) |
@@ -328,7 +371,7 @@ MECHANICAL (BALL) MOUSE                   OPTICAL MOUSE
 
 ---
 
-### Topic 2.6: Data Packets Sent from Mouse to CPU
+### Topic 2.7: Data Packets Sent from Mouse to CPU
 * **Tested In:** [2021-22 Mid-I: Q1(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2021-2022_1st_Mid_Dr_Tania_Islam.pdf#page=1)
 
 Whenever movement or a button state change occurs, the mouse sends an encoded data packet (typically a **3-byte PS/2 packet** or **4-byte USB HID report**) to the CPU:
@@ -355,7 +398,7 @@ Whenever movement or a button state change occurs, the mouse sends an encoded da
 
 ---
 
-### Topic 2.7: Hospital Operating Room Pointing Devices
+### Topic 2.8: Hospital Operating Room Pointing Devices
 * **Tested In:** [2021-22 Final: Q3(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1)
 
 - **Environmental Constraints in Operating Theatres (OT):** Strict sterility requirements; exposure to blood, saline, iodine, and harsh chemical disinfectants; medical personnel wear surgical latex gloves.
@@ -374,7 +417,7 @@ Whenever movement or a button state change occurs, the mouse sends an encoded da
 ---
 
 ### Topic 3.1: Printer Functions & Basic Technologies
-* **Tested In:** [2018-19 Mid-II: Q1](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_2nd_Mid.pdf#page=1), [2018-19 Final: Q7(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1)
+* **Tested In:** [2016-17 Final: Q8(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2016-2017_Final.pdf#page=1), [2017-18 Final: Q7(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1), [2018-19 Mid-II: Q1](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_2nd_Mid.pdf#page=1), [2018-19 Final: Q7(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1)
 
 - **Definition of Printer:** An electromechanical output peripheral that converts digital text and graphic data processed by a computer into physical, permanent hard copies on paper or other physical substrates.
 - **Key Functions:**
@@ -391,8 +434,22 @@ Whenever movement or a button state change occurs, the mouse sends an encoded da
 
 ---
 
-### Topic 3.2: Comprehensive Comparison: Dot Matrix vs. Inkjet vs. Laser
-* **Tested In:** [2018-19 Mid-II: Q2](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_2nd_Mid.pdf#page=1), [2021-22 Final: Q4(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1)
+### Topic 3.2: Printing Color Schemes & Plotter Enhancement
+* **Tested In:** [2017-18 Final: Q7(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1)
+
+1. **Color Schemes in Printing (CMYK vs RGB):**
+   - Monitors use the **Additive RGB** color model (Red, Green, Blue emitting light to produce white).
+   - Printers use the **Subtractive CMYK** color model (Cyan, Magenta, Yellow, Key/Black).
+   - Inks act as optical filters: Cyan absorbs red light, Magenta absorbs green, and Yellow absorbs blue. Mixing all three theoretically produces black, but a dedicated **Black (Key)** cartridge is used to achieve rich true black, reduce paper saturation, and lower printing costs.
+2. **How Plotters Enhance Printing:**
+   - Standard raster printers print dot-by-dot in fixed horizontal swaths.
+   - **Plotters** draw continuous vector lines directly from CAD vector coordinate data using mechanized pens (or high-precision inkjet line heads).
+   - *Enhancements:* Unmatched line precision for architectural blueprints, engineering schematics, GIS topographical maps, and large-format media (A0, A1) without resolution pixelation or stair-stepping.
+
+---
+
+### Topic 3.3: Comprehensive Comparison: Dot Matrix vs. Inkjet vs. Laser
+* **Tested In:** [2016-17 Final: Q5(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2016-2017_Final.pdf#page=1), [2017-18 Final: Q7(d)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1), [2018-19 Mid-II: Q2](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Midterm/2018-2019_2nd_Mid.pdf#page=1), [2018-19 Final: Q7(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1), [2021-22 Final: Q4(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1)
 
 | Feature | Dot Matrix (Impact) | Inkjet (Non-Impact) | Laser (Non-Impact) |
 | :--- | :--- | :--- | :--- |
@@ -407,7 +464,7 @@ Whenever movement or a button state change occurs, the mouse sends an encoded da
 
 ---
 
-### Topic 3.3: Parallel Printer Signals & Centronics Handshaking
+### Topic 3.4: Parallel Printer Signals & Centronics Handshaking
 * **Tested In:** [2018-19 Final: Q5(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1)
 
 ```
@@ -435,8 +492,8 @@ HOST (PC)                                                  PARALLEL PRINTER
 
 ---
 
-### Topic 3.4: Working Principles: Inkjet vs. Laser Printers
-* **Tested In:** [2018-19 Final: Q7(b), Q7(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1), [2021-22 Final: Q4(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1)
+### Topic 3.5: Working Principles: Inkjet vs. Laser Printers
+* **Tested In:** [2016-17 Final: Q8(b)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2016-2017_Final.pdf#page=1), [2017-18 Final: Q7(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2017-2018_Final.pdf#page=1), [2018-19 Final: Q7(b), Q7(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2018-2019_Final_Dr_Tania_Islam.pdf#page=1), [2021-22 Final: Q4(a)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1)
 
 #### 1. Inkjet Printer Working Principle:
 - Operates via **Drop-on-Demand (DoD)** droplet ejection across two primary technologies:
@@ -493,7 +550,7 @@ PIEZOELECTRIC JET:
 
 ---
 
-### Topic 3.5: Enterprise Printer Recommendation (Publishing Company)
+### Topic 3.6: Enterprise Printer Recommendation (Publishing Company)
 * **Tested In:** [2021-22 Final: Q4(c)](file:///home/iamfreak/Downloads/6th/Questions/05_CSE-3207_Peripherals_and_Interfacing/Final/2021-2022_Final_Dr_Tania_Islam.pdf#page=1)
 
 - **Scenario:** A commercial publishing company printing thousands of document pages daily.
@@ -507,29 +564,30 @@ PIEZOELECTRIC JET:
 
 ---
 
-# SECTION 4: EXAM PREPARATION BLUEPRINT & TREND HEATMAP
+# SECTION 4: EXAM PREPARATION BLUEPRINT & TREND HEATMAP (2016–2022)
 
-### Topic Recurrence Heatmap (Dr. Tania Islam, 2018–2022)
+### Topic Recurrence Heatmap Across All Sessions
 
 ```
-TOPIC / QUESTION                         | 2018-19 | 2019-20 | 2020-21 | 2021-22 | PROBABILITY
------------------------------------------+---------+---------+---------+---------+------------
-Hall Effect Keyboard (Principle/Notes)   |  FINAL  |  FINAL  |    -    |    -    |   HIGH
-Keyboard Matrix Scanning & Key Bouncing  |    -    |  MID-I  |    -    | MID/FIN |  VERY HIGH
-Keyboard Comparison (Membrane vs Mech)   |  MID-I  |  FINAL  |    -    | MID/FIN |  VERY HIGH
-Role-Based Keyboard Recommendation       |    -    |    -    |    -    |  FINAL  |   HIGH
-Optical Mouse Accuracy & Quality Factors |  FINAL  | MID/FIN |    -    |    -    |  VERY HIGH
-Polling Rate vs. Refresh Rate            |  FINAL  | MID/FIN |    -    |    -    |  VERY HIGH
-Optical vs. Mechanical Mouse Working     |  MID-I  |    -    |    -    | MID/FIN |  VERY HIGH
-Specialized Pointing Devices (Hospital)  |    -    |    -    |    -    |  FINAL  |   HIGH
-Parallel Printer Signals (Centronics)    |  FINAL  |    -    |    -    |    -    |   MEDIUM
-Inkjet vs Laser Working Principles       |  FINAL  |    -    |    -    |  FINAL  |  VERY HIGH
-Dot Matrix vs Inkjet vs Laser Comparison |  MID-II |    -    |    -    |  FINAL  |  VERY HIGH
-High-Volume Printer Recommendation       |    -    |    -    |    -    |  FINAL  |   HIGH
+TOPIC / QUESTION                         | 16-17 | 17-18 | 18-19 | 19-20 | 20-21 | 21-22 | PROBABILITY
+-----------------------------------------+-------+-------+-------+-------+-------+-------+------------
+Hall Effect Keyboard (Principle/Notes)   | FINAL | FINAL | FINAL | FINAL |   -   |   -   |   HIGHEST
+Keyboard Matrix Scanning & Key Bouncing  |   -   | FINAL |   -   | MID-I |   -   | MID/FIN|  VERY HIGH
+Keyboard Comparison (Membrane vs Mech)   |   -   |   -   | MID-I | FINAL |   -   | MID/FIN|  VERY HIGH
+Role-Based Keyboard Recommendation       |   -   |   -   |   -   |   -   |   -   | FINAL |   HIGH
+Optical Mouse Accuracy & Quality Factors |   -   |   -   | FINAL | MID/FIN|  -   |   -   |  VERY HIGH
+Polling Rate vs. Refresh Rate            |   -   |   -   | FINAL | MID/FIN|  -   |   -   |  VERY HIGH
+Optical vs. Mechanical Mouse Working     |   -   | FINAL | MID-I |   -   |   -   | MID/FIN|  VERY HIGH
+Bluetooth / Wireless Mouse Working       | FINAL |   -   |   -   |   -   |   -   | FINAL |   HIGH
+Specialized Pointing Devices (Hospital)  |   -   |   -   |   -   |   -   |   -   | FINAL |   HIGH
+Parallel Printer Signals (Centronics)    |   -   |   -   | FINAL |   -   |   -   |   -   |   MEDIUM
+Inkjet vs Laser Working Principles       | FINAL | FINAL | FINAL |   -   |   -   | FINAL |  VERY HIGH
+Dot Matrix vs Inkjet vs Laser Comparison | FINAL | FINAL | MID-II|   -   |   -   | FINAL |  VERY HIGH
+Printing Color Schemes (CMYK) & Plotters |   -   | FINAL |   -   |   -   |   -   |   -   |   MEDIUM
+High-Volume Printer Recommendation       |   -   |   -   |   -   |   -   |   -   | FINAL |   HIGH
 ```
 
 ### 🎯 Key Observations for Exam Strategy:
-1. **Core Mechanical vs. Optical Distinction:** Expected across midterms and finals for both keyboards and mice. Always prepare side-by-side comparison tables.
-2. **Detailed Signal Handshakes:** When answering parallel printer questions, always specify **active-low vs. active-high** polarity and signal direction (Host &rarr; Printer or Printer &rarr; Host).
-3. **Application & Scenario Questions:** Since the 2021–2022 session, Dr. Tania Islam places strong emphasis on **justified recommendations** for specific real-world environments (e.g., hospital operating rooms, publishing houses, programming teams).
-
+1. **Core Mechanical vs. Optical Distinction:** Tested repeatedly across midterms and finals for both keyboards and mice. Always prepare side-by-side comparison tables.
+2. **Centronics Parallel Signals:** When describing Centronics signals, always state active-low vs. active-high logic and direction (Host &rarr; Printer or Printer &rarr; Host).
+3. **The 2021–2022 Scenario Shift:** Dr. Tania Islam now tests real-world application recommendations (Operating Room pointing devices, publishing house printers, software company keyboards). Memorize the specific technical justifications provided in Sections 1.6, 2.8, and 3.6!
