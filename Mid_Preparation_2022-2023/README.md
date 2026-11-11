@@ -22,16 +22,18 @@
 ## 🔍 Preparation Highlights by Course
 
 ### 1. [CSE-3203: Theory of Computation](02_CSE-3203_Theory_of_Computation/README.md) *(Dr. Md Manjur Ahmed)*
-* **Syllabus Focus:** Chapters 1–3 of Hopcroft, Motwani & Ullman (Automata Theory, Formal Proofs, DFA, NFA, $\epsilon$-NFA, Regular Expressions).
+* **Syllabus Focus:** Chapters 1–4 of Hopcroft, Motwani & Ullman (Automata Theory, Formal Proofs, DFA, NFA, $\epsilon$-NFA, Regular Expressions, Pumping Lemma, Closure Properties, Decision Properties, DFA Minimization).
 * **Guaranteed Topics:**
-  1. RE to $\epsilon$-NFA Thompson's construction: $(0+1)^*01(0+1)^*$ (10M)
-  2. $\epsilon$-NFA construction and elimination to DFA for $L = \{w \mid w \text{ is empty, or ends in } 01\}$ (10M)
-  3. Subset construction for 4-state NFA to DFA (10M)
-  4. Bad case of subset construction & Pigeonhole principle ($2^n$ state explosion) (8M)
-  5. NFA for "first symbol present somewhere later on at least once" (4–5M)
-  6. DFA for even number of 0s and even number of 1s (5–6M)
-  7. Regular language complement and finite union closure proofs (8–10M)
-  8. Mathematical induction ($2^x \ge x^2$) and formal proof definitions (Theorems, Lemmas, Corollaries) (6–8M)
+  1. DFA Minimization via Table-Filling Algorithm (Moore's Algorithm) for 8-state DFA (7M)
+  2. Pumping Lemma for Regular Languages & non-regularity proofs ($0^{n^2}$, $www$, primes) (3–6M)
+  3. Closure proofs ($\overline{L} = \Sigma^* - L$, finite union closure, inverse homomorphism) (8–13M)
+  4. RE to $\epsilon$-NFA Thompson's construction: $(0+1)^*01(0+1)^*$ (10M)
+  5. $\epsilon$-NFA construction and elimination to DFA for $L = \{w \mid w \text{ is empty, or ends in } 01\}$ (10M)
+  6. Subset construction for 4-state NFA to DFA (10M)
+  7. Bad case of subset construction & Pigeonhole principle ($2^n$ state explosion) (8M)
+  8. NFA for "first symbol present somewhere later on at least once" (4–5M)
+  9. DFA for even number of 0s and even number of 1s (5–6M)
+  10. Mathematical induction ($2^x \ge x^2$) and formal proof definitions (Theorems, Lemmas, Corollaries) (6–8M)
 
 ### 2. [CSE-3201: Mathematical Analysis](01_CSE-3201_Mathematical_Analysis_for_Computer_Science/README.md) *(Ahsanul Haque)*
 * **Syllabus Focus:** Stochastic processes, discrete & continuous parameter spaces, stationarity, Bernoulli & Poisson processes, Martingale property, random variables and probability distributions.
